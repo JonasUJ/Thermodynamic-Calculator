@@ -60,3 +60,17 @@ h2 {
     color: #0093c4;
     border: none;
 }
+
+.coefficient::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.coefficient {
+    -moz-appearance: textfield;
+    appearance: textfield;
+    margin: 0;
+}
+
+input:invalid {
+    background-color: rgb(253, 226, 226);
+}
