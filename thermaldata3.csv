@@ -1,0 +1,2337 @@
+Cl4U,Uranium(IV) chloride,-1019.2,,-809.6,-930,,-786.6,197.1,,419
+Cl4V,Vanadium(IV) chloride,,-569.4,-525.5,,-503.7,-492.0,,255.0,362.4
+Cl4Zr,Zirconium(IV) chloride,-980.5,,,-889.9,,,181.6,,
+Cl5Nb,Niobium(V) chloride,-797.5,,-703.7,-683.2,,-646.0,210.5,,400.6
+Cl5P,Phosphorus(V) chloride,-443.5,,-374.9,,,-305.0,,,364.6
+Cl5Pa,Protactinium(V) chloride,-1145.0,,,-1034.0,,,238.0,,
+Cl5Ta,Tantalum(V) chloride,-859.0,,,,,,,,
+Cl6U,Uranium(VI) chloride,-1092.0,,-1013.0,-962.0,,-928.0,285.8,,431.0
+Cl6W,Tungsten(VI) chloride,-602.5,,-513.8,,,,,,
+Cm,Curium,0.0,,,,,,,,
+Co,Cobalt,0.0,,424.7,,,380.3,30.0,,179.5
+CoF2,Cobalt(II) fluoride,-692.0,,,-647.2,,,82.0,,
+CoH2O2,Cobalt(II) hydroxide,-539.7,,,-454.3,,,79.0,,
+CoI2,Cobalt(II) iodide,-88.7,,,,,,,,
+CoN2O6,Cobalt(II) nitrate,-420.5,,,,,,,,
+CoO,Cobalt(II) oxide,-237.9,,,-214.2,,,53.0,,
+CoO4S,Cobalt(II) sulfate,-888.3,,,-782.3,,,118.0,,
+CoS,Cobalt(II) sulfide,-82.8,,,,,,,,
+Co2S3,Cobalt(III) sulfide,-147.3,,,,,,,,
+Co3O4,"Cobalt(II,III) oxide",-891.0,,,-774.0,,,102.5,,
+Cr,Chromium,0.0,,396.6,,,351.8,23.8,,174.5
+CrF2,Chromium(II) fluoride,-778.0,,,,,,,,
+CrF3,Chromium(III) fluoride,-1159.0,,,-1088.0,,,93.9,,
+CrI2,Chromium(II) iodide,-156.9,,,,,,,,
+CrI3,Chromium(III) iodide,-205.0,,,,,,,,
+CrO2,Chromium(IV) oxide,-598.0,,,,,,,,
+CrO4Pb,Lead(II) chromate,-930.9,,,,,,,,
+Cr2FeO4,Chromium iron oxide,-1444.7,,,-1343.8,,,146.0,,
+Cr2O3,Chromium(III) oxide,-1139.7,,,-1058.1,,,81.2,,
+Cr3O4,"Chromium(II,III) oxide",-1531.0,,,,,,,,
+Cs,Cesium,0.0,,76.5,,,49.6,85.2,,175.6
+CsF,Cesium fluoride,-553.5,,,-525.5,,,92.8,,
+CsF2H,Cesium hydrogen fluoride,-923.8,,,-858.9,,,135.2,,
+CsH,Cesium hydride,-54.2,,,,,,,,
+CsHO,Cesium hydroxide,-417.2,,,,,,,,
+CsHO4S,Cesium hydrogen sulfate,-1158.1,,,,,,,,
+CsH2N,Cesium amide,-118.4,,,,,,,,
+CsI,Cesium iodide,-346.6,,,-340.6,,,123.1,,
+CsNO3,Cesium nitrate,-506.0,,,-406.5,,,155.2,,
+CsO2,Cesium superoxide,-286.2,,,,,,,,
+Cs2O,Cesium oxide,-345.8,,,-308.1,,,146.9,,
+Cs2O3S,Cesium sulfite,-1134.7,,,,,,,,
+Cs2O4S,Cesium sulfate,-1443.0,,,-1323.6,,,211.9,,
+Cs2S,Cesium sulfide,-359.8,,,,,,,,
+Cu,Copper,0.0,,337.4,,,297.7,33.2,,166.4
+CuH2O2,Copper(II) hydroxide,-449.8,,,,,,,,
+CuI,Copper(I) iodide,-67.8,,,-69.5,,,96.7,,
+CuN2O6,Copper(II) nitrate,-302.9,,,,,,,,
+CuO,Copper(II) oxide,-157.3,,,-129.7,,,42.6,,
+CuO4S,Copper(II) sulfate,-771.4,,,-662.2,,,109.2,,
+CuO4W,Copper(II) tungstate,-1105.0,,,,,,,,
+CuS,Copper(II) sulfide,-53.1,,,-53.6,,,66.5,,
+CuSe,Copper(II) selenide,-39.5,,,,,,,,
+Cu2,Dicopper,,,484.2,,,431.9,,,241.6
+Cu2O,Copper(I) oxide,-168.6,,,-146.0,,,93.1,,
+Cu2S,Copper(I) sulfide,-79.5,,,-86.2,,,120.9,,
+Dy,Dysprosium,0.0,,290.4,,,254.4,75.6,,196.6
+Dy2O3,Dysprosium(III) oxide,-1863.1,,,-1771.5,,,149.8,,
+Er,Erbium,0.0,,317.1,,,280.7,73.2,,195.6
+ErF3,Erbium fluoride,-1711.0,,,,,,,,
+Er2O3,Erbium oxide,-1897.9,,,-1808.7,,,155.6,,
+Es,Einsteinium,0.0,,,,,,,,
+Eu,Europium,0.0,,175.3,,,142.2,77.8,,188.8
+Eu2O3,Europium(III) oxide,-1651.4,,,-1556.8,,,146.0,,
+Eu3O4,"Europium(II,III) oxide",-2272.0,,,-2142.0,,,205.0,,
+F,Fluorine (atomic),,,79.4,,,62.3,,,158.8
+FGa,Gallium monofluoride,,,-251.9,,,,,,
+FGe,Germanium monofluoride,,,-33.4,,,,,,
+FGeH3,Fluorogermane,,,,,,,,,252.8
+FH,Hydrogen fluoride,,-299.8,-273.3,,,-275.4,,,173.8
+FH3Si,Fluorosilane,,,,,,,,,238.4
+FH4N,Ammonium fluoride,-464.0,,,-348.7,,,72.0,,
+FI,Iodine fluoride,,,-95.7,,,-118.5,,,236.2
+FIn,Indium monofluoride,,,-203.4,,,,,,
+FK,Potassium fluoride,-567.3,,,-537.8,,,66.6,,
+FLi,Lithium fluoride,-616.0,,,-587.7,,,35.7,,
+FNO,Nitrosyl fluoride,,,-66.5,,,-51.0,,,248.1
+FNO2,Nitryl fluoride,,,,,,,,,260.4
+FNS,Thionitrosyl fluoride (NSF),,,,,,,,,259.8
+FNa,Sodium fluoride,-576.6,,,-546.3,,,51.1,,
+FO,Fluorine monoxide,,,109.0,,,105.0,,,216.8
+FRb,Rubidium fluoride,-557.7,,,,,,,,
+FSi,Fluorosilylidyne,,,7.1,,,-24.3,,,225.8
+FTl,Thallium(I) fluoride,-324.7,,-182.4,,,,,,
+F2,Fluorine,,,0.0,,,,,,202.8
+F2Fe,Iron(II) fluoride,-711.3,,,-668.6,,,87.0,,
+F2HK,Potassium hydrogen fluoride,-927.7,,,-859.7,,,104.3,,
+F2HN,Difluoramine,,,,,,,,,252.8
+F2HNa,Sodium hydrogen fluoride,-920.3,,,-852.2,,,90.9,,
+F2Mg,Magnesium fluoride,-1124.2,,,-1071.1,,,57.2,,
+F2N,Difluoroamidogen,,,43.1,,,57.8,,,249.9
+F2N2,cis-Difluorodiazine,,,69.5,,,,,,
+F2N2,trans-Difluorodiazine,,,82.0,,,,,,
+F2Ni,Nickel(II) fluoride,-651.4,,,-604.1,,,73.6,,
+F2O,Fluorine monoxide,,,24.7,,,41.9,,,247.4
+F2OS,Thionyl fluoride,,,,,,,,,278.7
+F2O2,Fluorine dioxide,,,18.0,,,,,,
+F2O2S,Sulfuryl fluoride,,,,,,,,,284.0
+F2O2U,Uranyl fluoride,-1653.5,,,-1557.4,,,135.6,,
+F2Pb,Lead(II) fluoride,-664.0,,,-617.1,,,110.5,,
+F2Si,Difluorosilylene,,,-619.0,,,-628.0,,,252.7
+F2Sr,Strontium fluoride,-1216.3,,,-1164.8,,,82.1,,
+F2Zn,Zinc fluoride,-764.4,,,-713.3,,,73.7,,
+F3Ga,Gallium(III) fluoride,-1163.0,,,-1085.3,,,84.0,,
+F3Gd,Gadolinium(III) fluoride,,,-1297.0,,,,,,
+F3HSi,Trifluorosilane,,,,,,,,,271.9
+F3Ho,Holmium fluoride,-1707.0,,,,,,,,
+F3N,Nitrogen trifluoride,,,-132.1,,,-90.6,,,260.8
+F3Nd,Neodymium fluoride,-1657.0,,,,,,,,
+F3OP,Phosphorus(V) oxyfluoride,,,-1254.3,,,-1205.8,,,285.4
+F3P,Phosphorus(III) fluoride,,,-958.4,,,-936.9,,,273.1
+F3Sb,Antimony(III) fluoride,-915.5,,,,,,,,
+F3Sc,Scandium fluoride,-1629.2,,-1247.0,-1555.6,,-1234.0,92.0,,300.5
+F3Sm,Samarium(III) fluoride,-1778.0,,,,,,,,
+F3Th,Thorium(III) fluoride,,,-1166.1,,,-1160.6,,,339.2
+F3U,Uranium(III) fluoride,-1502.1,,-1058.5,-1433.4,,-1051.9,123.4,,331.9
+F3Y,Yttrium fluoride,-1718.8,,-1288.7,-1644.7,,-1277.8,100.0,,311.8
+F4Ge,Germanium(IV) fluoride,,,-1190.2,,,-1150.0,,,301.9
+F4Hf,Hafnium fluoride,-1930.5,,-1669.8,-1830.4,,,113.0,,
+F4N2,Tetrafluorohydrazine,,,-8.4,,,79.9,,,301.2
+F4Pb,Lead(IV) fluoride,-941.8,,,,,,,,
+F4S,Sulfur tetrafluoride,,,-763.2,,,-722.0,,,299.6
+F4Si,Tetrafluorosilane,,,-1615.0,,,-1572.8,,,282.8
+F4Th,Thorium(IV) fluoride,-2097.8,,-1759.0,-2003.4,,-1724.0,142.0,,341.7
+F4U,Uranium(IV) fluoride,-1914.2,,-1598.7,-1823.3,,-1572.7,151.7,,368.0
+F4V,Vanadium(IV) fluoride,-1403.3,,,,,,,,
+F4Xe,Xenon tetrafluoride,-261.5,,,,,,,,
+F4Zr,Zirconium(IV) fluoride,-1911.3,,,-1809.9,,,104.6,,
+F5I,Iodine pentafluoride,,-864.8,-822.5,,,-751.7,,,327.7
+F5Nb,Niobium(V) fluoride,-1813.8,,-1739.7,-1699.0,,-1673.6,160.2,,321.9
+F5P,Phosphorus(V) fluoride,,,-1594.4,,,-1520.7,,,300.8
+F5Ta,Tantalum(V) fluoride,-1903.6,,,,,,,,
+F5V,Vanadium(V) fluoride,,-1480.3,-1433.9,,-1373.1,-1369.8,,175.7,320.9
+F6Ir,Iridium(VI) fluoride,-579.7,,-544.0,-461.6,,-460.0,247.7,,357.8
+F6K2Si,Potassium hexafluorosilicate,-2956,,,-2798.6,,,226.0,,
+F6Mo,Molybdenum(VI) fluoride,,-1585.5,-1557.7,,-1473.0,-1472.2,,259.7,350.5
+F6Na2Si,Sodium hexafluorosilicate,-2909.6,,,-2754.2,,,207.1,,
+F6Os,Osmium(VI) fluoride,,,,,,,246.0,,358.1
+F6Pt,Platinum(VI) fluoride,,,,,,,235.6,,348.3
+F6S,Sulfur hexafluoride,,,-1220.5,,,-1116.5,,,291.5
+F6Se,Selenium hexafluoride,,,-1117.0,,,-1017.0,,,313.9
+F6Te,Tellurium hexafluoride,,,-1318.0,,,,,,
+F6U,Uranium(VI) fluoride,-2197.0,,-2147.4,-2068.5,,-2063.7,227.6,,377.9
+F6W,Tungsten(VI) fluoride,,-1747.7,-1721.7,,-1631.4,-1632.1,,251.5,341.1
+Fe,Iron,0.0,,416.3,,,370.7,27.3,,180.5
+FeI2,Iron(II) iodide,-113.0,,,,,,,,
+FeI3,Iron(III) iodide,,,71.0,,,,,,
+FeMoO4,Iron(II) molybdate,-1075.0,,,-975.0,,,129.3,,
+FeO,Iron(II) oxide,-272.0,,,,,,,,
+FeO4S,Iron(II) sulfate,-928.4,,,-820.8,,,107.5,,
+FeO4W,Iron(II) tungstate,-1155.0,,,-1054.0,,,131.8,,
+FeS,Iron(II) sulfide,-100.0,,,-100.4,,,60.3,,
+FeS2,Iron disulfide,-178.2,,,-166.9,,,52.9,,
+Fe2O3,Iron(III) oxide,-824.2,,,-742.2,,,87.4,,
+Fe2O4Si,Iron(II) orthosilicate,-1479.9,,,-1379.0,,,145.2,,
+Fe3O4,"Iron(II,III) oxide",-1118.4,,,-1015.4,,,146.4,,
+Fm,Fermium,0.0,,,,,,,,
+Fr,Francium,0.0,,,,,,95.4,,
+Ga,Gallium,0.0,5.6,272.0,0.0,,233.7,40.8,,169.0
+GaH3O3,Gallium(III) hydroxide,-964.4,,,-831.3,,,100.0,,
+GaI3,Gallium(III) iodide,-238.9,,,,,,205.0,,
+GaN,Gallium nitride,-110.5,,,,,,,,
+GaO,Gallium monoxide,,,279.5,,,253.5,,,231.1
+GaP,Gallium phosphide,-88.0,,,,,,,,
+GaSb,Gallium antimonide,-41.8,,,-38.9,,,76.1,,
+Ga2,Digallium,,,438.5,,,,,,
+Ga2O,Gallium suboxide,-356.0,,,,,,,,
+Ga2O3,Gallium(III) oxide,-1089.1,,,-998.3,,,85.0,,
+Gd,Gadolinium,0.0,,397.5,,,359.8,68.1,,194.3
+Gd2O3,Gadolinium(III) oxide,-1819.6,,,,,,,,
+Ge,Germanium,0.0,,372.0,,,331.2,31.1,,167.9
+GeH3I,Iodogermane,,,,,,,,,283.2
+GeH4,Germane,,,90.8,,,113.4,,,217.1
+GeI4,Germanium(IV) iodide,-141.8,,-56.9,-144.3,,-106.3,271.1,,428.9
+GeO,Germanium(II) oxide,-261.9,,-46.2,-237.2,,-73.2,50.0,,224.3
+GeO2,Germanium(IV) oxide,-580.0,,,-521.4,,,39.7,,
+GeS,Germanium(II) sulfide,-69.0,,92.0,-71.5,,42.0,71.0,,234.0
+GeTe,Germanium(II) telluride,20.0,,,,,,,,
+Ge2,Digermanium,,,473.1,,,416.3,,,252.8
+Ge2H6,Digermane,,137.3,162.3,,,,,,
+Ge3H8,Trigermane,,193.7,226.8,,,,,,
+H,Hydrogen (atomic),,,218.0,,,203.3,,,114.7
+HI,Hydrogen iodide,,,26.5,,,1.7,,,206.6
+HIO3,Iodic acid,-230.1,,,,,,,,
+HK,Potassium hydride,-57.7,,,,,,,,
+HKO,Potassium hydroxide,-424.6,,-228.0,-378.7,,-229.7,78.9,,238.3
+HKO4S,Potassium hydrogen sulfate,-1160.6,,,-1031.3,,,138.1,,
+HLi,Lithium hydride,-90.5,,,-68.3,,,20.0,,
+HLiO,Lithium hydroxide,-484.9,,,-439.0,,,42.8,,
+HN,Imidogen,,,351.5,,,345.6,,,181.2
+HNO2,Nitrous acid,,,-79.5,,,-46.0,,,254.1
+HNO3,Nitric acid,,-174.1,-133.9,,-80.7,-73.5,,155.6,266.9
+HN3,Hydrazoic acid,,264.0,294.1,,327.3,328.1,,140.6,239.0
+HNa,Sodium hydride,-56.3,,,-33.5,,,40.0,,
+HNaO,Sodium hydroxide,-425.6,,,-379.5,,,64.5,,
+HNaO4S,Sodium hydrogen sulfate,-1125.5,,,-992.8,,,113.0,,
+HNa2O4P,Sodium hydrogen phosphate,-1748.1,,,-1608.2,,,150.5,,
+HO,Hydroxyl,,,39.0,,,34.2,,,183.7
+HORb,Rubidium hydroxide,-418.2,,,,,,,,
+HOTl,Thallium(I) hydroxide,-238.9,,,-195.8,,,88.0,,
+HO2,Hydroperoxy,,,10.5,,,22.6,,,229.0
+HO3P,Metaphosphoric acid,-948.5,,,,,,,,
+HO4RbS,Rubidium hydrogen sulfate,-1159.0,,,,,,,,
+HO4Re,Perrhenic acid,-762.3,,,-656.4,,,158.2,,
+HRb,Rubidium hydride,-52.3,,,,,,,,
+HS,Mercapto,,,142.7,,,113.3,,,195.7
+HSi,Silylidyne,,,361.0,,,,,,
+HTa2,Tantalum hydride,-32.6,,,-69.0,,,79.1,,
+H2,Hydrogen,,,0.0,,,,,,130.7
+H2KN,Potassium amide,-128.9,,,,,,,,
+H2KO4P,Potassium dihydrogen phosphate,-1568.3,,,-1415.9,,,134.9,,
+H2LiN,Lithium amide,-179.5,,,,,,,,
+H2Mg,Magnesium hydride,-75.3,,,-35.9,,,31.1,,
+H2MgO2,Magnesium hydroxide,-924.5,,,-833.5,,,63.2,,
+H2N,Amidogen,,,184.9,,,194.6,,,195.0
+H2NNa,Sodium amide,-123.8,,,-64.0,,,76.9,,
+H2NRb,Rubidium amide,-113.0,,,,,,,,
+H2N2O2,Nitramide,-89.5,,,,,,,,
+H2NiO2,Nickel(II) hydroxide,-529.7,,,-447.2,,,88.0,,
+H2O2,Hydrogen peroxide,,-187.8,-136.3,,-120.4,-105.6,,109.6,232.7
+H2O2Sn,Tin(II) hydroxide,-561.1,,,-491.6,,,155.0,,
+H2O2Sr,Strontium hydroxide,-959.0,,,,,,,,
+H2O2Zn,Zinc hydroxide,-641.9,,,-553.5,,,81.2,,
+H2O3Si,Metasilicic acid,-1188.7,,,-1092.4,,,134.0,,
+H2O4S,Sulfuric acid,,-814.0,,,-690.0,,,156.9,
+H2O4Se,Selenic acid,-530.1,,,,,,,,
+H2S,Hydrogen sulfide,,,-20.6,,,-33.4,,,205.8
+H2S2,Hydrogen disulfide,,-18.1,15.5,,,,,,
+H2Se,Hydrogen selenide,,,29.7,,,15.9,,,219.0
+H2Sr,Strontium hydride,-180.3,,,,,,,,
+H2Te,Hydrogen telluride,,,99.6,,,,,,
+H2Th,Thorium hydride,-139.7,,,-100.0,,,50.7,,
+H2Zr,Zirconium(II) hydride,-169.0,,,-128.8,,,35.0,,
+H3ISi,Iodosilane,,,,,,,,,270.9
+H3N,Ammonia,,,-45.9,,,-16.4,,,192.8
+H3NO,Hydroxylamine,-114.2,,,,,,,,
+H3O2P,Hypophosphorous acid,-604.6,-595.4,,,,,,,
+H3O3P,Phosphorous acid,-964.4,,,,,,,,
+H3O4P,Phosphoric acid (orthophosphoric acid),-1284.4,-1271.7,,-1124.3,-1123.6,,110.5,150.8,
+H3P,Phosphine,,,5.4,,,13.4,,,210.2
+H3Sb,Stibine,,,145.1,,,147.8,,,232.8
+H3U,Uranium(III) hydride,-127.2,,,-72.8,,,63.7,,
+H4IN,Ammonium iodide,-201.4,,,-112.5,,,117.0,,
+H4N2,Hydrazine,,50.6,95.4,,149.3,159.4,,121.2,238.5
+H4N2O2,Ammonium nitrite,-256.5,,,,,,,,
+H4N2O3,Ammonium nitrate,-365.6,,,-183.9,,,151.1,,
+H4N4,Ammonium azide,115.5,,,274.2,,,112.5,,
+H4O4Si,Orthosilicic acid,-1481.1,,,-1332.9,,,192.0,,
+H4O7P2,Pyrophosphoric acid,-2241.0,-2231.7,,,,,,,
+H4P2,Diphosphine,,-5.0,20.9,,,,,,
+H4Si,Silane,,,34.3,,,56.9,,,204.6
+H4Sn,Stannane,,,162.8,,,188.3,,,227.7
+H5NO,Ammonium hydroxide,,-361.2,,,-254.0,,,165.6,
+H5NO3S,Ammonium hydrogen sulfite,-768.6,,,,,,,,
+H5NO4S,Ammonium hydrogen sulfate,-1027,,,,,,,,
+H6Si2,Disilane,,,80.3,,,127.3,,,272.7
+H8N2O4S,Ammonium sulfate,-1180.9,,,-901.7,,,220.1,,
+H8Si3,Trisilane,,92.5,120.9,,,,,,
+H9N2O4P,Diammonium hydrogen phosphate,-1566.9,,,,,,,,
+H12N3O4P,Ammonium phosphate,-1671.9,,,,,,,,
+He,Helium,,,0.0,,,,,,126.2
+HfO2,Hafnium oxide,-1144.7,,,-1088.2,,,59.3,,
+Hg,Mercury,,0.0,61.4,,,31.8,,75.9,175.0
+HgI2,Mercury(II) iodide,-105.4,,,-101.7,,,180.0,,
+HgO,Mercury(II) oxide,-90.8,,,-58.5,,,70.3,,
+HgO4S,Mercury(II) sulfate,-707.5,,,,,,,,
+HgS,Mercury(II) sulfide,-58.2,,,-50.6,,,82.4,,
+HgTe,Mercury(II) telluride,-42.0,,,,,,,,
+Hg2,Dimercury,,,108.8,,,68.2,,,288.1
+Hg2I2,Mercury(I) iodide,-121.3,,,-111.0,,,233.5,,
+Hg2O4S,Mercury(I) sulfate,-743.1,,,-625.8,,,200.7,,
+Ho,Holmium,0.0,,300.8,,,264.8,75.3,,195.6
+Ho2O3,Holmium oxide,-1880.7,,,-1791.1,,,158.2,,
+I,Iodine (atomic),,,106.8,,,70.2,,,180.8
+IIn,Indium(I) iodide,-116.3,,7.5,-120.5,,-37.7,130.0,,267.3
+IK,Potassium iodide,-327.9,,,-324.9,,,106.3,,
+IKO3,Potassium iodate,-501.4,,,-418.4,,,151.5,,
+IKO4,Potassium periodate,-467.2,,,-361.4,,,175.7,,
+ILi,Lithium iodide,-270.4,,,-270.3,,,86.8,,
+INa,Sodium iodide,-287.8,,,-286.1,,,98.5,,
+INaO3,Sodium iodate,-481.8,,,,,,,,
+INaO4,Sodium periodate,-429.3,,,-323.0,,,163.0,,
+IO,Iodine monoxide,,,175.1,,,149.8,,,245.5
+IRb,Rubidium iodide,-333.8,,,-328.9,,,118.4,,
+ITl,Thallium(I) iodide,-123.8,,7.1,-125.4,,,127.6,,
+I2,Iodine (rhombic),0.0,,62.4,,,19.3,116.1,,260.7
+I2Mg,Magnesium iodide,-364.0,,,-358.2,,,129.7,,
+I2Ni,Nickel(II) iodide,-78.2,,,,,,,,
+I2Pb,Lead(II) iodide,-175.5,,,-173.6,,,174.9,,
+I2Sn,Tin(II) iodide,-143.5,,,,,,,,
+I2Sr,Strontium iodide,-558.1,,,,,,,,
+I2Zn,Zinc iodide,-208.0,,,-209.0,,,161.1,,
+I3In,Indium(III) iodide,-238.0,,-120.5,,,,,,
+I3La,Lanthanum iodide,-668.9,,,,,,,,
+I3Lu,Lutetium iodide,-548.0,,,,,,,,
+I3P,Phosphorus(III) iodide,-45.6,,,,,,,,374.4
+I3Ru,Ruthenium(III) iodide,-65.7,,,,,,,,
+I3Sb,Antimony(III) iodide,-100.4,,,,,,,,
+I4Pt,Platinum(IV) iodide,-72.8,,,,,,,,
+I4Si,Tetraiodosilane,-189.5,,,,,,,,
+I4Sn,Tin(IV) iodide,,,,,,,,,446.1
+I4Ti,Titanium(IV) iodide,-375.7,,-277.8,-371.5,,,249.4,,
+I4V,Vanadium(IV) iodide,,,-122.6,,,,,,
+I4Zr,Zirconium(IV) iodide,-481.6,,,,,,,,
+In,Indium,0.0,,243.3,,,208.7,57.8,,173.8
+InP,Indium phosphide,-88.7,,,-77.0,,,59.8,,
+InS,Indium(II) sulfide,-138.1,,238.0,-131.8,,,67.0,,
+InSb,Indium antimonide,-30.5,,344.3,-25.5,,,86.2,,
+In2,Diindium,,,380.9,,,,,,
+In2O3,Indium(III) oxide,-925.8,,,-830.7,,,104.2,,
+In2S3,Indium(III) sulfide,-427.0,,,-412.5,,,163.6,,
+Ir,Iridium,0.0,,665.3,,,617.9,35.5,,193.6
+IrO2,Iridium(IV) oxide,-274.1,,,,,,,,
+IrS2,Iridium(IV) sulfide,-138.0,,,,,,,,
+Ir2S3,Iridium(III) sulfide,-234.0,,,,,,,,
+K,Potassium,0.0,,89.0,,,60.5,64.7,,160.3
+KMnO4,Potassium permanganate,-837.2,,,-737.6,,,171.7,,
+KNO2,Potassium nitrite,-369.8,,,-306.6,,,152.1,,
+KNO3,Potassium nitrate,-494.6,,,-394.9,,,133.1,,
+KNa,Potassium sodium,,6.3,,,,,,,
+KO2,Potassium superoxide,-284.9,,,-239.4,,,116.7,,
+K2,Dipotassium,,,123.7,,,87.5,,,249.7
+K2O,Potassium oxide,-361.5,,,,,,,,
+K2O2,Potassium peroxide,-494.1,,,-425.1,,,102.1,,
+K2O4S,Potassium sulfate,-1437.8,,,-1321.4,,,175.6,,
+K2S,Potassium sulfide,-380.7,,,-364.0,,,105.0,,
+K3O4P,Potassium phosphate,-1950.2,,,,,,,,
+Kr,Krypton,,,0.0,,,,,,164.1
+La,Lanthanum,0.0,,431.0,,,393.6,56.9,,182.4
+LaS,Lanthanum sulfide,-456.0,,,-451.5,,,73.2,,
+La2O3,Lanthanum oxide,-1793.7,,,-1705.8,,,127.3,,
+Li,Lithium,0.0,,159.3,,,126.6,29.1,,138.8
+LiNO2,Lithium nitrite,-372.4,,,-302.0,,,96.0,,
+LiNO3,Lithium nitrate,-483.1,,,-381.1,,,90.0,,
+Li2,Dilithium,,,215.9,,,174.4,,,197.0
+Li2O,Lithium oxide,-597.9,,,-561.2,,,37.6,,
+Li2O2,Lithium peroxide,-634.3,,,,,,,,
+Li2O3Si,Lithium metasilicate,-1648.1,,,-1557.2,,,79.8,,
+Li2O4S,Lithium sulfate,-1436.5,,,-1321.7,,,115.1,,
+Li2S,Lithium sulfide,-441.4,,,,,,,,
+Li3O4P,Lithium phosphate,-2095.8,,,,,,,,
+Lr,Lawrencium,0.0,,,,,,,,
+Lu,Lutetium,0.0,,427.6,,,387.8,51.0,,184.8
+Lu2O3,Lutetium oxide,-1878.2,,,-1789.0,,,110.0,,
+Md,Mendelevium,0.0,,,,,,,,
+Mg,Magnesium,0.0,,147.1,,,112.5,32.7,,148.6
+MgN2O6,Magnesium nitrate,-790.7,,,-589.4,,,164.0,,
+MgO,Magnesium oxide,-601.6,,,-569.3,,,27.0,,
+MgO4S,Magnesium sulfate,-1284.9,,,-1170.6,,,91.6,,
+MgS,Magnesium sulfide,-346.0,,,-341.8,,,50.3,,
+Mg2,Dimagnesium,,,287.7,,,,,,
+Mg2O4Si,Magnesium orthosilicate,-2174.0,,,-2055.1,,,95.1,,
+Mn,Manganese,0.0,,280.7,,,238.5,32.0,,173.7
+MnN2O6,Manganese(II) nitrate,-576.3,,,,,,,,
+MnNa2O4,Sodium permanganate,-1156.0,,,,,,,,
+MnO,Manganese(II) oxide,-385.2,,,-362.9,,,59.7,,
+MnO2,Manganese(IV) oxide,-520.0,,,-465.1,,,53.1,,
+MnO3Si,Manganese(II) metasilicate,-1320.9,,,-1240.5,,,89.1,,
+MnS,Manganese(II) sulfide,-214.2,,,-218.4,,,78.2,,
+MnSe,Manganese(II) selenide,-106.7,,,-111.7,,,90.8,,
+Mn2O3,Manganese(III) oxide,-959.0,,,-881.1,,,110.5,,
+Mn2O4Si,Manganese(II) orthosilicate,-1730.5,,,-1632.1,,,163.2,,
+Mn3O4,"Manganese(II,III) oxide",-1387.8,,,-1283.2,,,155.6,,
+Mo,Molybdenum,0.0,,658.1,,,612.5,28.7,,182.0
+MoNa2O4,Sodium molybdate,-1468.1,,,-1354.3,,,159.7,,
+MoO2,Molybdenum(IV) oxide,-588.9,,,-533.0,,,46.3,,
+MoO3,Molybdenum(VI) oxide,-745.1,,,-668.0,,,77.7,,
+MoO4Pb,Lead(II) molybdate,-1051.9,,,-951.4,,,166.1,,
+MoS2,Molybdenum(IV) sulfide,-235.1,,,-225.9,,,62.6,,
+N,Nitrogen (atomic),,,472.7,,,455.5,,,153.3
+NNaO2,Sodium nitrite,-358.7,,,-284.6,,,103.8,,
+NNaO3,Sodium nitrate,-467.9,,,-367.0,,,116.5,,
+NO,Nitric oxide,,,91.3,,,87.6,,,210.8
+NO2,Nitrogen dioxide,,,33.2,,,51.3,,,240.1
+NO2Rb,Rubidium nitrite,-367.4,,,-306.2,,,172.0,,
+NO3Rb,Rubidium nitrate,-495.1,,,-395.8,,,147.3,,
+NO3Tl,Thallium(I) nitrate,-243.9,,,-152.4,,,160.7,,
+NP,Phosphorus nitride,-63.0,,,,,,,,
+N2,Nitrogen,,,0.0,,,,,,191.6
+N2O,Nitrous oxide,,,81.6,,,103.7,,,220.0
+N2O3,Nitrogen trioxide,,50.3,86.6,,,142.4,,,314.7
+N2O4,Nitrogen tetroxide,,-19.5,11.1,,97.5,99.8,,209.2,304.4
+N2O4Sr,Strontium nitrite,-762.3,,,,,,,,
+N2O5,Nitrogen pentoxide,-43.1,,13.3,113.9,,117.1,178.2,,355.7
+N2O6Pb,Lead(II) nitrate,-451.9,,,,,,,,
+N2O6Ra,Radium nitrate,-992.0,,,-796.1,,,222.0,,
+N2O6Sr,Strontium nitrate,-978.2,,,-780.0,,,194.6,,
+N2O6Zn,Zinc nitrate,-483.7,,,,,,,,
+N3Na,Sodium azide,21.7,,,93.8,,,96.9,,
+N4Si3,Silicon nitride,-743.5,,,-642.6,,,101.3,,
+Na,Sodium,0.0,,107.5,,,77.0,51.3,,153.7
+NaO2,Sodium superoxide,-260.2,,,-218.4,,,115.9,,
+Na2,Disodium,,,142.1,,,103.9,,,230.2
+Na2O2,Sodium peroxide,-510.9,,,-447.7,,,95.0,,
+Na2O3S,Sodium sulfite,-1100.8,,,-1012.5,,,145.9,,
+Na2O3Si,Sodium metasilicate,-1554.9,,,-1462.8,,,113.9,,
+Na2O4S,Sodium sulfate,-1387.1,,,-1270.2,,,149.6,,
+Na2S,Sodium sulfide,-364.8,,,-349.8,,,83.7,,
+Nb,Niobium,0.0,,725.9,,,681.1,36.4,,186.3
+NbO,Niobium(II) oxide,-405.8,,,-378.6,,,48.1,,
+NbO2,Niobium(IV) oxide,-796.2,,,-740.5,,,54.5,,
+Nb2O5,Niobium(V) oxide,-1899.5,,,-1766.0,,,137.2,,
+Nd,Neodymium,0.0,,327.6,,,292.4,71.5,,189.4
+Nd2O3,Neodymium oxide,-1807.9,,,-1720.8,,,158.6,,
+Ne,Neon,,,0.0,,,,,,146.3
+Ni,Nickel,0.0,,429.7,,,384.5,29.9,,182.2
+NiO4S,Nickel(II) sulfate,-872.9,,,-759.7,,,92.0,,
+NiS,Nickel(II) sulfide,-82.0,,,-79.5,,,53.0,,
+Ni2O3,Nickel(III) oxide,-489.5,,,,,,,,
+No,Nobelium,0.0,,,,,,,,
+O,Oxygen (atomic),,,249.2,,,231.7,,,161.1
+OP,Phosphorus monoxide,,,-28.5,,,-51.9,,,222.8
+OPb,Lead(II) oxide (massicot),-217.3,,,-187.9,,,68.7,,
+OPb,Lead(II) oxide (litharge),-219.0,,,-188.9,,,66.5,,
+OPd,Palladium(II) oxide,-85.4,,348.9,,,325.9,,,218.0
+ORa,Radium oxide,-523.0,,,,,,,,
+ORb2,Rubidium oxide,-339.0,,,,,,,,
+ORh,Rhodium monoxide,,,385.0,,,,,,
+OS,Sulfur monoxide,,,6.3,,,-19.9,,,222.0
+OSe,Selenium monoxide,,,53.4,,,26.8,,,234.0
+OSi,Silicon monoxide,,,-99.6,,,-126.4,,,211.6
+OSn,Tin(II) oxide,-280.7,,15.1,-251.9,,-8.4,57.2,,232.1
+OSr,Strontium oxide,-592.0,,,-561.9,,,54.4,,
+OTi,Titanium(II) oxide,-519.7,,,-495.0,,,50.0,,
+OTl2,Thallium(I) oxide,-178.7,,,-147.3,,,126.0,,
+OU,Uranium(II) oxide,,,21.0,,,,,,
+OV,Vanadium(II) oxide,-431.8,,,-404.2,,,38.9,,
+OZn,Zinc oxide,-350.5,,,-320.5,,,43.7,,
+O2,Oxygen,,,0.0,,,,,,205.2
+O2P,Phosphorus dioxide,,,-279.9,,,-281.6,,,252.1
+O2Pb,Lead(IV) oxide,-277.4,,,-217.3,,,68.6,,
+O2Rb,Rubidium superoxide,-278.7,,,,,,,,
+O2Rb2,Rubidium peroxide,-472.0,,,,,,,,
+O2Ru,Ruthenium(IV) oxide,-305.0,,,,,,,,
+O2S,Sulfur dioxide,,-320.5,-296.8,,,-300.1,,,248.2
+O2Se,Selenium dioxide,-225.4,,,,,,,,
+O2Si,Silicon dioxide (α-quartz),-910.7,,-322.0,-856.3,,,41.5,,
+O2Te,Tellurium dioxide,-322.6,,,-270.3,,,79.5,,
+O2Th,Thorium(IV) oxide,-1226.4,,,-1169.2,,,65.2,,
+O2Ti,Titanium(IV) oxide,-944.0,,,-888.8,,,50.6,,
+O2U,Uranium(IV) oxide,-1085.0,,-465.7,-1031.8,,-471.5,77.0,,274.6
+O2W,Tungsten(IV) oxide,-589.7,,,-533.9,,,50.5,,
+O2Zr,Zirconium(IV) oxide,-1100.6,,,-1042.8,,,50.4,,
+O3,Ozone,,,142.7,,,163.2,,,238.9
+O3PbS,Lead(II) sulfite,-669.9,,,,,,,,
+O3PbSi,Lead(II) metasilicate,-1145.7,,,-1062.1,,,109.6,,
+O3Pr2,Praseodymium oxide,-1809.6,,,,,,,,
+O3Rh2,Rhodium(III) oxide,-343.0,,,,,,,,
+O3S,Sulfur trioxide,-454.5,-441.0,-395.7,-374.2,-373.8,-371.1,70.7,113.8,256.8
+O3Sc2,Scandium oxide,-1908.8,,,-1819.4,,,77.0,,
+O3SiSr,Strontium metasilicate,-1633.9,,,-1549.7,,,96.7,,
+O3Sm2,Samarium(III) oxide,-1823.0,,,-1734.6,,,151.0,,
+O3Tb2,Terbium oxide,-1865.2,,,,,,,,
+O3Ti2,Titanium(III) oxide,-1520.9,,,-1434.2,,,78.8,,
+O3Tm2,Thulium oxide,-1888.7,,,-1794.5,,,139.7,,
+O3U,Uranium(VI) oxide,-1223.8,,,-1145.7,,,96.1,,
+O3V2,Vanadium(III) oxide,-1218.8,,,-1139.3,,,98.3,,
+O3W,Tungsten(VI) oxide,-842.9,,,-764.0,,,75.9,,
+O3Y2,Yttrium oxide,-1905.3,,,-1816.6,,,99.1,,
+O3Yb2,Ytterbium(III) oxide,-1814.6,,,-1726.7,,,133.1,,
+O4Os,Osmium(VIII) oxide,-394.1,,-337.2,-304.9,,-292.8,143.9,,293.8
+O4PbS,Lead(II) sulfate,-920.0,,,-813.0,,,148.5,,
+O4PbSe,Lead(II) selenate,-609.2,,,-504.9,,,167.8,,
+O4Pb2Si,Lead(II) orthosilicate,-1363.1,,,-1252.6,,,186.6,,
+O4Pb3,"Lead(II,II,IV) oxide",-718.4,,,-601.2,,,211.3,,
+O4RaS,Radium sulfate,-1471.1,,,-1365.6,,,138.0,,
+O4Rb2S,Rubidium sulfate,-1435.6,,,-1316.9,,,197.4,,
+O4Ru,Ruthenium(VIII) oxide,-239.3,,,-152.2,,,146.4,,
+O4SSr,Strontium sulfate,-1453.1,,,-1340.9,,,117.0,,
+O4STl2,Thallium(I) sulfate,-931.8,,,-830.4,,,230.5,,
+O4SZn,Zinc sulfate,-982.8,,,-871.5,,,110.5,,
+O4SiSr2,Strontium orthosilicate,-2304.5,,,-2191.1,,,153.1,,
+O4SiZn2,Zinc orthosilicate,-1636.7,,,-1523.2,,,131.4,,
+O4SiZr,Zirconium(IV) orthosilicate,-2033.4,,,-1919.1,,,84.1,,
+O5Sb2,Antimony(V) oxide,-971.9,,,-829.2,,,125.1,,
+O5Ta2,Tantalum(V) oxide,-2046.0,,,-1911.2,,,143.1,,
+O5Ti3,"Titanium(III,IV) oxide",-2459.4,,,-2317.4,,,129.3,,
+O5V2,Vanadium(V) oxide,-1550.6,,,-1419.5,,,131.0,,
+O5V3,"Vanadium(III,IV) oxide",-1933.0,,,-1803.0,,,163.0,,
+O7Re2,Rhenium(VII) oxide,-1240.1,,-1100.0,-1066.0,,-994.0,207.1,,452.0
+O7U3,"Uranium(IV,VI) oxide",-3427.1,,,-3242.9,,,250.5,,
+O8U3,"Uranium(V,VI) oxide",-3574.8,,,-3369.5,,,282.6,,
+O9U4,"Uranium(IV,V) oxide",-4510.4,,,-4275.1,,,334.1,,
+Os,Osmium,0.0,,791.0,,,745.0,32.6,,192.6
+P,Phosphorus (white),0.0,,316.5,,,280.1,41.1,,163.2
+P,Phosphorus (red),-17.6,,,,,,22.8,,
+P,Phosphorus (black),-39.3,,,,,,,,
+2.0,Diphosphorus,,,144.0,,,103.5,,,218.1
+4.0,Tetraphosphorus,,,58.9,,,24.4,,,280.0
+Pa,Protactinium,0.0,,607.0,,,563.0,51.9,,198.1
+Pb,Lead,0.0,,195.2,,,162.2,64.8,,175.4
+PbS,Lead(II) sulfide,-100.4,,,-98.7,,,91.2,,
+PbSe,Lead(II) selenide,-102.9,,,-101.7,,,102.5,,
+PbTe,Lead(II) telluride,-70.7,,,-69.5,,,110.0,,
+Pd,Palladium,0.0,,378.2,,,339.7,37.6,,167.1
+PdS,Palladium(II) sulfide,-75.0,,,-67.0,,,46.0,,
+Pm,Promethium,0.0,,,,,,,,187.1
+Po,Polonium,0.0,,,,,,,,
+Pr,Praseodymium,0.0,,355.6,,,320.9,73.2,,189.8
+Pt,Platinum,0.0,,565.3,,,520.5,41.6,,192.4
+PtS,Platinum(II) sulfide,-81.6,,,-76.1,,,55.1,,
+PtS2,Platinum(IV) sulfide,-108.8,,,-99.6,,,74.7,,
+Pu,Plutonium,0.0,,,,,,,,
+Ra,Radium,0.0,,159.0,,,130.0,71.0,,176.5
+Rb,Rubidium,0.0,,80.9,,,53.1,76.8,,170.1
+Re,Rhenium,0.0,,769.9,,,724.6,36.9,,188.9
+Rh,Rhodium,0.0,,556.9,,,510.8,31.5,,185.8
+Rn,Radon,,,0.0,,,,,,176.2
+Ru,Ruthenium,0.0,,642.7,,,595.8,28.5,,186.5
+S,Sulfur (rhombic),0.0,,277.2,,,236.7,32.1,,167.8
+S,Sulfur (monoclinic),0.3,,,,,,,,
+SSi,Silicon monosulfide,,,112.5,,,60.9,,,223.7
+SSn,Tin(II) sulfide,-100.0,,,-98.3,,,77.0,,
+SSr,Strontium sulfide,-472.4,,,-467.8,,,68.2,,
+STl2,Thallium(I) sulfide,-97.1,,,-93.7,,,151.0,,
+SZn,Zinc sulfide (wurtzite),-192.6,,,,,,,,
+SZn,Zinc sulfide (sphalerite),-206.0,,,-201.3,,,57.7,,
+S2,Disulfur,,,128.6,,,79.7,,,228.2
+Sb,Antimony,0.0,,262.3,,,222.1,45.7,,180.3
+Sb2,Diantimony,,,235.6,,,187.0,,,254.9
+Sc,Scandium,0.0,,377.8,,,336.0,34.6,,174.8
+Se,Selenium,0.0,,227.1,,,187.0,42.4,,176.7
+SeSr,Strontium selenide,-385.8,,,,,,,,
+SeTl2,Thallium(I) selenide,-59.0,,,-59.0,,,172.0,,
+SeZn,Zinc selenide,-163.0,,,-163.0,,,84.0,,
+Si,Silicon,0.0,,450.0,,,405.5,18.8,,168.0
+Si2,Disilicon,,,594.0,,,536.0,,,229.9
+Sm,Samarium,0.0,,206.7,,,172.8,69.6,,183.0
+Sn,Tin (white),0.0,,301.2,,,266.2,51.2,,168.5
+Sn,Tin (gray),-2.1,,,0.1,,,44.1,,
+Sr,Strontium,0.0,,164.4,,,130.9,55.0,,164.6
+Ta,Tantalum,0.0,,782.0,,,739.3,41.5,,185.2
+Tb,Terbium,0.0,,388.7,,,349.7,73.2,,203.6
+Tc,Technetium,0.0,,678.0,,,,,,181.1
+Te,Tellurium,0.0,,196.7,,,157.1,49.7,,182.7
+Te2,Ditellurium,,,168.2,,,118.0,,,268.1
+Th,Thorium,0.0,,602.0,,,560.7,51.8,,190.2
+Ti,Titanium,0.0,,473.0,,,428.4,30.7,,180.3
+Tl,Thallium,0.0,,182.2,,,147.4,64.2,,181.0
+Tm,Thulium,0.0,,232.2,,,197.5,74.0,,190.1
+U,Uranium,0.0,,533.0,,,488.4,50.2,,199.8
+V,Vanadium,0.0,,514.2,,,754.4,28.9,,182.3
+W,Tungsten,0.0,,849.4,,,807.1,32.6,,174.0
+Xe,Xenon,,,0.0,,,,,,169.7
+Y,Yttrium,0.0,,421.3,,,381.1,44.4,,179.5
+Yb,Ytterbium,0.0,,152.3,,,118.4,59.9,,173.1
+Zn,Zinc,0.0,,130.4,,,94.8,41.6,,161.0
+Zr,Zirconium,0.0,,608.8,,,566.5,39.0,,181.4
+C,Carbon (graphite),0.0,,716.7,,,671.3,5.7,,158.1
+C,Carbon (diamond),1.9,,,2.9,,,2.4,,
+CAgN,Silver(I) cyanide,146.0,,,156.9,,,107.2,,
+CAg2O3,Silver(I) carbonate,-505.8,,,-436.8,,,167.4,,
+CBaO3,Barium carbonate,-1213.0,,,-1134.4,,,112.1,,
+CBeO3,Beryllium carbonate,-1025.0,,,,,,52.0,,
+CBrClF2,Bromochlorodifluoro-methane,,,,,,,,,318.5
+CBrCl2F,Bromodichlorofluoro-methane,,,,,,,,,330.6
+CBrCl3,Bromotrichloromethane,,,-41.1,,,,,,
+CBrF3,Bromotrifluoromethane,,,-648.3,,,,,,
+CBrN,Cyanogen bromide,140.5,,186.2,,,165.3,,,248.3
+CBrN3O6,Bromotrinitromethane,,32.5,80.3,,,,,,
+CBr2ClF,Dibromochlorofluoro-methane,,,,,,,,,342.8
+CBr2Cl2,Dibromodichloromethane,,,,,,,,,347.8
+CBr2F2,Dibromodifluoromethane,,,,,,,,,325.3
+CBr2O,Carbonyl bromide,,-127.2,-96.2,,,-110.9,,,309.1
+CBr3Cl,Tribromochloromethane,,,,,,,,,357.8
+CBr3F,Tribromofluoromethane,,,,,,,,,345.9
+CCaO3,Calcium carbonate (calcite),-1207.6,,,-1129.1,,,91.7,,
+CCaO3,Calcium carbonate (aragonite),-1207.8,,,-1128.2,,,88.0,,
+CCdO3,Cadmium carbonate,-750.6,,,-669.4,,,92.5,,
+CClFO,Carbonyl chloride fluoride,,,,,,,,,276.7
+CClF3,Chlorotrifluoromethane,,,-706.3,,,,,,
+CClN,Cyanogen chloride,,112.1,138.0,,,131.0,,,236.2
+CClN3O6,Chlorotrinitromethane,,-27.1,18.4,,,,,,
+CCl2F2,Dichlorodifluoromethane,,,-477.4,,,-439.4,,,300.8
+CCl2O,Carbonyl chloride,,,-219.1,,,-204.9,,,283.5
+CCl3,Trichloromethyl,,,59.0,,,,,,
+CCl3F,Trichlorofluoromethane,,-301.3,-268.3,,-236.8,,,225.4,
+CCl4,Tetrachloromethane,,-128.2,-95.7,,,,,,
+CCoO3,Cobalt(II) carbonate,-713.0,,,,,,,,
+CCs2O3,Cesium carbonate,-1139.7,,,-1054.3,,,204.5,,
+CCuN,Copper(I) cyanide,96.2,,,111.3,,,84.5,,
+CFN,Cyanogen fluoride,,,,,,,,,224.7
+CF2O,Carbonyl fluoride,,,-639.8,,,,,,
+CF3,Trifluoromethyl,,,-477.0,,,-464.0,,,264.5
+CF3I,Trifluoroiodomethane,,,-587.8,,,,,,307.4
+CF4,Tetrafluoromethane,,,-933.6,,,,,,261.6
+CFeO3,Iron(II) carbonate,-740.6,,,-666.7,,,92.9,,
+CFe3,Iron carbide,25.1,,,20.1,,,104.6,,
+CH,Methylidyne,,,595.8,,,,,,
+CHBrClF,Bromochlorofluoromethane,,,,,,,,,304.3
+CHBrCl2,Bromodichloromethane,,,,,,,,,316.4
+CHBrF2,Bromodifluoromethane,,,-424.9,,,,,,295.1
+CHBr2Cl,Chlorodibromomethane,,,,,,,,,327.7
+CHBr2F,Dibromofluoromethane,,,,,,,,,316.8
+CHBr3,Tribromomethane,,-22.3,23.8,,-5.0,8.0,,220.9,330.9
+CHClF2,Chlorodifluoromethane,,,-482.6,,,,,,280.9
+CHCl2F,Dichlorofluoromethane,,,,,,,,,293.1
+CHCl3,Trichloromethane,,-134.1,-102.7,,-73.7,6.0,,201.7,295.7
+CHCsO3,Cesium hydrogen carbonate,-966.1,,,,,,,,
+CHFO,Formyl fluoride,,,,,,,,,246.6
+CHF3,Trifluoromethane,,,-695.4,,,,,,259.7
+CHI3,Triiodomethane,-181.1,,251.0,,,,,,356.2
+CHKO2,Potassium formate,-679.7,,,,,,,,
+CHKO3,Potassium hydrogen carbonate,-963.2,,,-863.5,,,115.5,,
+CHN,Hydrogen cyanide,,108.9,135.1,,125.0,124.7,,112.8,201.8
+CHNO,Isocyanic acid (HNCO),,,,,,,,,238.0
+CHNS,Isothiocyanic acid,,,127.6,,,113.0,,,247.8
+CHN3O6,Trinitromethane,,-32.8,-0.2,,,,,,
+CHNaO2,Sodium formate,-666.5,,,-599.9,,,103.8,,
+CHO,Oxomethyl (HCO),,,43.1,,,28.0,,,224.7
+CH2,Methylene,,,390.4,,,372.9,,,194.9
+CH2BrCl,Bromochloromethane,,,,,,,,,287.6
+CH2BrF,Bromofluoromethane,,,,,,,,,276.3
+CH2Br2,Dibromomethane,,,,,,,,,293.2
+CH2ClF,Chlorofluoromethane,,,,,,,,,264.4
+CH2Cl2,Dichloromethane,,-124.2,-95.4,,,,,177.8,270.2
+CH2F2,Difluoromethane,,,-452.3,,,,,,246.7
+CH2I2,Diiodomethane,,68.5,119.5,,90.4,95.8,,174.1,309.7
+CH2N2,Diazomethane,,,,,,,,,242.9
+CH2N2,Cyanamide,58.8,,,,,,,,
+CH2N2O4,Dinitromethane,,-104.9,-58.9,,,,,,
+CH2O,Formaldehyde,,,-108.6,,,-102.5,,,218.8
+(CH2O)x,Paraformaldehyde,-177.6,,,,,,,,
+CH2O2,Formic acid,,-425.0,-378.7,,-361.4,,,129.0,
+CH2S3,Trithiocarbonic acid,,24.0,,,,,,,
+CH3,Methyl,,,145.7,,,147.9,,,194.2
+CH3BO,Borane carbonyl,,,-111.2,,,-92.9,,,249.4
+CH3Br,Bromomethane,,-59.8,-35.4,,,-26.3,,,246.4
+CH3Cl,Chloromethane,,,-81.9,,,,,,234.6
+CH3F,Fluoromethane,,,,,,,,,222.9
+CH3I,Iodomethane,,-13.6,14.4,,,,,163.2,254.1
+CH3NO,Formamide,,-254.0,-193.9,,,,,,
+CH3NO2,Nitromethane,,-112.6,-74.3,,-14.4,-6.8,,171.8,275.0
+CH3NO2,Methyl nitrite,,,-66.1,,,,,,
+CH3NO3,Methyl nitrate,,-156.3,-122.4,,-43.4,-39.2,,217.1,318.5
+CH4,Methane,,,-74.6,,,-50.5,,,186.3
+CH4N2,Ammonium cyanide,0.4,,,,,,,,
+CH4N2O,Urea,-333.1,,-245.8,,,,,,
+CH4N2S,Thiourea,-89.1,,22.9,,,,,,
+CH4N4O2,Nitroguanidine,-92.4,,,,,,,,
+CH4O,Methanol,,-239.2,-201.0,,-166.6,-162.3,,126.8,239.9
+CH4S,Methanethiol,,-46.7,-22.9,,-7.7,-9.3,,169.2,255.2
+CH5N,Methylamine,,-47.3,-22.5,,35.7,32.7,,150.2,242.9
+CH5NO3,Ammonium hydrogen carbonate,-849.4,,,-665.9,,,120.9,,
+CH5N3,Guanidine,-56.0,,,,,,,,
+CH5N3S,Hydrazinecarbothioamide,24.7,,,,,,,,
+CH5N5O2,3-Amino-1-nitroguanidine,22.1,,,,,,,,
+CH6ClN,Methylamine hydrochloride,-298.1,,,,,,,,
+CH6N2,Methylhydrazine,,54.2,94.7,,180.0,187.0,,165.9,278.8
+CH6Si,Methylsilane,,,,,,,,,256.5
+CHg2O3,Mercury(I) carbonate,-553.5,,,-468.1,,,180.0,,
+CIN,Cyanogen iodide,166.2,,225.5,185.0,,196.6,96.2,,256.8
+CKN,Potassium cyanide,-113.0,,,-101.9,,,128.5,,
+CKNS,Potassium thiocyanate,-200.2,,,-178.3,,,124.3,,
+CK2O3,Potassium carbonate,-1151.0,,,-1063.5,,,155.5,,
+CLi2O3,Lithium carbonate,-1215.9,,,-1132.1,,,90.4,,
+CMgO3,Magnesium carbonate,-1095.8,,,-1012.1,,,65.7,,
+CMnO3,Manganese(II) carbonate,-894.1,,,-816.7,,,85.8,,
+CN,Cyanide,,,437.6,,,407.5,,,202.6
+CNNa,Sodium cyanide,-87.5,,,-76.4,,,115.6,,
+CNNaO,Sodium cyanate,-405.4,,,-358.1,,,96.7,,
+CN4O8,Tetranitromethane,,38.4,88.3,,,,,,
+CNa2O3,Sodium carbonate,-1130.7,,,-1044.4,,,135.0,,
+CO,Carbon monoxide,,,-110.5,,,-137.2,,,197.7
+COS,Carbon oxysulfide,,,-142.0,,,-169.2,,,231.6
+CO2,Carbon dioxide,,,-393.5,,,-394.4,,,213.8
+CO3Pb,Lead(II) carbonate,-699.1,,,-625.5,,,131.0,,
+CO3Rb2,Rubidium carbonate,-1136.0,,,-1051.0,,,181.3,,
+CO3Sr,Strontium carbonate,-1220.1,,,-1140.1,,,97.1,,
+CO3Tl2,Thallium(I) carbonate,-700.0,,,-614.6,,,155.2,,
+CO3Zn,Zinc carbonate,-812.8,,,-731.5,,,82.4,,
+CS,Carbon sulfide,,,234.0,,,184.0,,,210.6
+CS2,Carbon disulfide,,89.0,116.7,,64.6,67.1,,151.3,237.8
+CSe2,Carbon diselenide,,164.8,,,,,,,
+CSi,Silicon carbide (cubic),-65.3,,,-62.8,,,16.6,,
+CSi,Silicon carbide (hexagonal),-62.8,,,-60.2,,,16.5,,
+C2,Dicarbon,,,831.9,,,775.9,,,199.4
+C2BrF5,Bromopentafluoroethane,,,-1064.4,,,,,,
+C2Br2ClF3,"1,2-Dibromo-1-chloro-1,2,2-trifluoroethane",,-691.7,-656.6,,,,,,
+C 2 Br 2 F 4,"1,2-Dibromotetrafluoro-ethane",,-817.7,-789.1,,,,,,
+C2Br4,Tetrabromoethylene,,,,,,,,,387.1
+C2Br6,Hexabromoethane,,,,,,,,,441.9
+C2Ca,Calcium carbide,-59.8,,,-64.9,,,70.0,,
+C2CaN2,Calcium cyanide,-184.5,,,,,,,,
+C2CaO4,Calcium oxalate,-1360.6,,,,,,,,
+C2ClF3,Chlorotrifluoroethylene,,-522.7,-505.5,,,-523.8,,,322.1
+C2ClF5,Chloropentafluoroethane,,,-1118.8,,,,,,
+C2Cl2F4,"1,2-Dichlorotetrafluoro-ethane",,-960.2,-937.0,,,,,,
+C2Cl2O2,Ethanedioyl dichloride,,-367.6,-335.8,,,,,,
+C2Cl3F3,"1,1,2-Trichlorotrifluoro-ethane",,-745.0,-716.8,,,,,,
+C2Cl3N,Trichloroacetonitrile,,,,,,,,,336.6
+C2Cl4,Tetrachloroethylene,,-50.6,-10.9,,3.0,,,266.9,
+C2Cl4F2,"1,1,2,2-Tetrachloro-1,2-difluoroethane",,,,,,,,,
+C2Cl4O,Trichloroacetyl chloride,,-280.8,-239.8,,,,,,
+C2Cl6,Hexachloroethane,-202.8,,-143.6,,,,237.3,,
+C2F3N,Trifluoroacetonitrile,,,-497.9,,,,,,298.1
+C2F4,Tetrafluoroethylene,-820.5,,-658.9,,,,,,300.1
+C2F6,Hexafluoroethane,,,-1344.2,,,,,,332.3
+C2HBr,Bromoacetylene,,,,,,,,,253.7
+C2HBrClF3,"1-Bromo-2-chloro-1,1,2-trifluoroethane",,-675.3,-644.8,,,,,,
+C2HBrClF3,"2-Bromo-2-chloro-1,1,1-trifluoroethane",,-720.0,-690.4,,,,,,
+C2HCl,Chloroacetylene,,,,,,,,,242.0
+C2HClF2,"1-Chloro-2,2-difluoro-ethylene",,,-315.5,,,-289.1,,,303.0
+C2HCl2F,"1,1-Dichloro-2-fluoro-ethylene",,,,,,,,,313.9
+C2HCl2F3,"2,2-Dichloro-1,1,1-trifluoroethane",,,,,,,,,352.8
+C2HCl3,Trichloroethylene,,-43.6,-9.0,,,,,228.4,324.8
+C2HCl3O,Trichloroacetaldehyde,,-234.5,-196.6,,,,,,
+C2HCl3O,Dichloroacetyl chloride,,-280.4,-241.0,,,,,,
+C2HCl3O2,Trichloroacetic acid,-503.3,,,,,,,,
+C2HCl5,Pentachloroethane,,-187.6,-142.0,,,,,,
+C2HF,Fluoroacetylene,,,,,,,,,231.7
+C2HF3,Trifluoroethylene,,,-490.5,,,,,,
+C2HF3O2,Trifluoroacetic acid,,-1069.9,-1031.4,,,,,,
+C2HF5,Pentafluoroethane,,,-1100.4,,,,,,
+C2H2,Acetylene,,,227.4,,,209.9,,,200.9
+C2H2BrF3,"2-Bromo-1,1,1-trifluoroethane",,,-694.5,,,,,,
+C2H2Br2,"cis-1,2-Dibromoethylene",,,,,,,,,311.3
+C2H2Br2,"trans-1,2-Dibromoethylene",,,,,,,,,313.5
+C2H2Br2Cl2,"1,2-Dibromo-1,2-dichloroethane",,,-36.9,,,,,,
+C2H2Br4,"1,1,2,2-Tetrabromoethane",,,,,,,,,
+C2H2ClF3,"2-Chloro-1,1,1-trifluoroethane",,,,,,,,,326.5
+C2H2Cl2,"1,1-Dichloroethylene",,-23.9,2.8,,24.1,25.4,,201.5,289.0
+C2H2Cl2,"cis-1,2-Dichloroethylene",,-26.4,4.6,,,,,198.4,289.6
+C2H2Cl2,"trans-1,2-Dichloroethylene",,-24.3,5.0,,27.3,28.6,,195.9,290.0
+C2H2Cl2O,Chloroacetyl chloride,,-283.7,-244.8,,,,,,
+C2H2Cl2O2,Dichloroacetic acid,,-496.3,,,,,,,
+C2H2Cl4,"1,1,1,2-Tetrachloroethane",,,,,,,,,356.0
+C2H2Cl4,"1,1,2,2-Tetrachloroethane",,-195.0,-149.2,,,,,246.9,362.8
+C2H2F2,"1,1-Difluoroethylene",,,-335.0,,,,,,266.2
+C2H2F2,"cis-1,2-Difluoroethylene",,,,,,,,,268.3
+C2H2F3I,"1,1,1-Trifluoro-2-iodoethane",,,-644.5,,,,,,
+C2H2I2,"cis-1,2-Diiodoethylene",,,-207.4,,,,,,
+C2H2O,Ketene,,-67.9,-47.5,,,-48.3,,,247.6
+C2H2O2,Glyoxal,,,-212.0,,,,,,
+C2H2O4,Oxalic acid,-821.7,,-723.7,,,,109.8,,
+C2H2O4Sr,Strontium formate,-1393.3,,,,,,,,
+C2H2S2,Thiirene,,,300.0,,,275.8,,,255.3
+C2H3Br,Bromoethylene,,,79.2,,,81.8,,,275.8
+C2H3BrO,Acetyl bromide,,-223.5,-190.4,,,,,,
+C2H3Cl,Chloroethylene,-94.1,14.6,37.2,,,53.6,,,264.0
+C2H3ClF2,"1-Chloro-1,1-difluoroethane",,,,,,,,,307.2
+C2H3ClO,Acetyl chloride,,-272.9,-242.8,,-208.0,-205.8,,200.8,295.1
+C2H3ClO2,Chloroacetic acid,-510.5,,-435.2,,,,,,
+C2H3Cl2F,"1,1-Dichloro-1-fluoroethane",,,,,,,,,320.2
+C2H3Cl3,"1,1,1-Trichloroethane",,-177.4,-144.4,,,,,227.4,323.1
+C2H3Cl3,"1,1,2-Trichloroethane",,-190.8,-151.3,,,,,232.6,337.2
+C2H3F,Fluoroethylene,,,-138.8,,,,,,
+C2H3FO,Acetyl fluoride,,-467.2,-442.1,,,,,,
+C2H3F3,"1,1,1-Trifluoroethane",,,-744.6,,,,,,279.9
+C2H3F3,"1,1,2-Trifluoroethane",,,-730.7,,,,,,
+C2H3F3O,"2,2,2-Trifluoroethanol",,-932.4,-888.4,,,,,,
+C2H3I,Iodoethylene,,,,,,,,,285.0
+C2H3IO,Acetyl iodide,,-163.5,-126.4,,,,,,
+C2H3KO2,Potassium acetate,-723.0,,,,,,,,
+C2H3N,Acetonitrile,,40.6,74.0,,86.5,91.9,,149.6,243.4
+C2H3N,Isocyanomethane,,130.8,163.5,,159.5,165.7,,159.0,246.9
+C2H3NO,Methylisocyanate,,-92.0,,,,,,,
+C2H3NO3,Oxamic acid,-661.2,,-552.3,,,,,,
+C2H3NS,Methyl isothiocyanate,79.4,,,,,,,,
+C2H3NaO2,Sodium acetate,-708.8,,,-607.2,,,123.0,,
+C2H4,Ethylene,,,52.4,,,68.4,,,219.3
+C2H4BrCl,1-Bromo-2-chloroethane,,,,,,,,,
+C2H4Br2,"1,1-Dibromoethane",,-66.2,,,,,,,327.7
+C2H4Br2,"1,2-Dibromoethane",,-79.2,-37.5,,,,,223.3,
+C2H4ClF,1-Chloro-1-fluoroethane,,,-313.4,,,,,,
+C2H4Cl2,"1,1-Dichloroethane",,-158.4,-127.7,,-73.8,-70.8,,211.8,305.1
+C2H4Cl2,"1,2-Dichloroethane",,-166.8,-126.4,,,,,,308.4
+C2H4I2,"1,2-Diiodoethane",9.3,,75.0,,,,,,
+C2H4N2O2,Oxamide,-504.4,,-387.1,,,,,,
+C2H4N2O2,"Ethanedial, dioxime",-90.5,,,,,,,,
+C2H4N2O4,"1,1-Dinitroethane",,-148.2,,,,,,,
+C2H4N2O4,"1,2-Dinitroethane",,-165.2,,,,,,,
+C2H4N2S2,Ethanedithioamide,-20.8,,83.0,,,,,,
+C2H4N4,"1 H-1,2,4-Triazol-3-amine",76.8,,,,,,,,
+C2H4O,Acetaldehyde,,-192.2,-166.2,,-127.6,-133.0,,160.2,263.8
+C2H4O,Ethylene oxide,,-78.0,-52.6,,-11.8,-13.0,,153.9,242.5
+C2H4OS,Thioacetic acid,,-216.9,-175.1,,,,,,
+C2H4O2,Acetic acid,,-484.3,-432.2,,-389.9,-374.2,,159.8,283.5
+C2H4O2,Methyl formate,,-386.1,-357.4,,,,,,285.3
+C2H4S,Thiirane,,51.6,82.0,,,96.8,,,255.2
+C2H4Si,Ethynylsilane,,,,,,,,,269.4
+C2H5Br,Bromoethane,,-90.5,-61.9,,-25.8,-23.9,,198.7,286.7
+C2H5Cl,Chloroethane,,-136.8,-112.1,,-59.3,-60.4,,190.8,276.0
+C2H5ClO,Ethylene chlorohydrin,,-295.4,,,,,,,
+C2H5F,Fluoroethane,,,,,,,,,264.5
+C2H5I,Iodoethane,,-40.0,-8.1,,14.7,19.2,,211.7,306.0
+C2H5N,Ethyleneimine,,91.9,126.5,,,,,,
+C2H5NO,Acetamide,-317.0,,-238.3,,,,115.0,,
+C2H5NO,N-Methylformamide,,,,,,,,,
+C2H5NO2,Nitroethane,,-143.9,-102.3,,,,,,
+C2H5NO2,Glycine,-528.5,,-392.1,,,,,,
+C2H5NO3,2-Nitroethanol,,-350.7,,,,,,,
+C2H5NO3,Ethyl nitrate,,-190.4,-154.1,,,,,,
+C2H5NS,Thioacetamide,-71.7,,11.4,,,,,,
+C2H6,Ethane,,,-84.0,,,-32.0,,,229.2
+C2H6Cd,Dimethyl cadmium,,63.6,101.6,,139.0,146.9,,201.9,303.0
+C2H6Hg,Dimethyl mercury,,59.8,94.4,,140.3,146.1,,209.0,306.0
+C2H6N2O,N-Methylurea,-332.8,,,,,,,,
+C2H6N4O2,"1,2-Hydrazinedicarboxamide",-498.7,,,,,,,,
+C2H6N4O2,"Ethanedioic acid, dihydrazide",-295.2,,,,,,,,
+C2H6O,Ethanol,,-277.6,-234.8,,-174.8,-167.9,,160.7,281.6
+C2H6O,Dimethyl ether,,-203.3,-184.1,,,-112.6,,,266.4
+C2H6OS,Dimethyl sulfoxide,,-204.2,-151.3,,-99.9,,,188.3,
+C2H6O2,Ethylene glycol,,-460.0,-392.2,,,,,163.2,303.8
+C2H6O2S,Dimethyl sulfone,-450.1,,-373.1,-302.4,,-272.7,142.0,,310.6
+C2H6O3S,Dimethyl sulfite,,-523.6,-483.4,,,,,,
+C2H6O4S,Dimethyl sulfate,,-735.5,-687.0,,,,,,
+C2H6S,Ethanethiol,,-73.6,-46.1,,-5.5,-4.8,,207.0,296.2
+C2H6S,Dimethyl sulfide,,-65.3,-37.4,,,,,196.4,286.0
+C2H6S2,"1,2-Ethanedithiol",,-54.3,-9.7,,,,,,
+C2H6S2,Dimethyl disulfide,,-62.6,-24.7,,,,,235.4,
+C2H7N,Ethylamine,,-74.1,-47.5,,,36.3,,,283.8
+C2H7N,Dimethylamine,,-43.9,-18.8,,70.0,68.5,,182.3,273.1
+C2H7NO,Ethanolamine,,,,,,,,,
+C2H8ClN,Dimethylamine hydrochloride,-289.3,,,,,,,,
+C2H8N2,"1,2-Ethanediamine",,-63.0,-18.0,,,,,,
+C2H8N2,"1,1-Dimethylhydrazine",,48.9,84.1,,206.4,,,198.0,
+C2H8N2,"1,2-Dimethylhydrazine",,52.7,92.2,,,,,,
+C2H8N2O4,Ammonium oxalate,-1123.0,,,,,,,,
+C2HgO4,Mercury(II) oxalate,-678.2,,,,,,,,
+C2I2,Diiodoacetylene,,,,,,,,,313.1
+C2I4,Tetraiodoethylene,305.0,,,,,,,,
+C2K2O4,Potassium oxalate,-1346.0,,,,,,,,
+C2MgO4,Magnesium oxalate,-1269.0,,,,,,,,
+C2N2,Cyanogen,,285.9,306.7,,,,,,241.9
+C2N4O6,Trinitroacetonitrile,,183.7,,,,,,,
+C2Na2O4,Sodium oxalate,,,-1318.0,,,,,,
+C2O4Pb,Lead(II) oxalate,-851.4,,,-750.1,,,146.0,,
+C3F8,Perfluoropropane,,,-1783.2,,,,,,
+C3H2N2,Malononitrile,186.4,,265.5,,,,,,
+C3H2O2,2-Propynoic acid,,-193.2,,,,,,,
+C3H2O3,"1,3-Dioxol-2-one",,-459.9,-418.6,,,,,,
+C3H3Cl3,"1,2,3-Trichloropropene",,-101.8,,,,,,,
+C3H3F3,"3,3,3-Trifluoropropene",,,-614.2,,,,,,
+C3H3N,2-Propenenitrile,,147.1,180.6,,,,,,
+C3H3NO,Oxazole,,-48.0,-15.5,,,,,,
+C3H3NO,Isoxazole,,42.1,78.6,,,,,,
+C3H4,Allene,,,190.5,,,,,,
+C3H4,Propyne,,,184.9,,,,,,
+C3H4,Cyclopropene,,,277.1,,,,,,
+C3H4Cl2,"2,3-Dichloropropene",,-73.3,,,,,,,
+C3H4Cl4,"1,1,1,3-Tetrachloropropane",,-208.7,,,,,,,
+C3H4Cl4,"1,2,2,3-Tetrachloropropane",,-251.8,,,,,,,
+C3H4F4O,"2,2,3,3-Tetrafluoro-1-propanol",,-1114.9,-1061.3,,,,,,
+C3H4N2,1 H-Pyrazole,,105.4,179.4,,,,,,
+C3H4N2,Imidazole,49.8,,132.9,,,,,,
+C3H4O2,"1,2-Propanedione",,-309.1,-271.0,,,,,,
+C3H4O2,Propenoic acid,,-383.8,,,,,,,
+C3H4O2,2-Oxetanone,,-329.9,-282.9,,,,,175.3,
+C3H4O3,Ethylene carbonate,,-571.5,-508.4,,,,,,
+C3H5Br,cis-1-Bromopropene,,7.9,40.8,,,,,,
+C3H5Br,3-Bromopropene,,12.2,45.2,,,,,,
+C3H5BrO,Bromoacetone,,,-181.0,,,,,,
+Ag,Silver,0.0,,284.9,,,246.0,42.6,,173.0
+AgBr,Silver(I) bromide,-100.4,,,-96.9,,,107.1,,
+AgBrO3,Silver(I) bromate,-10.5,,,71.3,,,151.9,,
+AgCl,Silver(I) chloride,-127.0,,,-109.8,,,96.3,,
+AgClO3,Silver(I) chlorate,-30.3,,,64.5,,,142.0,,
+AgClO4,Silver(I) perchlorate,-31.1,,,,,,,,
+AgF,Silver(I) fluoride,-204.6,,,,,,,,
+AgF2,Silver(II) fluoride,-360.0,,,,,,,,
+AgI,Silver(I) iodide,-61.8,,,-66.2,,,115.5,,
+AgIO3,Silver(I) iodate,-171.1,,,-93.7,,,149.4,,
+AgNO3,Silver(I) nitrate,-124.4,,,-33.4,,,140.9,,
+Ag2,Disilver,,,410.0,,,358.8,,,257.1
+Ag2CrO4,Silver(I) chromate,-731.7,,,-641.8,,,217.6,,
+Ag2O,Silver(I) oxide,-31.1,,,-11.2,,,121.3,,
+Ag2O2,Silver(II) oxide,-24.3,,,27.6,,,117.0,,
+Ag2O3,Silver(III) oxide,33.9,,,121.4,,,100.0,,
+Ag2O4S,Silver(I) sulfate,-715.9,,,-618.4,,,200.4,,
+Ag2S,Silver(I) sulfide (argentite),-32.6,,,-40.7,,,144.0,,
+Al,Aluminum,0.0,,330.0,,,289.4,28.3,,164.6
+AlB3H12,Aluminum borohydride,,-16.3,13.0,,145.0,147.0,,289.1,379.2
+AlBr,Aluminum monobromide,,,-4.0,,,-42.0,,,239.5
+AlBr3,Aluminum tribromide,-527.2,,-425.1,,,,180.2,,
+AlCl,Aluminum monochloride,,,-47.7,,,-74.1,,,228.1
+AlCl2,Aluminum dichloride,,,-331.0,,,,,,
+AlCl3,Aluminum trichloride,-704.2,,-583.2,-628.8,,,109.3,,
+AlF,Aluminum monofluoride,,,-258.2,,,-283.7,,,215.0
+AlF3,Aluminum trifluoride,-1510.4,,-1204.6,-1431.1,,-1188.2,66.5,,277.1
+AlF4Na,Sodium tetrafluoroaluminate,,,-1869.0,,,-1827.5,,,345.7
+AlH,Aluminum hydride,,,259.2,,,231.2,,,187.9
+AlH3,Aluminum hydride,-46.0,,,,,,30.0,,
+AlH4K,Potassium aluminum hydride,-183.7,,,,,,,,
+AlH4Li,Lithium aluminum hydride,-116.3,,,-44.7,,,78.7,,
+AlH4Na,Sodium aluminum hydride,-15.5,,,,,,,,
+AlI,Aluminum monoiodide,,,65.5,,,,,,
+AlI3,Aluminum triiodide,-313.8,,-207.5,-300.8,,,159.0,,
+AlN,Aluminum nitride,-318.0,,,-287.0,,,20.2,,
+AlO,Aluminum monoxide,,,91.2,,,65.3,,,218.4
+AlO4P,Aluminum phosphate,-1733.8,,,-1617.9,,,90.8,,
+AlP,Aluminum phosphide,-166.5,,,,,,,,
+AlS,Aluminum monosulfide,,,200.9,,,150.1,,,230.6
+Al2,Dialuminum,,,485.9,,,433.3,,,233.2
+Al2Br6,Aluminum hexabromide,,,-970.7,,,,,,
+Al2Cl6,Aluminum hexachloride,,,-1290.8,,,-1220.4,,,490.0
+C3H5Cl,3-Chloropropene,,,,,,,,,
+C3H5ClO,Epichlorohydrin,,-148.4,-107.8,,,,,,
+C3H5ClO2,2-Chloropropanoic acid,,-522.5,-475.8,,,,,,
+C3H5ClO2,3-Chloropropanoic acid,-549.3,,,,,,,,
+C3H5ClO2,Ethyl chloroformate,,-505.3,-462.9,,,,,,
+C3H5Cl3,"1,2,3-Trichloropropane",,-230.6,-182.9,,,,,,
+C3H5I,3-Iodopropene,,53.7,91.5,,,,,,
+C3H5IO,Iodoacetone,,,-130.5,,,,,,
+C3H5IO2,3-Iodopropanoic acid,-460.0,,,,,,,,
+C3H5N,Propanenitrile,,15.5,51.7,,,,,,
+C3H5N,2-Propyn-1-amine,,205.7,,,,,,,
+C3H5N,Ethyl isocyanide,,108.6,141.7,,,,,,
+C3H5NO3,Nitroacetone,,-278.6,,,,,,,
+C3H5NO4,Methyl nitroacetate,,-464.0,,,,,,,
+C3H5N3O9,Trinitroglycerol,,-370.9,-270.9,,,,,,
+C3H6,Propene,,4.0,20.0,,,,,,
+C3H6,Cyclopropane,,35.2,53.3,,,104.5,,,237.5
+C3H6Br2,"1,2-Dibromopropane",,-113.6,-71.6,,,,,,
+C3H6Cl2,"1,2-Dichloropropane",,-198.8,-162.8,,,,,,
+C3H6Cl2,"1,3-Dichloropropane",,-199.9,-159.2,,,,,,
+C3H6Cl2,"2,2-Dichloropropane",,-205.8,-173.2,,,,,,
+C3H6Cl2O,"2,3-Dichloro-1-propanol",,-381.5,-316.3,,,,,,
+C3H6Cl2O,"1,3-Dichloro-2-propanol",,-385.3,-318.4,,,,,,
+C3H6I2,"1,2-Diiodopropane",,,35.6,,,,,,
+C3H6I2,"1,3-Diiodopropane",,-9.0,,,,,,,
+C3H6N2O2,Propanediamide,-546.1,,,,,,,,
+C3H6N2O2,N-(Aminocarbonyl) acetamide,-544.2,,-441.2,,,,,,
+C3H6N2O4,"1,1-Dinitropropane",,-163.2,-100.7,,,,,,
+C3H6N2O4,"1,3-Dinitropropane",,-207.1,,,,,,,
+C3H6N2O4,"2,2-Dinitropropane",,-181.2,,,,,,,
+C3H6O,Allyl alcohol,,-171.8,-124.5,,,,,,
+C3H6O,Propanal,,-215.6,-185.6,,,,,,304.5
+C3H6O,Acetone,,-248.4,-217.1,,,-152.7,,199.8,295.3
+C3H6O,Methyloxirane,,-123.0,-94.7,,,,,196.5,286.9
+C3H6O,Oxetane,,-110.8,-80.5,,,,,,
+C3H6O2,Propanoic acid,,-510.7,-455.7,,,,,191.0,
+C3H6O2,Ethyl formate,,,,,,,,,
+C3H6O2,Methyl acetate,,-445.9,-413.3,,,,,,324.4
+C3H6O2,"1,3-Dioxolane",,-333.5,-298.0,,,,,,
+C3H6O2S,Thiolactic acid,,-468.4,,,,,,,
+C3H6O3,Trioxane,-522.5,,-465.9,,,,133.0,,
+C3H6S,Thiacyclobutane,,24.7,60.6,,,107.1,,184.9,285.0
+C3H6S,Methylthiirane,,11.3,45.8,,,,,,
+C3H6S2,"1,3-Dithiolane",,,10.0,,,54.7,,,323.3
+C3H7Br,1-Bromopropane,,-121.9,-87.0,,,,,,
+C3H7Br,2-Bromopropane,,-130.5,-99.4,,,,,,
+C3H7Cl,1-Chloropropane,,-160.5,-131.9,,,,,,
+C3H7Cl,2-Chloropropane,,-172.3,-144.9,,,,,,
+C3H7ClO2,"3-Chloro-1,2-propanediol",,-525.3,,,,,,,
+C3H7ClO2,"2-Chloro-1,3-propanediol",,-517.5,,,,,,,
+C3H7F,1-Fluoropropane,,,-285.9,,,,,,
+C3H7F,2-Fluoropropane,,,-293.5,,,,,,
+C3H7I,1-Iodopropane,,-66.0,-30.0,,,,,,
+C3H7I,2-Iodopropane,,-74.8,-40.3,,,,,,
+C3H7N,Allylamine,,-10.0,,,,,,,
+C3H7N,Cyclopropylamine,,45.8,77.0,,,,,187.7,
+C3H7NO,"N,N-Dimethylformamide",,-239.3,-192.4,,,,,,
+C3H7NO,Propanamide,-338.2,,-259.0,,,,,,
+C3H7NO2,1-Nitropropane,,-167.2,-123.8,,,,,,
+C3H7NO2,2-Nitropropane,,-180.3,-138.9,,,,,,
+C3H7NO2,DL-Alanine,-563.6,,,,,,,,
+C3H7NO2,D-Alanine,-561.2,,,,,,,,
+C3H7NO2,L-Alanine,-604.0,,-465.9,,,,,,
+C3H7NO2,β-Alanine,-558.0,,-424.0,,,,,,
+C3H7NO2,N-Methylglycine,-513.3,,-367.3,,,,,,
+C3H7NO2S,L-Cysteine,-534.1,,,,,,,,
+C3H7NO3,Propyl nitrate,,-214.5,-173.9,,,,,,
+C3H7NO3,Isopropyl nitrate,,-229.7,-191.0,,,,,,
+C3H7NO3,DL-Serine,-739.0,,,,,,,,
+C3H7NO3,L-Serine,-732.7,,,,,,,,
+C3H8,Propane,,-120.9,-103.8,,,-23.4,,,270.3
+C3H8N2O,N-Ethylurea,-357.8,,,,,,,,
+C3H8N2O,"N,N-Dimethylurea",-319.1,,,,,,,,
+C3H8N2O,"N,N’-Dimethylurea",-312.1,,,,,,,,
+C3H8N2O3,Oxymethurea,-717.0,,,,,,,,
+C3H8O,1-Propanol,,-302.6,-255.1,,,,,193.6,322.6
+C3H8O,2-Propanol,,-318.1,-272.6,,,,,181.1,309.2
+C3H8O,Ethyl methyl ether,,,-216.4,,,,,,309.2
+C3H8O2,"1,2-Propylene glycol",,-501.0,-429.8,,,,,,
+C3H8O2,"1,3-Propylene glycol",,-480.8,-408.0,,,,,,
+C3H8O2,Ethylene glycol monomethyl ether,,,,,,,,,
+C3H8O2,Dimethoxymethane,,-377.8,-348.5,,,,,244.0,
+C3H8O3,Glycerol,,-669.6,-577.9,,,,,206.3,
+C3H8S,1-Propanethiol,,-99.9,-67.8,,,,,242.5,
+C3H8S,2-Propanethiol,,-105.9,-76.2,,,,,233.5,
+C3H8S,Ethyl methyl sulfide,,-91.6,-59.6,,,,,239.1,
+C3H9Al,Trimethyl aluminum,,-136.4,-74.1,,-9.9,,,209.4,
+C3H9B,Trimethylborane,,-143.1,-124.3,,-32.1,-35.9,,238.9,314.7
+C3H9ClSi,Trimethylchlorosilane,,-382.8,-352.8,,-246.4,-243.5,,278.2,369.1
+C3H9N,Propylamine,,-101.5,-70.1,,,39.9,,,325.4
+C3H9N,Isopropylamine,,-112.3,-83.7,,,32.2,,218.3,312.2
+C3H9N,Trimethylamine,,-45.7,-23.6,,,,,208.5,287.1
+C3H10ClN,Propylamine hydrochloride,-354.7,,,,,,,,
+C3H10ClN,Trimethylamine hydrochloride,-282.9,,,,,,,,
+C3H10N2,"1,2-Propanediamine, (±)-",,-97.8,-53.6,,,,,,
+C3H10Si,Trimethylsilane,,,,,,,,,331.0
+C3H12BN,Trimethylamine borane,-142.5,,,70.7,,,187.0,,
+C3H12BN,Aminetrimethylboron,-284.1,,,-79.3,,,218.0,,
+C4F8,Perfluorocyclobutane,,,-1542.6,,,,,,
+C4F10,Perfluorobutane,,,,,,,,,
+C4H2N2,trans-2-Butenedinitrile,268.2,,340.2,,,,,,
+C4H2O3,Maleic anhydride,-469.8,,-398.3,,,,,,
+C4H2O4,2-Butynedioic acid,-577.3,,,,,,,,
+C4H3NO3,2-Nitrofuran,-104.1,,-28.8,,,,,,
+C4H4BrNO2,N-Bromosuccinimide,-335.9,,,,,,,,
+C4H4ClNO2,N-Chlorosuccinimide,-357.9,,,,,,,,
+C4H4N2,Succinonitrile,,139.7,209.7,,,,,191.6,
+C4H4N2,Pyrazine,139.8,,196.1,,,,,,
+C4H4N2,Pyrimidine,,145.9,195.7,,,,,,
+C4H4N2,Pyridazine,,224.9,278.3,,,,,,
+C4H4N2O2,Uracil,-429.4,,-302.9,,,,,,
+C4H4N2O3,"2,4,6-Trihydroxypyrimidine",-634.7,,,,,,,,
+C4H4O,Furan,,-62.3,-34.8,,,,,177.0,267.2
+C4H4O2,Diketene,,-233.1,-190.3,,,,,,
+C4H4O3,Succinic anhydride,-608.6,,-527.9,,,,,,
+C4H4O4,Maleic acid,-789.4,,-679.4,,,,160.8,,
+C4H4O4,Fumaric acid,-811.7,,-675.8,,,,168.0,,
+C4H4S,Thiophene,,80.2,114.9,,,126.1,,181.2,278.8
+C4H5N,trans-2-Butenenitrile,,95.1,134.3,,,,,,
+C4H5N,3-Butenenitrile,,117.8,159.7,,,,,,
+C4H5N,Pyrrole,,63.1,108.2,,,,,156.4,
+C4H5N,Cyclopropanecarbonitrile,,140.8,182.8,,,,,,
+C4H5NO2,Succinimide,-459.0,,-375.4,,,,,,
+C4H5NS,4-Methylthiazole,,67.9,111.8,,,,,,
+C4H5N3O,Cytosine,-221.3,,,,,,,,
+C4H6,"1,2-Butadiene",,138.6,162.3,,,,,,
+C4H6,"1,3-Butadiene",,88.5,110.0,,,,,199.0,
+C4H6,1-Butyne,,141.4,165.2,,,,,,
+C4H6,2-Butyne,,119.1,145.7,,,,,,
+C4H6N2O2,"2,5-Piperazinedione",-446.5,,,,,,,,
+C4H6O,Divinyl ether,,-39.8,-13.6,,,,,,
+C4H6O,trans-2-Butenal,,-138.7,-100.6,,,,,,
+C4H6O2","trans -Crotonic acid Methacrylic acid",,,,,,,,,
+C4H6O2,Vinyl acetate,,-349.2,-314.4,,,,,,
+C4H6O2,Methyl acrylate,,-362.2,-333.0,,,,,239.5,
+C4H6O2,γ-Butyrolactone,,-420.9,-366.5,,,,,,
+C4H6O3,Acetic anhydride,,-624.4,-572.5,,,,,,
+C4H6O3,Propylene carbonate,,-613.2,-582.5,,,,,,
+C4H6O4,Succinic acid,-940.5,,-823.0,,,,167.3,,
+C4H6O4,Dimethyl oxalate,-756.3,,-708.9,,,,,,
+C4H6S,"2,3-Dihydrothiophene",,52.9,90.7,,,133.5,,,303.5
+C4H6S,"2,5-Dihydrothiophene",,47.0,86.9,,,131.6,,,297.1
+C4H7ClO,2-Chloroethyl vinyl ether,,-208.1,-170.1,,,,,,
+C4H7ClO2,2-Chlorobutanoic acid,,-575.5,,,,,,,
+C4H7ClO2,3-Chlorobutanoic acid,,-556.3,,,,,,,
+C4H7ClO2,4-Chlorobutanoic acid,,-566.3,,,,,,,
+C4H7ClO2,Propyl chlorocarbonate,,-533.4,-492.7,,,,,,
+C4H7N,Butanenitrile,,-5.8,33.6,,,,,,
+C4H7N,2-Methylpropanenitrile,,-13.8,23.4,,,,,,
+C4H7NO,2-Pyrrolidone,,-286.2,,,,,,,
+C4H7NO,2-Methyl-2-oxazoline,,-169.5,-130.5,,,,,,
+C4H7NO4,Iminodiacetic acid,-932.6,,,,,,,,
+C4H7NO4,Ethyl nitroacetate,,-487.1,,,,,,,
+C4H7NO4,L-Aspartic acid,-973.3,,,,,,,,
+C4H7N3O,"4H-Imidazol-4-one, 2-amino-1,5-dihydro-1-methyl-2-amino-1,5-dihydro-1-",-238.5,,,,,,,,
+C4H8,1-Butene,,-20.8,0.1,,,,,227.0,
+C4H8,cis-2-Butene,,-29.8,-7.1,,,,,219.9,
+C4H8,trans-2-Butene,,-33.3,-11.4,,,,,,
+C4H8,Isobutene,,-37.5,-16.9,,,,,,
+C4H8,Cyclobutane,,3.7,27.7,,,,,,
+C4H8,Methylcyclopropane,,1.7,,,,,,,
+C4H8Br2,"1,2-Dibromobutane",,-142.1,-91.6,,,,,,
+C4H8Br2,"1,3-Dibromobutane",,-148.0,,,,,,,
+C4H8Br2,"1,4-Dibromobutane",,-140.3,-87.8,,,,,,
+C4H8Br2,"2,3-Dibromobutane",,-139.6,-102.0,,,,,,
+C4H8Br2,"1,2-Dibromo-2-methylpropane",,-156.6,-113.3,,,,,,
+C4H8Cl2,"1,3-Dichlorobutane",,-237.3,-195.0,,,,,,
+C4H8Cl2,"1,4-Dichlorobutane",,-229.8,-183.4,,,,,,
+C4H8Cl2O,Bis(2-chloroethyl) ether,,,,,,,,,
+C4H8N2O2,Succinamide,-581.2,,,,,,,,
+C4H8N2O2,Dimethylglyoxime,-199.7,,,,,,,,
+C4H8N2O3,L-Asparagine,-789.4,,,,,,,,
+C4H8N2O3,N-Glycylglycine,-747.7,,,,,,,,
+C4H8N2O4,"1,4-Dinitrobutane",,-237.5,,,,,,,
+C4H8O,Ethyl vinyl ether,,-167.4,-140.8,,,,,,
+C4H8O,"1,2-Epoxybutane",,-168.9,,,,,,230.9,
+C4H8O,Butanal,,-239.2,-204.8,,,,,246.6,343.7
+C4H8O,Isobutanal,,-247.3,-215.7,,,,,,
+C4H8O,2-Butanone,,-273.3,-238.5,,,,,239.1,339.9
+C4H8O,Tetrahydrofuran,,-216.2,-184.1,,,,,204.3,302.4
+C4H8OS,S-Ethyl thioacetate,,-268.2,-228.1,,,,,,
+C4H8O2,Butanoic acid,,-533.8,-475.9,,,,,222.2,
+C4H8O2,2-Methylpropanoic acid,,,,,,,,,
+C4H8O2,Propyl formate,,-500.3,-462.7,,,,,,
+C4H8O2,Ethyl acetate,,-479.3,-443.6,,,,,257.7,
+C4H8O2,"1,3-Dioxane",,-379.7,-340.6,,,,,,
+C4H8O2,"1,4-Dioxane",,-353.9,-315.3,,,,,270.2,
+C4H8O2,"2-Methyl-1,3-dioxolane",,-386.9,-352.0,,,,,,
+C4H8O2S,Sulfolane,,,,,,,,,
+C4H8S,Tetrahydrothiophene,,-72.9,-34.1,,,45.8,,,309.6
+C4H8S2,"1,3-Dithiane",,,-10.0,,,72.4,,,333.5
+C4H9Br,1-Bromobutane,,-143.8,-107.1,,,,,,
+C4H9Br,2-Bromobutane,,-154.9,-120.3,,,,,,
+C4H9Br,2-Bromo-2-methylpropane,,-164.4,-132.4,,,,,,
+C4H9Cl,1-Chlorobutane,,-188.1,-154.4,,,,,,
+C4H9Cl,2-Chlorobutane,,-192.8,-161.1,,,,,,
+C4H9Cl,1-Chloro-2-methylpropane,,-191.1,-159.3,,,,,,
+C4H9Cl,2-Chloro-2-methylpropane,,-211.3,-182.2,,,,,,
+C4H9ClO,2-Chloroethyl ethyl ether,,-335.6,-301.3,,,,,,
+C4H9I,1-Iodo-2-methylpropane,,,,,,,,,
+C4H9I,2-Iodo-2-methylpropane,,-107.5,-72.1,,,,,,
+C4H9N,Cyclobutanamine,,5.6,41.2,,,,,,
+C4H9N,Pyrrolidine,,-41.1,-3.6,,,,,204.1,
+C4H9NO,Butanamide,,-346.9,-282.0,,,,,,
+C4H9NO,N-Methylpropanamide,,,,,,,,,
+C4H9NO,2-Methylpropanamide,-368.6,,-282.6,,,,,,
+C4H9NO,"N,N-Dimethylacetamide",,-278.3,-228.0,,,,,,
+C4H9NO,Morpholine,,,,,,,,,
+C4H9NO2,1-Nitrobutane,,-192.5,-143.9,,,,,,
+C4H9NO2,2-Nitroisobutane,,-217.2,-177.1,,,,,,
+C4H9NO2,Propyl carbamate,-552.6,,-471.4,,,,,,
+C4H9NO2,4-Aminobutanoic acid,-581.0,,-441.0,,,,,,
+C4H9NO3,3-Nitro-2-butanol,,-390.0,,,,,,,
+C4H9NO3,DL-Threonine,-758.8,,,,,,,,
+C4H9NO3,L-Threonine,-807.2,,,,,,,,
+C4H9N3O2,Creatine,-537.2,,,,,,,,
+C4H10,Butane,,-147.3,-125.7,,,,,,
+C4H10,Isobutane,,-154.2,-134.2,,,,,,
+C4H10Hg,Diethyl mercury,,30.1,75.3,,,,,,
+C4H10N2,Piperazine,-45.6,,,,,,,,
+C4H10N2O,Trimethylurea,-330.5,,,,,,,,
+C4H10N2O2,N-Nitrodiethylamine,,-106.2,-53.0,,,,,,
+C4H10N2O4,"L -Asparagine, monohydrate",-1086.6,,,,,,,,
+C4H10O,1-Butanol,,-327.3,-274.9,,,,,225.8,
+C4H10O,2-Butanol,,-342.6,-292.8,,,,,214.9,359.5
+C4H10O,2-Methyl-1-propanol,,-334.7,-283.8,,,,,214.7,
+C4H10O,2-Methyl-2-propanol,,-359.2,-312.5,,,,,193.3,326.7
+C4H10O,Diethyl ether,,-279.5,-252.1,,,,,172.4,342.7
+C4H10O,Methyl propyl ether,,-266.0,-238.1,,,,,262.9,
+C4H10O,Isopropyl methyl ether,,-278.8,-252.0,,,,,253.8,
+C4H10OS,Diethyl sulfoxide,,-268.0,-205.6,,,,,,
+C4H10O2,"1,2-Butanediol, (±)-",,-523.6,,,,,,,
+C4H10O2,"1,3-Butanediol",,-501.0,-433.2,,,,,,
+C4H10O2,"1,4-Butanediol",,-505.3,-428.7,,,,,223.4,
+C4H10O2,"2,3-Butanediol",,-541.5,-482.3,,,,,,
+C4H10O2,"2-Methyl-1,2-propanediol",,-539.7,,,,,,,
+C4H10O2,Ethylene glycol monoethyl ether,,,,,,,,,
+C4H10O2,Ethylene glycol dimethyl ether,,-376.6,,,,,,,
+C4H10O2,Dimethylacetal,,-420.6,-389.7,,,,,,
+C4H10O2,tert-Butyl hydroperoxide,,-293.6,-245.9,,,,,,
+C4H10O3,Diethylene glycol,,-628.5,-571.2,,,,,,
+C4H10O3S,Diethyl sulfite,,-600.7,-552.2,,,,,,
+C4H10O4S,"Sulfuric acid, diethyl ester",,-813.2,-756.3,,,,,,
+C4H10S,1-Butanethiol,,-124.7,-88.0,,,,,,
+C4H10S,2-Butanethiol,,-131.0,-96.9,,,,,,
+C4H10S,2-Methyl-1-propanethiol,,-132.0,-97.3,,,,,,
+C4H10S,2-Methyl-2-propanethiol,,-140.5,-109.6,,,,,,
+C4H10S,Diethyl sulfide,,-119.4,-83.5,,,,,269.3,368.1
+C4H10S,Methyl propyl sulfide,,-118.5,-82.2,,,,,272.5,
+C4H10S,Isopropyl methyl sulfide,,-124.7,-90.5,,,,,263.1,
+C4H10S2,"1,4-Butanedithiol",,-105.7,-50.6,,,,,,
+C4H10S2,Diethyl disulfide,,-120.1,-79.4,,,,,269.3,
+C4H11N,Butylamine,,-127.6,-91.9,,,,,,
+C4H11N,sec-Butylamine,,-137.5,-104.6,,,,,,
+C4H11N,tert-Butylamine,,-150.6,-121.0,,,,,,
+C4H11N,Isobutylamine,,-132.6,-98.7,,,,,,
+C4H11N,Diethylamine,,-103.7,-72.2,,,,,,
+C4H11NO2,Diethanolamine,-493.8,,-397.1,,,,,,
+C4H11NO3,"2-Amino-2-(hydroxymethyl)-1,3-propanediol",-717.8,,,,,,,,
+C4H12BrN,Tetramethylammonium bromide,-251.0,,,,,,,,
+C4H12ClN,Diethylamine hydrochloride,-358.6,,,,,,,,
+C4H12ClN,Tetramethylammonium chloride,-276.4,,,,,,,,
+C4H12IN,Tetramethylammonium iodide,-203.9,,,,,,,,
+C4H12N2,"2-Methyl-1,2-propanediamine",,-133.9,-90.3,,,,,,
+C4H12Pb,Tetramethyl lead,,97.9,135.9,,,,,,
+C4H12Si,Tetramethylsilane,,-264.0,-239.1,,-100.0,-99.9,,277.3,359.0
+C4H12Sn,Tetramethylstannane,,-52.3,-18.8,,,,,,
+C4H13N3,Diethylenetriamine,,,,,,,,,
+C4N2,2-Butynedinitrile,,500.4,529.2,,,,,,
+C4NiO4,Nickel carbonyl,,-633.0,-602.9,,-588.2,-587.2,,313.4,410.6
+C5FeO5,Iron pentacarbonyl,,-774.0,,,-705.3,,,338.1,
+C5H2F6O2,Hexafluoroacetylacetone,-2286.7,,,,,,,,
+C5H3NO5,5-Nitro-2-furancarboxylic acid,-516.8,,,,,,,,
+C5H4N4,1 H-Purine,169.4,,,,,,,,
+C5H4N4O,Hypoxanthine,-110.8,,,,,,145.6,,
+C5H4N4O2,Xanthine,-379.6,,,,,,161.1,,
+C5H4N4O3,Uric acid,-618.8,,,,,,173.2,,
+C5H4O2,Furfural,,-201.6,-151.0,,,,,,
+C5H4O3,2-Furancarboxylic acid,-498.4,,-390.0,,,,,,
+C5H4O3,"3-Methyl-2,5-furandione",,-504.5,-447.2,,,,,,
+C5H5F3O2,"1,1,1-Trifluoro-2,4-pentanedione",,-1040.2,-993.3,,,,,,
+C5H5N,Pyridine,,100.2,140.4,,,,,,
+C5H5NO,1 H-Pyrrole-2-carboxaldehyde,-106.4,,,,,,,,
+C5H5N5,Adenine,96.9,,205.7,,,,,,
+C5H5N5O,Guanine,-183.9,,,,,,,,
+C5H6,cis-3-Penten-1-yne,,226.5,,,,,,,
+C5H6,trans-3-Penten-1-yne,,228.2,,,,,,,
+C5H6,"1,3-Cyclopentadiene",,105.9,134.3,,,,,,
+C5H6N2O2,Thymine,-462.8,,-328.7,,,,,,
+C5H6O2,Furfuryl alcohol,,-276.2,-211.8,,,,,,
+C5H6O4,"trans -1-Propene-1,2-dicarboxylic acid",-824.4,,,,,,,,
+C5H6S,2-Methylthiophene,,44.6,83.5,,,,,218.5,
+C5H6S,3-Methylthiophene,,43.1,82.5,,,,,,
+C5H7N,trans-3-Pentenenitrile,,80.9,125.7,,,,,,
+C5H7N,Cyclobutanecarbonitrile,,103.0,147.4,,,,,,
+C5H7N,2-Methylpyrrole,,23.3,74.0,,,,,,
+C5H7N,3-Methylpyrrole,,20.5,70.2,,,,,,
+C5H7NO2,Ethyl cyanoacetate,,,,,,,,,
+C5H8,"1,2-Pentadiene",,,140.7,,,,,,
+C5H8,"cis-1,3-Pentadiene",,,81.4,,,,,,
+C5H8,"trans-1,3-Pentadiene",,,76.1,,,,,,
+C5H8,"1,4-Pentadiene",,,105.7,,,,,,
+C5H8,"2,3-Pentadiene",,,133.1,,,,,,
+C5H8,"3-Methyl-1,2-butadiene",,101.2,,,,,,,
+C5H8,"2-Methyl-1,3-butadiene",,48.2,75.5,,,,,229.3,
+C5H8,Cyclopentene,,4.3,34.0,,,,,201.2,
+C5H8,Methylenecyclobutane,,93.8,121.6,,,,,,
+C5H8,Spiropentane,,157.5,185.2,,,,,193.7,
+C5H8N4O12,Pentaerythritol tetranitrate,-538.6,,,,,,,,
+C5H8O,Cyclopentanone,,-235.9,-192.1,,,,,,
+C5H8O2,4-Pentenoic acid,-430.6,,,,,,,,
+C5H8O2,Methyl trans-2-butenoate,,-382.9,-341.9,,,,,,
+C5H8O2,Methyl methacrylate,,,,,,,,,
+C5H8O2,Allyl acetate,,,,,,,,,
+C5H8O2,"2,4-Pentanedione",,-423.8,-382.0,,,,,,
+C5H8O2,4-Methyl-gamma-butyrolactone,,-461.3,-406.5,,,,,,
+C5H8O2,Tetrahydro-2 H-pyran-2-one,,-436.7,-379.6,,,,,,
+C5H8O4,Glutaric acid,-960.0,,,,,,,,
+C5H9ClO2,Propyl chloroacetate,,-515.5,-467.0,,,,,,
+C5H9N,Pentanenitrile,,-33.1,10.5,,,,,,
+C5H9N,"2,2-Dimethylpropanenitrile",,-39.8,-2.3,,,,,232.0,
+C5H9N,"1,2,5,6-Tetrahydropyridine",,33.5,,,,,,,
+C5H9NO,2-Piperidinone,-306.6,,,,,,,,
+C5H9NO,N-Methyl-2-pyrrolidone,,-262.2,,,,,,,
+C5H9NO2,L-Proline,-515.2,,-366.2,,,,,,
+C5H9NO4,D-Glutamic acid,-1005.3,,,,,,,,
+C5H9NO4,L-Glutamic acid,-1009.7,,,,,,,,
+C5H10,1-Pentene,,-46.9,-21.1,,,,,262.6,
+C5H10,cis-2-Pentene,,-53.7,-27.6,,,,,258.6,
+C5H10,trans-2-Pentene,,-58.2,-31.9,,,,,256.5,
+C5H10,2-Methyl-1-butene,,-61.1,-35.2,,,,,254.0,
+C5H10,3-Methyl-1-butene,,-51.5,-27.5,,,,,253.3,
+C5H10,2-Methyl-2-butene,,-68.6,-41.7,,,,,251.0,
+C5H10,Cyclopentane,,-105.1,-76.4,,,,,204.5,
+C5H10,Methylcyclobutane,,-44.5,,,,,,,
+C5H10,Ethylcyclopropane,,-24.8,,,,,,,
+C5H10,"1,1-Dimethylcyclopropane",,-33.3,-8.2,,,,,,
+C5H10,"cis-1,2-Dimethylcyclopropane",,-26.3,,,,,,,
+C5H10Br2,"1,3-Dibromo-2-methylpropane",,,-137.6,,,,,,
+C5H10N2O,N-Nitrosopiperidine,,-31.1,16.6,,,,,,
+C5H10N2O2,N-Nitropiperidine,,-93.0,-44.5,,,,,,
+C5H10N2O3,L-Glutamine,-826.4,,,,,,,,
+C5H10O,Cyclopentanol,,-300.1,-242.5,,,,,206.3,
+C5H10O,Pentanal,,-267.2,-228.4,,,,,,
+C5H10O,2-Pentanone,,-297.3,-258.8,,,,,,
+C5H10O,3-Pentanone,,-296.5,-257.9,,,,,266.0,
+C5H10O,3-Methyl-2-butanone,,-299.5,-262.6,,,,,268.5,
+C5H10O,"3,3-Dimethyloxetane",,-182.2,-148.2,,,,,,
+C5H10O,Tetrahydropyran,,-258.3,-223.4,,,,,,
+C5H10OS,S-Propyl thioacetate,,-294.5,-250.4,,,,,,
+C5H10O2,Pentanoic acid,,-559.4,-491.9,,,,,259.8,
+C5H10O2,2-Methylbutanoic acid,,-554.5,,,,,,,
+C5H10O2,3-Methylbutanoic acid,,-561.6,-510.0,,,,,,
+C5H10O2,"2,2-Dimethylpropanoic acid",-564.5,,-491.3,,,,,,
+C5H10O2,Butyl formate,,,,,,,,,
+C5H10O2,Propyl acetate,,,,,,,,,
+C5H10O2,Isopropyl acetate,,-518.9,-481.6,,,,,,
+C5H10O2,Ethyl propanoate,,-502.7,-463.4,,,,,,
+C5H10O2,"cis-1,2-Cyclopentanediol",-485.0,,,,,,,,
+C5H10O2,"trans-1,2-Cyclopentanediol",-490.1,,,,,,,,
+C5H10O2,"4-Methyl-1,3-dioxane",-416.1,,-376.9,,,,,,
+C5H10O2,(Ethoxymethyl)oxirane,,-296.5,,,,,,,
+C5H10O2,Tetrahydrofurfuryl alcohol,,-435.7,-369.1,,,,,,
+C5H10O3,Diethyl carbonate,,-681.5,-637.9,,,,,,
+C5H10O3,Ethylene glycol momomethyl ether acetate,,,,,,,,,
+C5H10O3,Ethyl lactate,,,,,,,,,
+C5H10O4,"1,2,3-Propanetriol,",,,,,,,,,
+C5H10O5,"1-acetate, (±)- D-Ribose",-1047.2,-909.2,,,,,,,
+C5H10O5,D-Xylose,-1057.8,,,,,,,,
+C5H10O5,α-D-Arabinopyranose,-1057.9,,,,,,,,
+C5H10S,Thiacyclohexane,,-106.3,-63.5,,,53.1,,218.2,323.0
+C5H10S,Cyclopentanethiol,,-89.5,-48.1,,,,,256.9,
+C5H11Br,1-Bromopentane,,-170.2,-128.9,,,,,,
+C5H11Cl,1-Chloropentane,,-213.2,-174.9,,,,,,
+C5H11Cl,2-Chloro-2-methylbutane,,-235.7,-202.2,,,,,,
+C5H11Cl,1-Chloro-3-methylbutane,,-216.0,-179.7,,,,,,
+C5H11Cl,2-Chloro-3-methylbutane,,-226.6,-185.1,,,,,,
+C5H11N,Cyclopentylamine,,-95.1,-54.9,,,,,241.0,
+C5H11NO,Pentanamide,-379.5,,-290.2,,,,,,
+C5H11NO,"2,2-Dimethylpropanamide",-399.7,,-313.1,,,,,,
+C5H11NO2,1-Nitropentane,,-215.4,,,,,,,
+C5H11NO2,DL-Valine,-628.9,,,,,,,,
+C5H11NO2,L-Valine,-617.9,,-455.1,,,,,,
+C5H11NO2,5-Aminopentanoic acid,-604.1,,-460.0,,,,,,
+C5H11NO2S,L-Methionine,-577.5,,-413.5,,,,,,
+C5H11NO4,"2-Ethyl-2-nitro-1,3-propanediol",-606.4,,,,,,,,
+C5H12,Pentane,,-173.5,-146.9,,,,,,
+C5H12,Isopentane,,-178.4,-153.6,,,,,260.4,
+C5H12,Neopentane,,-190.2,-168.0,,,,,,
+C5H12N2O,Butylurea,-419.5,,,,,,,,
+C5H12N2O,tert-Butylurea,-417.4,,,,,,,,
+C5H12N2O,"N , N-Diethylurea",-372.2,,,,,,,,
+C5H12N2O,Tetramethylurea,-262.2,,,,,,,,
+C5H12N2S,Tetramethylthiourea,-38.1,,44.9,,,,,,
+C5H12O,1-Pentanol,,-351.6,-294.6,,,,,,
+C5H12O,2-Pentanol,,-365.2,-311.0,,,,,,
+C5H12O,3-Pentanol,,-368.9,-314.9,,,,,,
+C5H12O,2-Methyl-1-butanol,,-356.6,-301.4,,,,,,
+C5H12O,3-Methyl-1-butanol,,-356.4,-300.7,,,,,,
+C5H12O,2-Methyl-2-butanol,,-379.5,-329.3,,,,,,
+C5H12O,3-Methyl-2-butanol,,-366.6,-313.5,,,,,,
+C5H12O,"2,2-Dimethyl-1-propanol",,-399.4,,,,,,,
+C5H12O,Butyl methyl ether,,-290.6,-258.1,,,,,295.3,
+C5H12O,tert-Butyl methyl ether,,-313.6,-283.7,,,,,265.3,
+C5H12O,Ethyl propyl ether,,-303.6,-272.0,,,,,295.0,
+C5H12O2,"1,5-Pentanediol",,-528.8,-450.8,,,,,,
+C5H12O2,"2,2-Dimethyl-1,3-propanediol",-551.2,,,,,,,,
+C5H12O2,Diethoxymethane,,-450.5,-414.7,,,,,,
+C5H12O2,"1,1-Dimethoxypropane",,-443.6,,,,,,,
+C5H12O2,"2,2-Dimethoxypropane",,-459.4,-429.9,,,,,,
+C5H12O3,Diethylene glycol monomethyl ether,,,,,,,,,
+C5H12O3,"2-(Hydroxymethyl)-2-methyl-1,3-propanediol",-744.6,,,,,,,,
+C5H12O4,Pentaerythritol,-920.6,,-776.7,,,,,,
+C5H12O5,Xylitol,-1118.5,,,,,,,,
+C5H12S,1-Pentanethiol,,-151.3,-110.0,,,,,,
+C5H12S,2-Methyl-1-butanethiol,,-154.4,-114.9,,,,,,
+C5H12S,3-Methyl-1-butanethiol,,-154.4,-114.9,,,,,,
+C5H12S,2-Methyl-2-butanethiol,,-162.8,-127.1,,,,,290.1,
+C5H12S,3-Methyl-2-butanethiol,,-158.8,-121.3,,,,,,
+Al2I6,Aluminum hexaiodide,,,-516.7,,,,,,
+Al2O,Aluminum oxide (Al2O),,,-130.0,,,-159.0,,,259.4
+Al2O3,Aluminum oxide (corundum),-1675.7,,,-1582.3,,,50.9,,
+Al2S3,Aluminum sulfide,-724.0,,,,,,116.9,,
+Am,Americium,0.0,,,,,,,,
+Ar,Argon,,,0.0,,,,,,154.8
+As,Arsenic (gray),0.0,,302.5,,,261.0,35.1,,174.2
+As,Arsenic (yellow),14.6,,,,,,,,
+AsBr3,Arsenic(III) bromide,-197.5,,-130.0,,,-159.0,,,363.9
+AsCl3,Arsenic(III) chloride,,-305.0,-261.5,,-259.4,-248.9,,216.3,327.2
+AsF3,Arsenic(III) fluoride,,-821.3,-785.8,,-774.2,-770.8,,181.2,289.1
+AsGa,Gallium arsenide,-71.0,,,-67.8,,,64.2,,
+AsH3,Arsine,,,66.4,,,68.9,,,222.8
+AsH3O4,Arsenic acid,-906.3,,,,,,,,
+AsI3,Arsenic(III) iodide,-58.2,,,-59.4,,,213.1,,388.3
+AsIn,Indium arsenide,-58.6,,,-53.6,,,75.7,,
+AsO,Arsenic monoxide,,,70.0,,,,,,
+As2,Diarsenic,,,222.2,,,171.9,,,239.4
+As2O5,Arsenic(V) oxide,-924.9,,,-782.3,,,105.4,,
+As2S3,Arsenic(III) sulfide,-169.0,,,-168.6,,,163.6,,
+At,Astatine,0.0,,,,,,,,
+Au,Gold,0.0,,366.1,,,326.3,47.4,,180.5
+AuBr,Gold(I) bromide,-14.0,,,,,,,,
+AuBr3,Gold(III) bromide,-53.3,,,,,,,,
+AuCl,Gold(I) chloride,-34.7,,,,,,,,
+AuCl3,Gold(III) chloride,-117.6,,,,,,,,
+AuF3,Gold(III) fluoride,-363.6,,,,,,,,
+AuH,Gold hydride,,,295.0,,,265.7,,,211.2
+AuI,Gold(I) iodide,0.0,,,,,,,,
+Au2,Digold,,,515.1,,,,,,
+B,Boron (rhombic),0.0,,565.0,,,521.0,5.9,,153.4
+BBr,Bromoborane,,,238.1,,,195.4,,,225.0
+BBr3,Boron tribromide,,-239.7,-205.6,,-238.5,-232.5,,229.7,324.2
+BCl,Chloroborane,,,149.5,,,120.9,,,213.2
+BClO,Chloroxyborane,,,-314.0,,,,,,
+BCl3,Boron trichloride,,-427.2,-403.8,,-387.4,-388.7,,206.3,290.1
+BCsO2,Cesium metaborate,-972.0,,,-915.0,,,104.4,,
+BF,Fluoroborane,,,-122.2,,,-149.8,,,200.5
+BFO,Fluorooxyborane,,,-607.0,,,,,,
+BF3,Boron trifluoride,,,-1136.0,,,-1119.4,,,254.4
+BF3H3N,Aminetrifluoroboron,-1353.9,,,,,,,,
+BF3H3P,"Trihydro(phosphorus trifluoride)boron",,,-854.0,,,,,,
+BF4Na,Sodium tetrafluoroborate,-1844.7,,,-1750.1,,,145.3,,
+C5H12S,Butyl methyl sulfide,,-142.9,-102.4,,,,,307.5,
+C5H12S,tert-Butyl methyl sulfide,,-157.1,-121.3,,,,,276.1,
+C5H12S,Ethyl propyl sulfide,,-144.8,-104.8,,,,,309.5,
+C5H12S,Ethyl isopropyl sulfide,,-156.1,-118.3,,,,,,
+C5H13N,Pentylamine,,,,,,,,,
+C5H14N2,"N,N,N′,N′-Tetramethyl-methanediamine",,-51.1,-18.2,,,,,,
+C6ClF5,Chloropentafluorobenzene,-858.4,,-809.3,,,,,,
+C6Cl6,Hexachlorobenzene,-127.6,,-35.5,,,,260.2,,
+C6F6,Hexafluorobenzene,,-991.3,-955.4,,,,,280.8,
+C6F10,Perfluorocyclohexene,,-1963.5,-1932.7,,,,,,
+C6F12,Perfluorocyclohexane,,-2406.3,-2370.4,,,,,,
+C6HF5,Pentafluorobenzene,-852.7,-841.8,-806.5,,,,,,
+C6HF5O,Pentafluorophenol,-1024.1,-1007.7,,,,,,,
+C6H2F4,"1,2,4,5-Tetrafluorobenzene",,-683.8,,,,,,,
+C6H3Cl3,"1,2,3-Trichlorobenzene",-70.8,,3.8,,,,,,
+C6H3Cl3,"1,2,4-Trichlorobenzene",,-63.1,-8.1,,,,,,
+C6H3Cl3,"1,3,5-Trichlorobenzene",-78.4,,-13.4,,,,,,
+C6H3N3O8,"2,4,6-Trinitro-1,3-benzenediol",-467.5,,,,,,,,
+C6H4Cl2,o-Dichlorobenzene,,-17.5,30.2,,,,,,
+C6H4Cl2,m-Dichlorobenzene,,-20.7,25.7,,,,,,
+C6H4Cl2,p-Dichlorobenzene,-42.3,,22.5,,,,175.4,,
+C6H4F2,o-Difluorobenzene,,-330.0,-293.8,,,,,222.6,
+C6H4F2,m-Difluorobenzene,,-343.9,-309.2,,,,,223.8,
+C6H4F2,p-Difluorobenzene,,-342.3,-306.7,,,,,,
+C6H4N2O5,"2,4-Dinitrophenol",-232.7,,-128.1,,,,,,
+C6H4O2,p-Benzoquinone,-185.7,,-122.9,,,,,,
+C6H5Br,Bromobenzene,,60.9,,,,,,219.2,
+C6H5Cl,Chlorobenzene,,11.1,52.0,,,,,,
+C6H5ClO,m-Chlorophenol,-206.4,-189.3,,,,,,,
+C6H5ClO,p-Chlorophenol,-197.7,-181.3,,,,,,,
+C6H5F,Fluorobenzene,,-150.6,-115.9,,,,,205.9,
+C6H5I,Iodobenzene,,117.2,164.9,,,,,205.4,
+C6H5NO2,Nitrobenzene,,12.5,67.5,,,,,,
+C6H5NO2,3-Pyridinecarboxylic acid,-344.9,,-221.5,,,,,,
+C6H5NO3,2-Nitrophenol,-202.4,,,,,,,,
+C6H5N3,1 H-Benzotriazole,236.5,,335.5,,,,,,
+C6H5N3O4,"2,3-Dinitroaniline",-11.7,,,,,,,,
+C6H5N3O4,"2,4-Dinitroaniline",-67.8,,,,,,,,
+C6H5N3O4,"2,5-Dinitroaniline",-44.3,,,,,,,,
+C6H5N3O4,"2,6-Dinitroaniline",-50.6,,,,,,,,
+C6H5N3O4,"3,5-Dinitroaniline",-38.9,,,,,,,,
+C6H6,"1,5-Hexadiyne",,384.2,,,,,,,
+C6H6,Benzene,,49.1,82.9,,124.5,129.7,,173.4,269.2
+C6H6N2O2,m-Nitroaniline,-38.3,-14.4,58.4,,,,,,
+C6H6N2O2,p-Nitroaniline,-42.0,-20.7,58.8,,,,,,
+C6H6O,Phenol,-165.1,,-96.4,,,,144.0,,
+C6H6O,2-Vinylfuran,,-10.3,27.8,,,,,,
+C6H6O2,p-Hydroquinone,-364.5,,-265.3,,,,,,
+C6H6O2,Pyrocatechol,-354.1,,-267.5,,,,,,
+C6H6O2,Resorcinol,-368.0,,-274.7,,,,,,
+C6H6O3,"1,2,3-Benzenetriol",-551.1,,-434.2,,,,,,
+C6H6O3,"1,2,4-Benzenetriol",-563.8,,-444.0,,,,,,
+C6H6O3,"1,3,5-Benzenetriol",-584.6,,-452.9,,,,,,
+C6H6O3,"3,4-Dimethyl-2,5-furandione",-581.4,,,,,,,,
+C6H6O6,"cis-1-Propene-1,2,3-tricarboxylic acid",-1224.4,,,,,,,,
+C6H6O6,"trans-1-Propene-1,2,3-tricarboxylic acid",-1232.7,,,,,,,,
+C6H6S,Benzenethiol,,63.7,111.3,,,,,222.8,
+C6H7N,Aniline,,31.6,87.5,,,-7.0,,,317.9
+C6H7N,2-Methylpyridine,,56.7,99.2,,,,,,
+C6H7N,3-Methylpyridine,,61.9,106.4,,,,,216.3,
+C6H7N,4-Methylpyridine,,59.2,103.8,,,,,209.1,
+C6H7N,1-Cyclopentenecarbonitrile,,111.5,156.5,,,,,,
+C6H8N2,Adiponitrile,,85.1,149.5,,,,,,
+C6H8N2,o-Phenylenediamine,-0.3,,,,,,,,
+C6H8N2,m-Phenylenediamine,-7.8,,,,,,154.5,,
+C6H8N2,p-Phenylenediamine,3.0,,,,,,,,
+C6H8N2,Phenylhydrazine,,141.0,202.9,,,,,,
+C6H8N2S,Bis(2-cyanoethyl) sulfide,,96.3,,,,,,,
+C6H8O4,Dimethyl maleate,,,,,,,,,
+C6H8O6,L-Ascorbic acid,-1164.6,,,,,,,,
+C6H8O7,"2-Hydroxy-1,2,3-propane-tricarboxylic acid",-1543.8,,,,,,,,
+C6H9Cl3O2,Butyl trichloroacetate,,-545.8,-492.3,,,,,,
+C6H9Cl3O2,Isobutyl trichloroacetate,,-553.4,-500.2,,,,,,
+C6H9N,Cyclopentanecarbonitrile,,0.7,44.1,,,,,,
+C6H9N,"2,4-Dimethylpyrrole",-422.3,,,,,,,,
+C6H9N,"2,5-Dimethylpyrrole",,-16.7,39.8,,,,,,
+C6H9NO3,Triacetamide,,-610.5,-550.1,,,,,,
+C6H9NO6,Nitrilotriacetic acid,-1311.9,,,,,,,,
+C6H9N3O2,L-Histidine,-466.7,,,,,,,,
+C6H10,"1,5-Hexadiene",,54.1,84.2,,,,,,
+C6H10,"3,3-Dimethyl-1-butyne",,78.4,,,,,,,
+C6H10,Cyclohexene,,-38.5,-5.0,,,,,214.6,
+C6H10,1-Methylcyclopentene,,-36.4,-3.8,,,,,,
+C6H10,3-Methylcyclopentene,,-23.7,7.4,,,,,,
+C6H10Cl2O2,Butyl dichloroacetate,,-550.1,-497.8,,,,,,
+C6H10O,Cyclohexanone,,-271.2,-226.1,,,,,,
+C6H10O,2-Methylcyclopentanone,,-265.2,,,,,,,
+C6H10O,Mesityl oxide,,,,,,,,,
+C6H10O2,Ethyl trans-2-butenoate,,-420.0,-375.6,,,,,,
+C6H10O2,Methyl cyclobutane-carboxylate,,-395.0,-350.2,,,,,,
+C6H10O3,Ethyl acetoacetate,,,,,,,,,
+C6H10O3,Propanoic anhydride,,-679.1,-626.5,,,,,,
+C6H10O4,Adipic acid,-994.3,,,,,,,,
+C6H10O4,Diethyl oxalate,,-805.5,-742.0,,,,,,
+C6H10O4,Ethylene glycol diacetate,,,,,,,,,
+C6H11Cl,Chlorocyclohexane,,-207.2,-163.7,,,,,,
+C6H11ClO2,Ethyl 4-chlorobutanoate,,-566.5,-513.8,,,,,,
+C6H11ClO2,Propyl 3-chloropropanoate,,-537.6,-485.7,,,,,,
+C6H11ClO2,Butyl chloroacetate,,-538.4,-487.4,,,,,,
+C6H11NO,Caprolactam,-329.4,,-239.6,,,,,,
+C6H11NO,1-Methyl-2-piperidinone,,-293.0,,,,,,,
+C6H12,1-Hexene,,-74.2,-43.5,,,,,295.2,
+C6H12,cis-2-Hexene,,-83.9,-52.3,,,,,,
+C6H12,trans-2-Hexene,,-85.5,-53.9,,,,,,
+C6H12,cis-3-Hexene,,-78.9,-47.6,,,,,,
+C6H12,trans-3-Hexene,,-86.1,-54.4,,,,,,
+C6H12,2-Methyl-1-pentene,,-90.0,-59.4,,,,,,
+C6H12,3-Methyl-1-pentene,,-78.2,-49.5,,,,,,
+C6H12,4-Methyl-1-pentene,,-80.0,-51.3,,,,,,
+C6H12,3-Methyl-cis-2-pentene,,-94.5,-62.3,,,,,,
+C6H12,4-Methyl-cis-2-pentene,,-87.0,-57.5,,,,,,
+C6H12,3-Methyl-trans-2-pentene,,-94.6,-63.1,,,,,,
+C6H12,4-Methyl-trans-2-pentene,,-91.6,-61.5,,,,,,
+C6H12,2-Ethyl-1-butene,,-87.1,-56.0,,,,,,
+C6H12,"2,3-Dimethyl-1-butene",,-93.2,-62.4,,,,,,
+C6H12,"3,3-Dimethyl-1-butene",,-87.5,-60.3,,,,,,
+C6H12,"2,3-Dimethyl-2-butene",,-101.4,-68.1,,,,,270.2,
+C6H12,Cyclohexane,,-156.4,-123.4,,,,,,
+C6H12,Methylcyclopentane,,-137.9,-106.2,,,,,,
+C6H12,Ethylcyclobutane,,-59.0,-27.5,,,,,,
+C6H12,"1,1,2-Trimethylcyclo-propane",,-96.2,,,,,,,
+C6H12,2-Methyl-2-pentene,,-98.5,-66.9,,,,,,
+C6H12N2O4S2,L-Cystine,-1032.7,,,,,,,,
+C6H12O,Cyclohexanol,,-348.2,-286.2,,,,,,
+C6H12O,cis-2-Methylcyclopentanol,,-345.5,,,,,,,
+C6H12O,Butyl vinyl ether,,-218.8,-182.6,,,,,,
+C6H12O,3-Hexanone,,-320.2,-277.6,,,,,305.3,
+C6H12O,Methyl isobutyl ketone,,,,,,,,,
+C6H12O,2-Methyl-3-pentanone,,-325.9,-286.0,,,,,,
+C6H12O,"3,3-Dimethyl-2-butanone",,-328.6,-290.6,,,,,,
+C6H12O2,Hexanoic acid,,-583.8,-511.9,,,,,,
+C6H12O2,Butyl acetate,,-529.2,-485.3,,,,,,
+C6H12O2,Isobutyl acetate,,,,,,,,,
+C6H12O2,Ethyl butanoate,,,,,,,,,
+C6H12O2,Methyl pentanoate,,-514.2,-471.1,,,,,,
+C6H12O2,"Methyl 2,2-dimethyl-propanoate",,-530.0,-491.2,,,,,,
+C6H12O2,Diacetone alcohol,,,,,,,,,
+C6H12O3,Ethylene glycol ethyl ether acetate,,,,,,,,,
+C6H12O3,Paraldehyde,,-673.1,-631.7,,,,,,
+C6H12O6,β-D-Fructose,-1265.6,,,,,,,,
+C6H12O6,D-Galactose,-1286.3,,,,,,,,
+C6H12O6,α-D-Glucose,-1273.3,,,,,,,,
+C6H12O6,D-Mannose,-1263.0,,,,,,,,
+C6H12O6,L-Sorbose,-1271.5,,,,,,,,
+C6H12S,Cyclohexanethiol,,-140.7,-96.2,,,,,255.6,
+C6H12S,Cyclopentyl methyl sulfide,,-109.8,-64.7,,,,,,
+C6H13Br,1-Bromohexane,,-194.2,-148.3,,,,,453.0,
+C6H13Cl,2-Chlorohexane,,-246.1,-204.3,,,,,,
+C6H13N,Cyclohexylamine,,-147.6,-104.0,,,,,,
+C6H13N,(±)-2-Methylpiperidine,,-124.9,-84.4,,,,,,
+C6H13NO,Hexanamide,,-397.9,-324.2,,,,,,
+C6H13NO,N-Butylacetamide,,-380.9,-305.9,,,,,,
+C6H13NO2,DL-Leucine,-640.6,,,,,,,,
+C6H13NO2,D-Leucine,-637.3,,,,,,,,
+C6H13NO2,L-Leucine,-637.4,,-486.8,,,,,,
+C6H13NO2,DL-Isoleucine,-635.3,,,,,,,,
+C6H13NO2,L-Isoleucine,-637.8,,,,,,,,
+C6H13NO2,Norleucine,-639.1,,,,,,,,
+C6H13NO2,6-Aminohexanoic acid,-637.3,,,,,,,,
+C6H14,Hexane,,-198.7,-166.9,,,,,,
+C6H14,2-Methylpentane,,-204.6,-174.6,,,,,290.6,
+C6H14,3-Methylpentane,,-202.4,-171.9,,,,,292.5,
+C6H14,"2,2-Dimethylbutane",,-213.8,-185.9,,,,,272.5,
+C6H14,"2,3-Dimethylbutane",,-207.4,-178.1,,,,,287.8,
+C6H14N2,Azopropane,,11.5,51.3,,,,,,
+C6H14N2O2,Lysine,-678.7,,,,,,,,
+C6H14N4O2,D-Arginine,-623.5,,,,,,250.6,,
+C6H14O,1-Hexanol,,-377.5,-315.9,,,,,287.4,
+C6H14O,3-Hexanol,,-392.4,,,,,,,
+C6H14O,2-Methyl-1-pentanol,,,,,,,,,
+C6H14O,3-Methyl-2-pentanol,,,,,,,,,
+C6H14O,4-Methyl-2-pentanol,,-394.7,,,,,,,
+C6H14O,2-Methyl-3-pentanol,,-396.4,,,,,,,
+C6H14O,3-Methyl-3-pentanol,,,,,,,,,
+C6H14O,Dipropyl ether,,-328.8,-293.0,,,,,323.9,
+C6H14O,Diisopropyl ether,,-351.5,-319.2,,,,,,
+C6H14O,Butyl ethyl ether,,,,,,,,,
+C6H14O,Ethyl tert-butyl ether,,,-313.9,,,,,,
+C6H14OS,Dipropyl sulfoxide,,-329.4,-254.9,,,,,,
+C6H14O2,"1,2-Hexanediol",,-577.1,-490.1,,,,,,
+C6H14O2,"1,6-Hexanediol",-569.9,-548.6,-461.2,,,,,,
+C6H14O2,Hexylene glycol,,,,,,,,,
+C6H14O2,Ethylene glycol monobutyl ether,,,,,,,,,
+C6H14O2,"1,1-Diethoxyethane",,-491.4,-453.5,,,,,,
+C6H14O2,"1,2-Diethoxyethane",,-451.4,-408.1,,,,,,
+C6H14O3,Diethylene glycol monoethyl ether,,,,,,,,,
+C6H14O3,Diethylene glycol dimethyl ether,,,,,,,,,
+C6H14O3,Trimethylolpropane,-750.9,,,,,,,,
+C6H14O4,Triethylene glycol,,-804.3,-725.0,,,,,,
+C6H14O4S,Dipropyl sulfate,,-859.0,-792.0,,,,,,
+C6H14O6,Galactitol,,-1317.0,,,,,,,
+C6H14O6,D-Mannitol,,-1314.5,,,,,,,
+C6H14S,1-Hexanethiol,,-175.7,-129.9,,,,,,
+C6H14S,2-Methyl-2-pentanethiol,,-188.3,-148.3,,,,,,
+C6H14S,"2,3-Dimethyl-2-butanethiol",,-187.1,-147.9,,,,,,
+C6H14S,Diisopropyl sulfide,,-181.6,-142.0,,,,,313.0,
+C6H14S,Butyl ethyl sulfide,,-172.3,-127.8,,,,,,
+C6H14S,Methyl pentyl sulfide,,-167.1,-121.8,,,,,,
+C6H14S2,Dipropyl disulfide,,-171.5,-118.3,,,,,,
+C6H15B,Triethylborane,,-194.6,-157.7,,9.4,16.1,,336.7,437.8
+C6H15N,Dipropylamine,,-156.1,-116.0,,,,,,
+C6H15N,Diisopropylamine,,-178.5,-143.8,,,,,,
+C6H15N,Triethylamine,,-127.7,-92.7,,,,,,
+C6H15NO,2-Diethylaminoethanol,,-305.9,,,,,,,
+C6H15NO3,Triethanolamine,-664.2,,-558.3,,,,,,
+C6H18N3OP,Hexamethylphosphoric triamide,,,,,,,,,
+C6H18OSi2,Hexamethyldisiloxane,,-815.0,-777.7,,-541.5,-534.5,,433.8,535.0
+C6MoO6,Molybdenum hexacarbonyl,-982.8,,-912.1,-877.7,,-856.0,325.9,,490.0
+C7F8,Perfluorotoluene,,-1311.1,,,,,,355.5,
+C7F14,Perfluoromethylcyclohexane,,-2931.1,-2897.2,,,,,,
+C7F16,Perfluoroheptane,,-3420.0,-3383.6,,,,,561.8,
+C7H3F5,"2,3,4,5,6-Pentafluorotoluene",,-883.8,-842.7,,,,,306.4,
+C7H4Cl2O,m-Chlorobenzoylchloride,,-189.7,,,,,,,
+C7H4N2O6,"3,5-Dinitrobenzoic acid",-409.8,,,,,,,,
+C7H5ClO,Benzoyl chloride,,-158.0,-103.2,,,,,,
+C7H5ClO2,o-Chlorobenzoicacid,-404.5,,-325.0,,,,,,
+C7H5ClO2,o-Chlorobenzoicacid,-424.3,,-342.3,,,,,,
+C7H5ClO2,p-Chlorobenzoicacid,-428.9,,-341.0,,,,,,
+C7H5F3,(Trifluoromethyl)benzene,,,,,,,,,
+C7H5N,Benzonitrile,,163.2,215.7,,,,,209.1,
+C7H5NO,Benzoxazole,-24.2,,44.8,,,,,,
+C7H5NO4,2-Nitrobenzoic acid,-378.8,,,,,,,,
+C7H5NO4,3-Nitrobenzoic acid,-394.7,,,,,,,,
+C7H5NO4,4-Nitrobenzoic acid,-392.2,,,,,,,,
+C7H6N2,1 H-Benzimidazole,79.5,,181.7,,,,,,
+C7H6N2,1 H-Indazole,151.9,,243.0,,,,,,
+C7H6O,Benzaldehyde,,-87.0,-36.7,,,,,221.2,
+C7H6O2,Benzoic acid,-385.2,,-294.0,,,,167.6,,
+C7H6O2,3-(2-Furanyl)-2-propenal,-182.0,,-105.9,,,,,,
+C7H6O2,Salicylaldehyde,,,,,,,,,
+C7H6O3,Salicylic acid,-589.9,,-494.8,,,,,,
+C7H7Cl,o-Chlorotoluene,,,,,,,,,
+C7H7Cl,(Chloromethyl)benzene,,-32.5,18.9,,,,,,
+C7H7F,p-Fluorotoluene,,-186.9,-147.4,,,,,,
+C7H7NO,Benzamide,-202.6,,-100.9,,,,,,
+C7H7NO2,2-Aminobenzoic acid,,-380.4,-296.0,,,,,,
+C7H7NO2,Aniline-3-carboxylic acid,,-389.8,-283.6,,,,,,
+C7H7NO2,Aniline-4-carboxylic acid,,-391.9,-296.7,,,,,,
+C7H7NO2,o-Nitrotoluene,,-9.7,,,,,,,
+C7H7NO2,m-Nitrotoluene,,-31.5,,,,,,,
+C7H7NO2,p-Nitrotoluene,-48.1,,31.0,,,,,,
+C7H7NO2,(Nitromethyl)benzene,,-22.8,30.7,,,,,,
+C7H7NO2,Salicylaldoxime,-183.7,,,,,,,,
+C7H8,Toluene,,12.4,50.5,,,,,,
+C7H8N2O,Phenylurea,-218.6,,,,,,,,
+C7H8O,o-Cresol,-204.6,,-128.6,,,,165.4,,
+C7H8O,m-Cresol,,-194.0,-132.3,,,,,212.6,
+C7H8O,p-Cresol,-199.3,,-125.4,,,,167.3,,
+C7H8O,Benzyl alcohol,,-160.7,-100.4,,,,,216.7,
+C7H8O,Anisole,,-114.8,-67.9,,,,,,
+C7H9N,Benzylamine,,34.2,94.4,,,,,,
+C7H9N,o-Methylaniline,,-6.3,56.4,,,167.6,,,351.0
+C7H9N,p-Methylaniline,-23.5,,55.3,,,167.7,,,347.0
+C7H9N,N-Methylaniline,,,,,,,,,
+C7H9N,1-Cyclohexenecarbonitrile,,48.1,101.6,,,,,,
+C7H9N,"2,3-Dimethylpyridine",,19.4,67.1,,,,,243.7,
+C7H9N,"2,4-Dimethylpyridine",,16.1,63.6,,,,,248.5,
+C7H9N,"2,5-Dimethylpyridine",,18.7,66.5,,,,,248.8,
+C7H9N,"2,6-Dimethylpyridine",,12.7,58.1,,,,,244.2,
+C7H9N,"3,4-Dimethylpyridine",,18.3,68.8,,,,,240.7,
+C7H9N,"3,5-Dimethylpyridine",,22.5,72.0,,,,,241.7,
+C7H10O2,Ethyl 2-pentynoate,,-301.8,-250.3,,,,,,
+C7H10O2,Methyl 2-hexynoate,,-242.7,,,,,,,
+C7H11Cl3O2,3-Methylbutyl trichloroacetate,,-580.9,-523.1,,,,,,
+C7H11N,Cyclohexanecarbonitrile,,-47.2,4.8,,,,,,
+C7H12,Methylenecyclohexane,,-61.3,-25.2,,,,,,
+C7H12,Vinylcyclopentane,,-34.8,,,,,,,
+C7H12,1-Ethylcyclopentene,,-53.3,-19.8,,,,,,
+C7H12,Bicyclo[2.2.1]heptane,-95.1,,-54.8,,,,,,
+C7H12,"1-Methylbicyclo(3,1,0) hexane",,-33.2,1.7,,,,,,
+C7H12O,2-Methylenecyclohexanol,-277.6,,,,,,,,
+C7H12O4,Diethyl malonate,,,,,,,,,
+C7H13ClO2,Butyl 2-chloropropanoate,,-571.7,-517.3,,,,,,
+C7H13ClO2,Isobutyl 2-chloropropanoate,,-603.1,-549.6,,,,,,
+C7H13ClO2,Butyl 3-chloropropanoate,,-557.9,-502.3,,,,,,
+C7H13ClO2,Isobutyl 3-chloropropanoate,,-572.6,-517.3,,,,,,
+C7H13ClO2,Propyl 2-chlorobutanoate,,-630.7,-578.4,,,,,,
+C7H13N,Heptanenitrile,,-82.8,-31.0,,,,,,
+C7H14,1-Heptene,,-97.9,-62.3,,,,,327.6,
+C7H14,cis-2-Heptene,,-105.1,,,,,,,
+C7H14,trans-2-Heptene,,-109.5,,,,,,,
+C7H14,cis-3-Heptene,,-104.3,,,,,,,
+C7H14,trans-3-Heptene,,-109.3,,,,,,,
+C7H14,5-Methyl-1-hexene,,-100.0,-65.7,,,,,,
+C7H14,3-Methyl-cis-3-hexene,,-115.9,-79.4,,,,,,
+C7H14,3-Methyl-trans-3-hexene,,-112.7,-76.8,,,,,,
+C7H14,"2,4-Dimethyl-1-pentene",,-117.0,-83.8,,,,,,
+C7H14,"4,4-Dimethyl-1-pentene",,-110.6,-81.6,,,,,,
+C7H14,"2,4-Dimethyl-2-pentene",,-123.1,-88.7,,,,,,
+C7H14,"cis-4,4-Dimethyl-2-pentene",,-105.3,-72.6,,,,,,
+C7H14,"trans-4,4-Dimethyl-2-pentene",,-121.7,-88.8,,,,,,
+C7H14,2-Ethyl-3-methyl-1-butene,,-114.1,-79.5,,,,,,
+C7H14,"2,3,3-Trimethyl-1-butene",,-117.7,-85.5,,,,,,
+C7H14,Cycloheptane,,-156.6,-118.1,,,,,,
+C7H14,Methylcyclohexane,,-190.1,-154.7,,,,,,
+C7H14,"1,1-Dimethylcyclopentane",,-172.1,-138.2,,,,,,
+C7H14,"cis-1,2-Dimethylcyclo-pentane",,-165.3,-129.5,,,,,269.2,
+C7H14,"trans-1,2-Dimethylcyclo-pentane",,-171.2,-136.6,,,,,,
+C7H14,"cis-1,3-Dimethylcyclo-pentane",,-170.1,-135.8,,,,,,
+C7H14,"trans-1,3-Dimethylcyclo-pentane",,-168.1,-133.6,,,,,,
+C7H14,"1,1,2,2-Tetramethylcyclo-propane",,-119.8,,,,,,,
+C7H14Br2,"1,2-Dibromoheptane",,-212.3,-157.9,,,,,,
+C7H14O,1-Heptanal,,-311.5,-263.8,,,,,335.4,
+C7H14O,2-Heptanone,,,,,,,,,
+C7H14O,"2,2-Dimethyl-3-pentanone",,-356.1,-313.6,,,,,,
+C7H14O,"2,4-Dimethyl-3-pentanone",,-352.9,-311.3,,,,,318.0,
+C7H14O,cis-2-Methylcyclohexanol,,-390.2,-327.0,,,,,,
+C7H14O,trans-2-Methylcyclohexanol,,-415.7,-352.5,,,,,,
+C7H14O,cis-3-Methylcyclohexanol,,-416.1,-350.9,,,,,,
+C7H14O,trans-3-Methylcyclohexanol,,-394.4,-329.1,,,,,,
+C7H14O,cis-4-Methylcyclohexanol,,-413.2,-347.5,,,,,,
+C7H14O,trans-4-Methylcyclohexanol,,-433.3,-367.2,,,,,,
+C7H14O2,Heptanoic acid,,-610.2,-536.2,,,,,,
+C7H14O2,Pentyl acetate,,,,,,,,,
+C7H14O2,Isopentyl acetate,,,,,,,,,
+C7H14O2,Ethyl pentanoate,,-553.0,-505.9,,,,,,
+C7H14O2,Ethyl 3-methylbutanoate,,-571.0,-527.0,,,,,,
+C7H14O2,"Ethyl 2,2-dimethyl-propanoate",,-577.2,-536.0,,,,,,
+C7H14O2,Methyl hexanoate,,-540.2,-492.2,,,,,,
+C7H14O6,α-Methylglucoside,-1233.3,,,,,,,,
+C7H15Br,1-Bromoheptane,,-218.4,-167.8,,,,,,
+C7H16,Heptane,,-224.2,-187.6,,,,,,
+C7H16,2-Methylhexane,,-229.5,-194.5,,,,,323.3,
+C7H16,3-Methylhexane,,-226.4,-191.3,,,,,,
+C7H16,3-Ethylpentane,,-224.9,-189.5,,,,,314.5,
+C7H16,"2,2-Dimethylpentane",,-238.3,-205.7,,,,,300.3,
+C7H16,"2,3-Dimethylpentane",,-233.1,-198.7,,,,,,
+C7H16,"2,4-Dimethylpentane",,-234.6,-201.6,,,,,303.2,
+C7H16,"3,3-Dimethylpentane",,-234.2,-201.0,,,,,,
+C7H16,"2,2,3-Trimethylbutane",,-236.5,-204.4,,,,,292.2,
+C7H16O,1-Heptanol,,-403.3,-336.5,,,,,,
+C7H16O,tert-Butyl isopropyl ether,,-392.8,-358.1,,,,,,
+C7H16O2,"1,7-Heptanediol",,-574.2,,,,,,,
+C7H16S,1-Heptanethiol,,-200.5,-149.9,,,,,,
+C8H4O3,Phthalic anhydride,-460.1,,-371.4,,,,180.0,,
+C8H5NO2,"1 H-Indole-2,3-dione",-268.2,,,,,,,,
+C8H6O4,Phthalic acid,-782.0,,,,,,207.9,,
+C8H6O4,Isophthalic acid,-803.0,,-696.3,,,,,,
+C8H6O4,Terephthalic acid,-816.1,,-717.9,,,,,,
+C8H6S,Benzo[b]thiophene,100.6,,166.3,,,,,,
+C8H7N,1 H-Indole,86.6,,156.5,,,,,,
+C8H8,Styrene,,103.8,147.9,,,,,,
+C8H8O,Phenyl vinyl ether,,-26.2,22.7,,,,,,
+C8H8O,Acetophenone,,-142.5,-86.7,,,,,,
+C8H8O2,o-Toluicacid,-416.5,,,,,,,,
+C8H8O2,m-Toluicacid,-426.1,,,,,,,,
+C8H8O2,p-Toluicacid,-429.2,,,,,,,,
+C8H8O2,Methyl benzoate,,-343.5,-287.9,,,,,,
+C8H8O3,Methyl salicylate,,,,,,,,,
+C8H10,"1,7-Octadiyne",,334.4,,,,,,,
+C8H10,Ethylbenzene,,-12.3,29.9,,,,,,
+C8H10,o-Xylene,,-24.4,19.1,,,,,,
+C8H10,m-Xylene,,-25.4,17.3,,,,,,
+C8H10,p-Xylene,,-24.4,18.0,,,,,,
+C8H10O,o-Ethylphenol,,-208.8,-145.2,,,,,,
+C8H10O,m-Ethylphenol,,-214.3,-146.1,,,,,,
+C8H10O,p-Ethylphenol,-224.4,,-144.1,,,,,,
+C8H10O,"2,3-Xylenol",-241.1,,-157.2,,,,,,
+C8H10O,"2,4-Xylenol",,-228.7,-163.8,,,,,,
+C8H10O,"2,5-Xylenol",-246.6,,-161.6,,,,,,
+C8H10O,"2,6-Xylenol",-237.4,,-162.1,,,,,,
+C8H10O,"3,4-Xylenol",-242.3,,-157.3,,,,,,
+C8H10O,"3,5-Xylenol",-244.4,,-162.4,,,,,,
+C8H10O,Phenetole,,-152.6,-101.6,,,,,,
+C8H10O2,Veratrole,,-290.3,-223.3,,,,,,
+C8H11N,N-Ethylaniline,,4.0,56.3,,,,,,
+C8H11N,"N,N-Dimethylaniline",,47.7,100.5,,,,,,
+C8H11N,"2,6-Xylidine",,,,,,,,,
+C8H12,1-Octen-3-yne,,140.7,,,,,,,
+C8H12,"cis -1,2-Divinylcyclo-butane",,124.3,166.5,,,,,,
+C8H12,"trans -1,2-Divinylcyclo-butane",,101.3,143.5,,,,,,
+C8H12N4,"2,2′-Azobis[isobutyronitrile]",228.9,,,,,,,,
+C8H12O2,"2,2,4,4-Tetramethyl-1,3-cyclobutanedione",-379.9,,-307.6,,,,,,
+C8H14,Ethylidenecyclohexane,,-103.5,-59.5,,,,,,
+C8H14O3,Butanoic anhydride,,,,,,,,,
+C8H15ClO2,3-Methylbutyl 2-chloropropanoate,,-627.3,-575.0,,,,,,
+C8H15ClO2,3-Methylbutyl 3-chloropropanoate,,-593.4,-539.4,,,,,,
+C8H15N,Octanenitrile,,-107.3,-50.5,,,,,,
+C8H16,1-Octene,,-121.8,-81.3,,,,,,
+C8H16,cis-2-Octene,,-135.7,,,,,,,
+C8H16,trans-2-Octene,,-135.7,,,,,,,
+C8H16,"2,2-Dimethyl-cis-3-hexene",,-126.4,-89.3,,,,,,
+C8H16,"2,2-Dimethyl-trans-3-hexene",,-144.9,-107.7,,,,,,
+C8H16,3-Ethyl-2-methyl-1-pentene,,-137.9,-100.3,,,,,,
+C8H16,"2,4,4-Trimethyl-1-pentene",,-145.9,-110.5,,,,,,
+C8H16,"2,4,4-Trimethyl-2-pentene",,-142.4,-104.9,,,,,,
+C8H16,Cyclooctane,,-167.7,-124.4,,,,,,
+C8H16,Ethylcyclohexane,,-212.1,-171.5,,,,,280.9,
+C8H16,"1,1-Dimethylcyclohexane",,-218.7,-180.9,,,,,267.2,
+C8H16,"cis-1,2-Dimethylcyclohexane",,-211.8,-172.1,,,,,274.1,
+C8H16,"trans-1,2-Dimethylcyclo-hexane",,-218.2,-179.9,,,,,273.2,
+C8H16,"cis-1,3-Dimethylcyclohexane",,-222.9,-184.6,,,,,272.6,
+C8H16,"trans-1,3-Dimethylcyclo-hexane",,-215.7,-176.5,,,,,276.3,
+C8H16,"cis-1,4-Dimethylcyclohexane",,-215.6,-176.6,,,,,271.1,
+C8H16,"trans-1,4-Dimethylcyclo-hexane",,-222.4,-184.5,,,,,268.0,
+C8H16,Propylcyclopentane,,-188.8,-147.7,,,,,310.8,
+C8H16,1-Ethyl-1-methylcyclopentane,,-193.8,,,,,,,
+C8H16,cis-1-Ethyl-2-methylcyclo-pentane,,-190.8,,,,,,,
+C8H16,trans-1-Ethyl-2-methylcyclo-pentane,,-195.1,-156.2,,,,,,
+C8H16,cis-1-Ethyl-3-methylcyclo-pentane,,-194.4,,,,,,,
+C8H16,trans-1-Ethyl-3-methylcyclo-pentane,,-196.0,,,,,,,
+C8H16O,2-Ethylhexanal,,-348.5,-299.6,,,,,,
+C8H16O,2-Octanone,,,,,,,,,
+C8H16O,"2,2,4-Trimethyl-3-pentanone",,-381.6,-338.3,,,,,,
+C8H16O2,Octanoic acid,,-636.0,-554.3,,,,,,
+C8H16O2,2-Ethylhexanoic acid,,-635.1,-559.5,,,,,,
+C8H16O2,Hexyl acetate,,,,,,,,,
+C8H16O2,Propyl pentanoate,,-583.0,-533.6,,,,,,
+C8H16O2,Isopropyl pentanoate,,-592.2,-544.9,,,,,,
+BHO2,Metaboric acid (monoclinic),-794.3,,-561.9,-723.4,,-551.0,38.0,,240.1
+BH3,Borane (3),,,89.2,,,,,,188.2
+BH3O3,Boric acid (orthoboric acid),-1094.3,,-994.1,-968.9,,,90.0,,
+BH4K,Potassium borohydride,-227.4,,,-160.3,,,106.3,,
+BH4Li,Lithium borohydride,-190.8,,,-125.0,,,75.9,,
+BH4Na,Sodium borohydride,-188.6,,,-123.9,,,101.3,,
+BI3,Boron triiodide,,,71.1,,,20.7,,,349.2
+BKO2,Potassium metaborate,-981.6,,,-923.4,,,80.0,,
+BLiO2,Lithium metaborate,-1032.2,,,-976.1,,,51.5,,
+BN,Boron nitride,-254.4,,647.5,-228.4,,614.5,14.8,,212.3
+BNaO2,Sodium metaborate,-977.0,,,-920.7,,,73.5,,
+BO,Boron monoxide,,,25.0,,,-4.0,,,203.5
+BO2,Boron dioxide,,,-300.4,,,-305.9,,,229.6
+BO2Rb,Rubidium metaborate,-971.0,,,-913.0,,,94.3,,
+BS,Boron monosulfide,,,342.0,,,288.8,,,216.2
+B2,Diboron,,,830.5,,,774.0,,,201.9
+B2Cl4,Tetrachlorodiborane,,-523.0,-490.4,,-464.8,-460.6,,262.3,357.4
+B2F4,Tetrafluorodiborane,,,-1440.1,,,-1410.4,,,317.3
+B2H6,Diborane,,,36.4,,,86.7,,,232.1
+B2O2,Diboron dioxide,,,-454.8,,,-462.3,,,242.5
+B2O3,Boron oxide,-1273.5,,-843.8,-1194.3,,-832.0,54.0,,279.8
+B2S3,Boron sulfide,-240.6,,67.0,,,,100.0,,
+B3H6N3,Borazine,,-541.0,,,-392.7,,,199.6,
+B4H10,Tetraborane (10),,,66.1,,,,,,280.3
+B4Na2O7,Sodium tetraborate,-3291.1,,,-3096.0,,,189.5,,
+B5H9,Pentaborane(9),,42.7,73.2,,171.8,175.0,,184.2,280.6
+B5H11,Pentaborane (11),,73.2,103.3,,,,,,321.0
+B6H10,Hexaborane (10),,56.3,94.6,,,,,,296.8
+Ba,Barium,0.0,,180.0,,,146.0,62.5,,170.2
+BaBr2,Barium bromide,-757.3,,,-736.8,,,146.0,,
+BaCl2,Barium chloride,-855.0,,,-806.7,,,123.7,,
+BaCl2H4O2,Barium chloride dihydrate,-1456.9,,,-1293.2,,,203.0,,
+BaF2,Barium fluoride,-1207.1,,,-1156.8,,,96.4,,
+BaH2,Barium hydride,-177.0,,,-138.2,,,63.0,,
+BaH2O2,Barium hydroxide,-944.7,,,,,,,,
+BaI2,Barium iodide,-602.1,,,,,,,,
+BaN2O4,Barium nitrite,-768.2,,,,,,,,
+BaN2O6,Barium nitrate,-988.0,,,-792.6,,,214.0,,
+BaO,Barium oxide,-548.0,,,-520.3,,,72.1,,
+BaO4S,Barium sulfate,-1473.2,,,-1362.2,,,132.2,,
+BaS,Barium sulfide,-460.0,,,-456.0,,,78.2,,
+Be,Beryllium,0.0,,324.0,,,286.6,9.5,,136.3
+BeBr2,Beryllium bromide,-353.5,,,,,,108.0,,
+BeCl2,Beryllium chloride,-490.4,,,-445.6,,,75.8,,
+C8H17Br,1-Bromooctane,,-245.1,-189.3,,,,,,
+C8H17Cl,1-Chlorooctane,,-291.3,-238.9,,,,,,
+C8H17NO,Octanamide,-473.2,,-362.7,,,,,,
+C8H18,Octane,,-250.1,-208.5,,,,,,
+C8H18,2-Methylheptane,,-255.0,-215.3,,,,,356.4,
+C8H18,3-Methylheptane,,-252.3,-212.5,,,,,362.6,
+C8H18,4-Methylheptane,,-251.6,-211.9,,,,,,
+C8H18,3-Ethylhexane,,-250.4,-210.7,,,,,,
+C8H18,"2,2-Dimethylhexane",,-261.9,-224.5,,,,,,
+C8H18,"2,3-Dimethylhexane",,-252.6,-213.8,,,,,,
+C8H18,"2,4-Dimethylhexane",,-257.0,-219.2,,,,,,
+C8H18,"2,5-Dimethylhexane",,-260.4,-222.5,,,,,,
+C8H18,"3,3-Dimethylhexane",,-257.5,-219.9,,,,,,
+C8H18,"3,4-Dimethylhexane",,-251.8,-212.8,,,,,,
+C8H18,3-Ethyl-2-methylpentane,,-249.6,-211.0,,,,,,
+C8H18,3-Ethyl-3-methylpentane,,-252.8,-214.8,,,,,,
+C8H18,"2,2,3-Trimethylpentane",,-256.9,-220.0,,,,,,
+C8H18,"2,2,4-Trimethylpentane",,-259.2,-224.0,,,,,,
+C8H18,"2,3,3-Trimethylpentane",,-253.5,-216.3,,,,,,
+C8H18,"2,3,4-Trimethylpentane",,-255.0,-217.3,,,,,329.3,
+C8H18,"2,2,3,3-Tetramethylbutane",-269.0,,-226.0,,,,273.7,,
+C8H18N2,Azobutane,,-40.1,9.2,,,,,,
+C8H18O,1-Octanol,,-426.5,-355.6,,,,,,
+C8H18O,2-Octanol,,,,,,,,,
+C8H18O,2-Ethyl-1-hexanol,,-432.8,-365.3,,,,,347.0,
+C8H18O,Dibutyl ether,,-377.9,-332.8,,,,,,
+C8H18O,Di-sec-butyl ether,,-401.5,-360.6,,,,,,
+C8H18O,Di-tert-butyl ether,,-399.6,-362.0,,,,,,
+C8H18O,tert-Butyl isobutyl ether,,-409.1,-369.0,,,,,,
+C8H18O2,"1,8-Octanediol",-626.6,,,,,,,,
+C8H18O2,"2,5-Dimethyl-2,5-hexanediol",-681.7,,,,,,,,
+C8H18O3,Diethylene glycol diethyl ether,,,,,,,,,
+C8H18O3S,Dibutyl sulfite,,-693.1,-625.3,,,,,,
+C8H18O5,Tetraethylene glycol,,-981.7,-883.0,,,,,,
+C8H18S,Dibutyl sulfide,,-220.7,-167.7,,,,,405.1,
+C8H18S,Di-sec-butyl sulfide,,-220.7,-167.7,,,,,,
+C8H18S,Di-tert-butyl sulfide,,-232.6,-188.8,,,,,,
+C8H18S,Diisobutyl sulfide,,-229.2,-180.5,,,,,,
+C8H18S2,Dibutyl disulfide,,-222.9,-160.6,,,,,,
+C8H18S2,Di-tert-butyl disulfide,,-255.2,-201.0,,,,,,
+C8H19N,Dibutylamine,,-206.0,-156.6,,,,,,
+C8H19N,Diisobutylamine,,-218.5,-179.2,,,,,,
+C8H20Pb,Tetraethyl lead,,52.7,109.6,,,,,464.6,
+C8H20Si,Tetraethylsilane,,,,,,,,,
+C9H7N,Quinoline,,141.2,200.5,,,,,,
+C9H7N,Isoquinoline,,144.3,204.6,,,,,216.0,
+C9H7NO,2-Hydroxyquinoline,-144.9,,-25.5,,,,,,
+C9H8,Indene,,110.6,163.4,,,,,215.3,
+C9H8O4,2-(Acetyloxy)benzoic acid,-815.6,,,,,,,,
+C9H10,Cyclopropylbenzene,,100.3,150.5,,,,,,
+C9H10,Indan,,11.5,60.3,,,,,56.0,
+C9H10N2,"2,2′-Dipyrrolylmethane",126.2,,,,,,,,
+C9H10O2,Benzyl acetate,,,,,,,,,
+C9H10O2,Ethyl benzoate,,,,,,,,,
+C9H11NO2,L-Phenylalanine,-466.9,,-312.9,,,,213.6,,
+C9H11NO3,L-Tyrosine,-685.1,,,,,,214.0,,
+C9H12,Propylbenzene,,-38.3,7.9,,,,,287.8,
+C9H12,Cumene,,-41.1,4.0,,,,,,
+C9H12,o-Ethyltoluene,,-46.4,1.3,,,,,,
+C9H12,m-Ethyltoluene,,-48.7,-1.8,,,,,,
+C9H12,p-Ethyltoluene,,-49.8,-3.2,,,,,,
+C9H12,"1,2,3-Trimethylbenzene",,-58.5,-9.5,,,,,267.9,
+C9H12,"1,2,4-Trimethylbenzene",,-61.8,-13.8,,,,,,
+C9H12,Mesitylene,,-63.4,-15.9,,,,,,
+C9H12O,2-Isopropylphenol,,-233.7,-182.2,,,,,,
+C9H12O,3-Isopropylphenol,,-252.5,-196.0,,,,,,
+C9H12O,4-Isopropylphenol,,-265.9,-209.4,,,,,,
+C9H12O2,"Hydroperoxide, 1-methyl-1-phenylethyl",,-148.3,-78.4,,,,,,
+C9H13NO2,"Ethyl 3,5-dimethylpyrrole-2-carboxylate",-474.5,,,,,,,,
+C9H13NO2,"Ethyl 2,4-dimethylpyrrole-3-carboxylate",-463.2,,,,,,,,
+C9H13NO2,"Ethyl 2,5-dimethylpyrrole-3-carboxylate",-478.7,,,,,,,,
+C9H13NO2,"Ethyl 4,5-dimethylpyrrole-3-carboxylate",-470.3,,,,,,,,
+C9H14O,Isophorone,,,,,,,,,
+C9H14O6,Triacetin,,-1330.8,-1245.0,,,,,458.3,
+C9H15N,"3-Ethyl-2,4,5-trimethyl-pyrrole",-89.2,,,,,,,,
+C9H16O4,Nonanedioic acid,-1054.3,,,,,,,,
+C9H17NO,"2,2,6,6-Tetramethyl-4-piperidinone",-334.2,,-273.4,,,,,,
+C9H18,Propylcyclohexane,,-237.4,-192.3,,,,,311.9,
+C9H18O,2-Nonanone,,-397.2,-340.7,,,,,,
+C9H18O,5-Nonanone,,-398.2,-344.9,,,,,401.4,
+C9H18O,"2,6-Dimethyl-4-heptanone",,-408.5,-357.6,,,,,,
+C9H18O2,Nonanoic acid,,-659.7,-577.3,,,,,,
+C9H18O2,Butyl pentanoate,-613.3,,-560.2,,,,,,
+C9H18O2,sec-Butyl pentanoate,,-624.2,-573.2,,,,,,
+C9H18O2,Isobutyl pentanoate,,-620.0,-568.6,,,,,,
+C9H18O2,Methyl octanoate,,-590.3,-533.9,,,,,,
+C9H19N,N-Butylpiperidine,,-171.8,,,,,,,
+C9H19N,"2,2,6,6-Tetramethyl-piperidine",,-206.9,-159.9,,,,,,
+C9H20,Nonane,,-274.7,-228.2,,,,,,
+C9H20,"2,2-Dimethylheptane",,-288.1,,,,,,,
+C9H20,"2,2,3-Trimethylhexane",,-282.7,,,,,,,
+C9H20,"2,2,4-Trimethylhexane",,-282.8,,,,,,,
+C9H20,"2,2,5-Trimethylhexane",,-293.3,,,,,,,
+C9H20,"2,3,3-Trimethylhexane",,-281.1,,,,,,,
+C9H20,"2,3,5-Trimethylhexane",,-284.0,-242.6,,,,,,
+C9H20,"2,4,4-Trimethylhexane",,-280.2,,,,,,,
+C9H20,"3,3,4-Trimethylhexane",,-277.5,,,,,,,
+C9H20,"3,3-Diethylpentane",,-275.4,-233.3,,,,,,
+C9H20,"3-Ethyl-2,2-dimethylpentane",,-272.7,,,,,,,
+C9H20,"3-Ethyl-2,4-dimethylpentane",,-269.7,,,,,,,
+C9H20,"2,2,3,3-Tetramethylpentane",,-278.3,-237.1,,,,,,
+C9H20,"2,2,3,4-Tetramethylpentane",,-277.7,-236.9,,,,,,
+C9H20,"2,2,4,4-Tetramethylpentane",,-280.0,-241.6,,,,,,
+C9H20,"2,3,3,4-Tetramethylpentane",,-277.9,-236.1,,,,,,
+C9H20N2O,Tetraethylurea,-403.0,,,,,,,,
+C9H20O,1-Nonanol,,-453.4,-376.5,,,,,,
+C9H20O2,"1,9-Nonanediol",-657.6,,,,,,,,
+C9H21N,Tripropylamine,,-207.1,-161.0,,,,,,
+C10H6N2O4,"1,5-Dinitronaphthalene",29.8,,,,,,,,
+C10H6N2O4,"1,8-Dinitronaphthalene",39.7,,,,,,,,
+C10H7Cl,1-Chloronaphthalene,,54.6,119.8,,,,,,
+C10H7Cl,2-Chloronaphthalene,55.4,,137.4,,,,,,
+C10H7I,1-Iodonaphthalene,,161.5,233.8,,,,,,
+C10H7I,2-Iodonaphthalene,144.3,,235.1,,,,,,
+C10H7NO2,1-Nitronaphthalene,42.6,,111.2,,,,,,
+C10H8,Naphthalene,78.5,,150.6,201.6,,224.1,167.4,,333.1
+C10H8,Azulene,212.3,,289.1,,,,,,
+C10H8O,1-Naphthol,-121.5,,-30.4,,,,,,
+C10H8O,2-Naphthol,,-124.1,-29.9,,,,,,
+C10H9N,1-Naphthalenamine,67.8,,132.8,,,,,,
+C10H10,"1,2-Dihydronaphthalene",,71.6,,,,,,,
+C10H10,"1,4-Dihydronaphthalene",,84.2,,,,,,,
+C10H10O,1-Tetralone,-209.6,,,,,,,,
+C10H10O4,Dimethyl phthalate,,,,,,,,,
+C10H10O4,Dimethyl isophthalate,-730.9,,,,,,,,
+C10H10O4,Dimethyl terephthalate,-732.6,,,,,,,,
+C10H12,"1,2,3,4-Tetrahydrona-phthalene",,-29.2,26.0,,,,,,
+C10H14,Butylbenzene,,-63.2,-11.8,,,,,321.2,
+C10H14,sec-Butylbenzene,,-66.4,-18.4,,,,,,
+C10H14,tert-Butylbenzene,,-70.7,-23.0,,,,,,
+C10H14,Isobutylbenzene,,-69.8,-21.9,,,,,,
+C10H14,o-Cymene,,-73.3,,,,,,,
+C10H14,m-Cymene,,-78.6,,,,,,,
+C10H14,p-Cymene,,-78.0,,,,,,,
+C10H14,o-Diethylbenzene,,-68.5,,,,,,,
+C10H14,m-Diethylbenzene,,-73.5,,,,,,,
+C10H14,p-Diethylbenzene,,-72.8,,,,,,,
+C10H14,3-Ethyl-o-xylene,,-80.5,,,,,,,
+C10H14,"4-Ethyl-1,2-dimethylbenzene",,-86.0,,,,,,,
+C10H14,"2-Ethyl-1,3-dimethylbenzene",,-80.1,,,,,,,
+C10H14,"2-Ethyl-1,4-dimethylbenzene",,-84.8,,,,,,,
+C10H14,"1-Ethyl-2,4-dimethylbenzene",,-84.1,,,,,,,
+C10H14,"1-Ethyl-3,5-dimethylbenzene",,-87.8,,,,,,,
+C10H14,"1,2,4,5-Tetramethylbenzene",-119.9,,,,,,245.6,,
+C10H14O,Thymol,-309.7,,-218.5,,,,,,
+C10H16,"cis,cis-2,6-Dimethyl-2,4,6-octatriene",,-24.0,,,,,,,
+C10H16,Dipentene,,-50.8,-2.6,,,,,,
+C10H16,D-Limonene,,-54.5,,,,,,,
+C10H16,β-Myrcene,,14.5,,,,,,,
+C10H16,α-Pinene,,-16.4,28.3,,,,,,
+C10H16,β-Pinene,,-7.7,38.7,,,,,,
+C10H16,α-Terpinene,,,-20.6,,,,,,
+C10H16N2O8,"Glycine, N,N′-1,2-ethane- diylbis[N-(carboxymethyl)-",-1759.5,,,,,,,,
+C10H16O,Camphor,-319.4,,-267.5,,,,,,
+C10H18,"1,1′-Bicyclopentyl",,-178.9,,,,,,,
+C10H18,cis-Decahydronaphthalene,,-219.4,-169.2,,,,,265.0,
+C10H18,trans-Decahydronaphthalene,,-230.6,-182.1,,,,,264.9,
+C10H18O4,Sebacic acid,-1082.6,,-921.9,,,,,,
+C10H19N,Decanenitrile,,-158.4,-91.5,,,,,,
+C10H20,1-Decene,,-173.8,-123.3,,,,,425.0,
+C10H20,"cis-1,2-Di-tert-butylethylene",,-163.6,,,,,,,
+C10H20O2,Decanoic acid,-713.7,-684.3,-594.9,,,,,,
+C10H20O2,Methyl nonanoate,,-616.2,-554.2,,,,,,
+C10H21NO2,1-Nitrodecane,,-351.5,,,,,,,
+C10H22,Decane,,-300.9,-249.5,,,,,,
+C10H22,2-Methylnonane,,-309.8,-260.2,,,,,420.1,
+C10H22,5-Methylnonane,,-307.9,-258.6,,,,,423.8,
+C10H22O,1-Decanol,,-478.1,-396.6,,,,,,
+C10H22O,Dipentyl ether,,,,,,,,,
+C10H22O,Diisopentyl ether,,,,,,,,,
+C10H22O2,"1,10-Decanediol",-678.9,,,,,,,,
+C10H22O2,Ethylene glycol dibutyl ether,,,,,,,,,
+C10H22S,1-Decanethiol,-309.9,-276.5,-211.5,,,,,476.1,
+C10H22S,Dipentyl sulfide,,-266.4,-204.9,,,,,,
+C10H22S,Diisopentylsulfide,,-281.8,-221.5,,,,,,
+C11H8O2,1-Naphthalenecarboxylic acid,-333.5,,-223.1,,,,,,
+C11H8O2,2-Naphthoic acid,-346.1,,-232.5,,,,,,
+C11H10,1-Methylnaphthalene,,56.3,,,,,,254.8,
+C11H10,2-Methylnaphthalene,44.9,,106.7,,,,220.0,,
+C11H12N2O2,L-Tryptophan,-415.3,,,,,,251.0,,
+C11H14,"1,1-Dimethylindan",,-53.6,-1.6,,,,,,
+C11H16,Pentamethylbenzene,-144.6,,-67.2,,,,,,
+C11H20,Spiro[5.5]undecane,,-244.5,-188.3,,,,,,
+C11H22,1-Undecene,,,,,,,,,
+C11H22O2,Methyl decanoate,,-640.5,-573.8,,,,,,
+C11H24,Undecane,,-327.2,-270.8,,,,,,
+C11H24O,1-Undecanol,,-504.8,,,,,,,
+C12F27N,Trinonafluorobutylamine,,,,,,,,,
+C12H8,Acenaphthylene,186.7,,259.7,,,,,,
+C12H8N2,Phenazine,237.0,,328.8,,,,,,
+C12H8O,Dibenzofuran,-5.3,,83.4,,,,,,
+C12H8S,Dibenzothiophene,120.0,,205.1,,,,,,
+C12H8S2,Thianthrene,182.0,,286.0,,,,,,
+C12H9N,Carbazole,101.7,,200.7,,,,,,
+C12H10,Acenaphthene,70.3,,156.0,,,,188.9,,
+C12H10,Biphenyl,99.4,,181.4,,,,209.4,,
+C12H10N2O,trans-Azoxybenzene,243.4,,342.0,,,,,,
+C12H10N2O,N-Nitrosodiphenylamine,227.2,,,,,,,,
+C12H10O,Diphenyl ether,-32.1,-14.9,52.0,,,,233.9,,
+C12H10O2,1-Naphthaleneacetic acid,-359.2,,,,,,,,
+C12H10O2,2-Naphthaleneacetic acid,-371.9,,,,,,,,
+C12H11N,2-Aminobiphenyl,93.8,,184.4,,,,,,
+C12H11N,p-Biphenylamine,81.0,,,,,,,,
+C12H11N,Diphenylamine,130.2,,219.3,,,,,,
+C12H12N2,p-Benzidine,70.7,,,,,,,,
+C12H16,Cyclohexylbenzene,,-76.6,-16.7,,,,,,
+C12H17NO4,"Diethyl 3,5-dimethyl-pyrrole-2,4-dicarboxylate",-916.7,,,,,,,,
+C12H18,"3,9-Dodecadiyne",,197.8,,,,,,,
+C12H18,"5,7-Dodecadiyne",,181.5,,,,,,,
+C12H18,Hexamethylbenzene,-162.4,,-77.4,,,,306.3,,
+C12H22,Cyclohexylcyclohexane,,-273.7,-215.7,,,,,,
+C12H22O4,Dodecanedioic acid,-1130.0,,-976.9,,,,,,
+C12H22O11,Sucrose,-2226.1,,,,,,,,
+C12H22O11,β-Lactose,-2236.7,,,,,,,,
+C12H24,1-Dodecene,,-226.2,-165.4,,,,,484.8,
+C12H24O2,Dodecanoic acid,-774.6,-737.9,-642.0,,,,,,
+C12H24O2,Methyl undecanoate,,-665.2,-593.8,,,,,,
+C12H24O12,α-Lactose monohydrate,-2484.1,,,,,,,,
+C12H25Br,1-Bromododecane,,-344.7,-269.9,,,,,,
+C12H25Cl,1-Chlorododecane,,-392.3,-321.1,,,,,,
+C12H26,Dodecane,,-350.9,-289.4,,,,,,
+C12H26O,1-Dodecanol,,-528.5,-436.6,,,,,,
+C12H26O3,Diethylene glycol dibutyl ether,,,,,,,,,
+C12H27N,Tributylamine,,-281.6,,,,,,,
+C13H8O2,Xanthone,-191.5,,,,,,,,
+C13H9N,Acridine,179.4,,273.9,,,,,,
+C13H9N,Phenanthridine,141.9,,240.5,,,,,,
+C13H9N,Benzo[f]quinoline,150.6,,233.7,,,,,,
+C13H10N2,9-Acridinamine,159.2,,,,,,,,
+C13H10O,Benzophenone,-34.5,,54.9,,,,,,
+C13H11N,9-Methylcarbazole,105.5,,201.0,,,,,,
+C13H12,Diphenylmethane,71.5,89.7,139.0,,,,239.3,,
+C13H24O4,Tridecanedioic acid,-1148.3,,,,,,,,
+C13H26,1-Tridecene,,,,,,,,,
+C13H26O2,Methyl dodecanoate,,-693.0,-614.9,,,,,,
+C13H28,Tridecane,,,,,,,,,
+C13H28O,1-Tridecanol,-599.4,,,,,,,,
+C14H8O2,"9,10-Anthracenedione",-188.5,,-75.7,,,,,,
+C14H8O2,"9,10-Phenanthrenedione",-154.7,,-46.6,,,,,,
+C14H8O4,"1,4-Dihydroxy-9,10-anthracenedione",-595.8,,-471.7,,,,,,
+C14H10,Anthracene,129.2,,230.9,,,,207.5,,
+C14H10,Phenanthrene,116.2,,207.5,,,,215.1,,
+C14H10,Diphenylacetylene,312.4,,,,,,,,
+C14H10O2,Benzil,-153.9,,-55.5,,,,,,
+C14H12,cis-Stilbene,,183.3,252.3,,,,,,
+C14H12,trans-Stilbene,136.9,,236.1,,,,,,
+C14H14,"1,2-Diphenylethane",51.5,,142.9,,,,,,
+C14H23N3O10,"Glycine, N,N-bis[2-[bis(carboxymethyl)amino]ethyl]",-2225.2,,,,,,,,
+C14H27N,Tetradecanenitrile,,-260.2,-174.9,,,,,,
+C14H28O2,Tetradecanoic acid,-833.5,-788.8,-693.7,,,,,,
+C14H28O2,Methyl tridecanoate,,-717.9,-635.3,,,,,,
+C14H30O,1-Tetradecanol,-629.6,-580.6,,,,,,,
+C15H16O2,"2,2-Bis(4-hydroxyphenyl) propane",-368.6,,,,,,,,
+C15H30,Decylcyclopentane,,-367.3,,,,,,,
+C15H30O2,Pentadecanoic acid,-861.7,-811.7,-699.0,,,,,,
+C15H30O2,Methyl tetradecanoate,,-743.9,-656.9,,,,,,
+C15H32O,1-Pentadecanol,-658.2,,,,,,,,
+C16H10,Fluoranthene,189.9,,289.0,,,,230.6,,
+C16H10,Pyrene,125.5,,225.7,,,,224.9,,
+C16H22O4,Dibutyl phthalate,,-842.6,-750.9,,,,,,
+C16H22O11,α-D-Glucose pentaacetate,-2249.4,,,,,,,,
+C16H22O11,β-D-Glucose pentaacetate,-2232.6,,,,,,,,
+C16H26,Decylbenzene,,-218.3,-138.6,,,,,,
+C16H32,1-Hexadecene,,-328.7,-248.4,,,,,587.9,
+C16H32O2,Hexadecanoic acid,-891.5,-838.1,-737.1,,,,452.4,,
+C16H32O2,Methyl pentadecanoate,,-771.0,-680.0,,,,,,
+C16H33Br,1-Bromohexadecane,,-444.5,-350.2,,,,,,
+C16H34,Hexadecane,,-456.1,-374.8,,,,,,
+C16H34O,1-Hexadecanol,-686.5,,-517.0,,,,,,
+C16H36IN,Tetrabutyl ammonium iodide,-498.6,,,,,,,,
+C17H34O2,Margaric acid,-924.4,-865.6,,,,,,,
+C18H12,Benz[a]anthracene,170.8,,293.0,,,,,,
+C18H12,Chrysene,145.3,,269.8,,,,,,
+C18H15N,Triphenylamine,234.7,,326.8,,,,,,
+C18H34O2,Oleic acid,,,,,,,,,
+C18H34O4,Dibutyl sebacate,,,,,,,,,
+C18H36O2,Stearic acid,-947.7,-884.7,-781.2,,,,,,
+C18H37Cl,1-Chlorooctadecane,,-544.1,-446.0,,,,,,
+C18H38,Octadecane,-567.4,,-414.6,,,,480.2,,
+C18H39N,Trihexylamine,,-433.0,,,,,,,
+C19H16O,Triphenylmethanol,-2.5,,,,,,,,
+C19H36O2,Methyl oleate,,-734.5,-649.9,,,,,,
+C19H36O2,Methyl trans-9-octadecenoate,,-737.0,,,,,,,
+C20H12,Perylene,182.8,,,,,,264.6,,
+C20H14O4,"1,2-Benzenedicarboxylic acid, diphenyl ester",-489.2,,,,,,,,
+C20H38O2,Ethyl cis-9-octadecenoate,,-775.8,,,,,,,
+C20H40O2,Arachidic acid,-1011.9,-940.0,-812.4,,,,,,
+C22H42O2,Brassidic acid,-960.7,,,,,,,,
+C22H42O2,Butyl oleate,,-816.9,,,,,,,
+C22H44O2,Butyl stearate,,,,,,,,,
+C24H38O4,Bis(2-ethylhexyl) phthalate,,,,,,,,,
+C24H51N,Trioctylamine,,-585.0,,,,,,,
+C26H18,"9,10-Diphenylanthracene",308.7,,465.6,,,,,,
+C26H54,5-Butyldocosane,,-713.5,-587.6,,,,,,
+C26H54,11-Butyldocosane,,-716.0,-593.4,,,,,,
+C28H18,"9,9′-Bianthracene",326.2,,454.3,,,,,,
+C31H64,11-Decylheneicosane,,-848.0,-705.8,,,,,,
+C32H66,Dotriacontane,,-968.3,-697.2,,,,,,
+C60,Fullerene-C60,2327.0,,2502.0,2302.0,,2442.0,426.0,,544.0
+C70,Fullerene-C70,2555.0,,2755.0,2537.0,,2692.0,464.0,,614.0
+BeH2O2,Beryllium hydroxide,-902.5,,,-815.0,,,45.5,,
+BeI2,Beryllium iodide,-192.5,,,,,,121.0,,
+BeO,Beryllium oxide,-609.4,,,-580.1,,,13.8,,
+BeO4S,Beryllium sulfate,-1205.2,,,-1093.8,,,77.9,,
+BeS,Beryllium sulfide,-234.3,,,,,,34.0,,
+Bi,Bismuth,0.0,,207.1,,,168.2,56.7,,187.0
+BiClO,Bismuth oxychloride,-366.9,,,-322.1,,,120.5,,
+BiCl3,Bismuth trichloride,-379.1,,-265.7,-315.0,,-256.0,177.0,,358.9
+BiH3O3,Bismuth hydroxide,-711.3,,,,,,,,
+BiI3,Bismuth triiodide,,,,-175.3,,,,,
+Bi2,Dibismuth,,,219.7,,,,,,
+Bi2O3,Bismuth oxide,-573.9,,,-493.7,,,151.5,,
+Bi2O12S3,Bismuth sulfate,-2544.3,,,,,,,,
+Bi2S3,Bismuth sulfide,-143.1,,,-140.6,,,200.4,,
+Bk,Berkelium,0.0,,,,,,,,
+Br,Bromine (atomic),,,111.9,,,82.4,,,175.0
+BrCl,Bromine chloride,,,14.6,,,-1.0,,,240.1
+BrCl3Si,Bromotrichlorosilane,,,,,,,,,350.1
+BrCs,Cesium bromide,-405.8,,,-391.4,,,113.1,,
+BrCu,Copper(I) bromide,-104.6,,,-100.8,,,96.1,,
+BrF,Bromine fluoride,,,-93.8,,,-109.2,,,229.0
+BrF3,Bromine trifluoride,,-300.8,-255.6,,-240.5,-229.4,,178.2,292.5
+BrF5,Bromine pentafluoride,,-458.6,-428.9,,-351.8,-350.6,,225.1,320.2
+BrGe,Germanium monobromide,,,235.6,,,,,,
+BrGeH3,Bromogermane,,,,,,,,,274.8
+BrH,Hydrogen bromide,,,-36.3,,,-53.4,,,198.7
+BrHSi,Bromosilylene,,,-464.4,,,,,,
+BrH3Si,Bromosilane,,,,,,,,,262.4
+BrH4N,Ammonium bromide,-270.8,,,-175.2,,,113.0,,
+BrI,Iodine bromide,,,40.8,,,3.7,,,258.8
+BrIn,Indium(I) bromide,-175.3,,-56.9,-169.0,,-94.3,113.0,,259.5
+BrK,Potassium bromide,-393.8,,,-380.7,,,95.9,,
+BrKO3,Potassium bromate,-360.2,,,-271.2,,,149.2,,
+BrKO4,Potassium perbromate,-287.9,,,-174.4,,,170.1,,
+BrLi,Lithium bromide,-351.2,,,-342.0,,,74.3,,
+BrNO,Nitrosyl bromide,,,82.2,,,82.4,,,273.7
+BrNa,Sodium bromide,-361.1,,-143.1,-349.0,,-177.1,86.8,,241.2
+BrNaO3,Sodium bromate,-334.1,,,-242.6,,,128.9,,
+BrO,Bromine monoxide,,,125.8,,,108.2,,,237.6
+BrO2,Bromine dioxide,48.5,,,,,,,,
+BrRb,Rubidium bromide,-394.6,,,-381.8,,,110.0,,
+BrSi,Bromosilyldyne,,,209.0,,,,,,
+BrTl,Thallium(I) bromide,-173.2,,-37.7,-167.4,,,120.5,,
+Br2,Bromine,,0.0,30.9,,,3.1,,152.2,245.5
+Br2Cd,Cadmium bromide,-316.2,,,-296.3,,,137.2,,
+Br2Co,Cobalt(II) bromide,-220.9,,,,,,,,
+Br2Cr,Chromium(II) bromide,-302.1,,,,,,,,
+Br2Cu,Copper(II) bromide,-141.8,,,,,,,,
+Br2Fe,Iron(II) bromide,-249.8,,,-238.1,,,140.6,,
+Br2H2Si,Dibromosilane,,,,,,,,,309.7
+Br2Hg,Mercury(II) bromide,-170.7,,,-153.1,,,172.0,,
+Br2Hg2,Mercury(I) bromide,-206.9,,,-181.1,,,218.0,,
+Br2Mg,Magnesium bromide,-524.3,,,-503.8,,,117.2,,
+Br2Mn,Manganese(II) bromide,-384.9,,,,,,,,
+Br2Ni,Nickel(II) bromide,-212.1,,,,,,,,
+Br2Pb,Lead(II) bromide,-278.7,,,-261.9,,,161.5,,
+Br2Pt,Platinum(II) bromide,-82.0,,,,,,,,
+Br2S2,Sulfur bromide,,-13.0,,,,,,,
+Br2Se,Selenium bromide,,,-21.0,,,,,,
+Br2Sn,Tin(II) bromide,-243.5,,,,,,,,
+Br2Sr,Strontium bromide,-717.6,,,-697.1,,,135.1,,
+Br2Ti,Titanium(II) bromide,-402.0,,,,,,,,
+Br2Zn,Zinc bromide,-328.7,,,-312.1,,,138.5,,
+Br3ClSi,Tribromochlorosilane,,,,,,,,,377.1
+Br3Fe,Iron(III) bromide,-268.2,,,,,,,,
+Br3Ga,Gallium(III) bromide,-386.6,,,-359.8,,,180.0,,
+Br3HSi,Tribromosilane,,-355.6,-317.6,,-336.4,-328.5,,248.1,348.6
+Br3In,Indium(III) bromide,-428.9,,-282.0,,,,,,
+Br3OP,Phosphorus(V) oxybromide,-458.6,,,,,,,,359.8
+Br3P,Phosphorus(III) bromide,,-184.5,-139.3,,-175.7,-162.8,,240.2,348.1
+Br3Pt,Platinum(III) bromide,-120.9,,,,,,,,
+Br3Re,Rhenium(III) bromide,-167.0,,,,,,,,
+Br3Ru,Ruthenium(III) bromide,-138.0,,,,,,,,
+Br3Sb,Antimony(III) bromide,-259.4,,-194.6,-239.3,,-223.9,207.1,,372.9
+Br3Sc,Scandium bromide,-743.1,,,,,,,,
+Br3Ti,Titanium(III) bromide,-548.5,,,-523.8,,,176.6,,
+Br4Ge,Germanium(IV) bromide,,-347.7,-300.0,,-331.4,-318.0,,280.7,396.2
+Br4Pa,Protactinium(IV) bromide,-824.0,,,-787.8,,,234.0,,
+Br4Pt,Platinum(IV) bromide,-156.5,,,,,,,,
+Br4Si,Tetrabromosilane,,-457.3,-415.5,,-443.9,-431.8,,277.8,377.9
+Br4Sn,Tin(IV) bromide,-377.4,,-314.6,-350.2,,-331.4,264.4,,411.9
+Br4Te,Tellurium tetrabromide,-190.4,,,,,,,,
+Br4Ti,Titanium(IV) bromide,-616.7,,-549.4,-589.5,,-568.2,243.5,,398.4
+Br4V,Vanadium(IV) bromide,,,-336.8,,,,,,
+Br4Zr,Zirconium(IV) bromide,-760.7,,,,,,,,
+Br5P,Phosphorus(V) bromide,-269.9,,,,,,,,
+Br5Ta,Tantalum(V) bromide,-598.3,,,,,,,,
+Br6W,Tungsten(VI) bromide,-348.5,,,,,,,,
+CaCl2,Calcium chloride,-795.4,,,-748.8,,,108.4,,
+CaF2,Calcium fluoride,-1228.0,,,-1175.6,,,68.5,,
+CaH2,Calcium hydride,-181.5,,,-142.5,,,41.4,,
+CaH2O2,Calcium hydroxide,-985.2,,,-897.5,,,83.4,,
+CaI2,Calcium iodide,-533.5,,,-528.9,,,142.0,,
+CaN2O6,Calcium nitrate,-938.2,,,-742.8,,,193.2,,
+CaO,Calcium oxide,-634.9,,,-603.3,,,38.1,,
+CaO4S,Calcium sulfate,-1434.5,,,-1322.0,,,106.5,,
+CaS,Calcium sulfide,-482.4,,,-477.4,,,56.5,,
+Ca3O8P2,Calcium phosphate,-4120.8,,,-3884.7,,,236.0,,
+Cd,Cadmium,0.0,,111.8,,,,51.8,,167.7
+CdCl2,Cadmium chloride,-391.5,,,-343.9,,,115.3,,
+CdF2,Cadmium fluoride,-700.4,,,-647.7,,,77.4,,
+CdH2O2,Cadmium hydroxide,-560.7,,,-473.6,,,96.0,,
+CdI2,Cadmium iodide,-203.3,,,-201.4,,,161.1,,
+CdO,Cadmium oxide,-258.4,,,-228.7,,,54.8,,
+CdO4S,Cadmium sulfate,-933.3,,,-822.7,,,123.0,,
+CdS,Cadmium sulfide,-161.9,,,-156.5,,,64.9,,
+CdTe,Cadmium telluride,-92.5,,,-92.0,,,100.0,,
+Ce,"Cerium (γ, fcc)",0.0,,423.0,,,385.0,72.0,,191.8
+CeCl3,Cerium(III) chloride,-1060.5,,,-984.8,,,151.0,,
+CeI3,Cerium(III) iodide,-669.3,,,,,,,,
+CeO2,Cerium(IV) oxide,-1088.7,,,-1024.6,,,62.3,,
+CeS,Cerium(II) sulfide,-459.4,,,-451.5,,,78.2,,
+Ce2O3,Cerium(III) oxide,-1796.2,,,-1706.2,,,150.6,,
+Cf,Californium,0.0,,,,,,,,
+Cl,Chlorine (atomic),,,121.3,,,105.3,,,165.2
+ClCs,Cesium chloride,-443.0,,,-414.5,,,101.2,,
+ClCsO4,Cesium perchlorate,-443.1,,,-314.3,,,175.1,,
+ClCu,Copper(I) chloride,-137.2,,,-119.9,,,86.2,,
+ClF,Chlorine fluoride,,,-50.3,,,-51.8,,,217.9
+ClFO3,Perchloryl fluoride,,,-23.8,,,48.2,,,279.0
+ClF3,Chlorine trifluoride,,-189.5,-163.2,,,-123.0,,,281.6
+ClF5S,Sulfur chloride pentafluoride,,-1065.7,,,,,,,
+ClGe,Germanium monochloride,,,155.2,,,124.2,,,247.0
+ClGeH3,Chlorogermane,,,,,,,,,263.7
+ClH,Hydrogen chloride,,,-92.3,,,-95.3,,,186.9
+ClHO,Hypochlorous acid,,,-78.7,,,-66.1,,,236.7
+ClHO4,Perchloric acid,,-40.6,,,,,,,
+ClH3Si,Chlorosilane,,,,,,,,,250.7
+ClH4N,Ammonium chloride,-314.4,,,-202.9,,,94.6,,
+ClH4NO4,Ammonium perchlorate,-295.3,,,-88.8,,,186.2,,
+ClH4P,Phosphonium chloride,-145.2,,,,,,,,
+ClI,Iodine chloride,,-23.9,17.8,,-13.6,-5.5,,135.1,247.6
+ClK,Potassium chloride,-436.5,,-214.6,-408.5,,-233.3,82.6,,239.1
+ClKO3,Potassium chlorate,-397.7,,,-296.3,,,143.1,,
+ClKO4,Potassium perchlorate,-432.8,,,-303.1,,,151.0,,
+ClLi,Lithium chloride,-408.6,,,-384.4,,,59.3,,
+ClLiO4,Lithium perchlorate,-381.0,,,,,,,,
+ClNO,Nitrosyl chloride,,,51.7,,,66.1,,,261.7
+ClNO2,Nitryl chloride,,,12.6,,,54.4,,,272.2
+ClNa,Sodium chloride,-411.2,,,-384.1,,,72.1,,
+ClNaO2,Sodium chlorite,-307.0,,,,,,,,
+ClNaO3,Sodium chlorate,-365.8,,,-262.3,,,123.4,,
+ClNaO4,Sodium perchlorate,-383.3,,,-254.9,,,142.3,,
+ClO,Chlorine monoxide,,,101.8,,,98.1,,,226.6
+ClOV,Vanadyl chloride,-607.0,,,-556.0,,,75.0,,
+ClO2,Chlorine dioxide,,,102.5,,,120.5,,,256.8
+ClO2,Chlorine superoxide (ClOO),,,89.1,,,105.0,,,263.7
+ClO4Rb,Rubidium perchlorate,-437.2,,,-306.9,,,161.1,,
+ClRb,Rubidium chloride,-435.4,,,-407.8,,,95.9,,
+ClSi,Chlorosilylidyne,,,189.9,,,,,,
+ClTl,Thallium(I) chloride,-204.1,,-67.8,-184.9,,,111.3,,
+Cl2,Chlorine,,,0.0,,,,,,223.1
+Cl2Co,Cobalt(II) chloride,-312.5,,,-269.8,,,109.2,,
+Cl2Cr,Chromium(II) chloride,-395.4,,,-356.0,,,115.3,,
+Cl2CrO2,Chromyl chloride,,-579.5,-538.1,,-510.8,-501.6,,221.8,329.8
+Cl2Cu,Copper(II) chloride,-220.1,,,-175.7,,,108.1,,
+Cl2Fe,Iron(II) chloride,-341.8,,,-302.3,,,118.0,,
+Cl2H2Si,Dichlorosilane,,,,,,,,,285.7
+Cl2Hg,Mercury(II) chloride,-224.3,,,-178.6,,,146.0,,
+Cl2Hg2,Mercury(I) chloride,-265.4,,,-210.7,,,191.6,,
+Cl2Mg,Magnesium chloride,-641.3,,,-591.8,,,89.6,,
+Cl2Mn,Manganese(II) chloride,-481.3,,,-440.5,,,118.2,,
+Cl2Ni,Nickel(II) chloride,-305.3,,,-259.0,,,97.7,,
+Cl2O,Chlorine oxide,,,80.3,,,97.9,,,266.2
+Cl2OS,Thionyl chloride,,-245.6,-212.5,,,-198.3,,,309.8
+Cl2O2S,Sulfuryl chloride,,-394.1,-364.0,,,-320.0,,,311.9
+Cl2O2U,Uranyl chloride,-1243.9,,,-1146.4,,,150.5,,
+Cl2Pb,Lead(II) chloride,-359.4,,,-314.1,,,136.0,,
+Cl2Pt,Platinum(II) chloride,-123.4,,,,,,,,
+Cl2S,Sulfur dichloride,,-50.0,,,,,,,
+Cl2S2,Sulfur chloride,,-59.4,,,,,,,
+Cl2Sn,Tin(II) chloride,-325.1,,,,,,,,
+Cl2Sr,Strontium chloride,-828.9,,,-781.1,,,114.9,,
+Cl2Ti,Titanium(II) chloride,-513.8,,,-464.4,,,87.4,,
+Cl2Zn,Zinc chloride,-415.1,,-266.1,-369.4,,,111.5,,
+Cl2Zr,Zirconium(II) chloride,-502.0,,,,,,,,
+Cl3Dy,Dysprosium(III) chloride,-1000.0,,,,,,,,
+Cl3Er,Erbium chloride,-998.7,,,,,,,,
+Cl3Eu,Europium(III) chloride,-936.0,,,,,,,,
+Cl3Fe,Iron(III) chloride,-399.5,,,-334.0,,,142.3,,
+Cl3Ga,Gallium(III) chloride,-524.7,,,-454.8,,,142.0,,
+Cl3Gd,Gadolinium(III) chloride,-1008.0,,,,,,,,
+Cl3HSi,Trichlorosilane,,-539.3,-513.0,,-482.5,-482.0,,227.6,313.9
+Cl3Ho,Holmium chloride,-1005.4,,,,,,,,
+Cl3In,Indium(III) chloride,-537.2,,-374.0,,,,,,
+Cl3Ir,Iridium(III) chloride,-245.6,,,,,,,,
+Cl3La,Lanthanum chloride,-1072.2,,,,,,,,
+Cl3Lu,Lutetium chloride,-945.6,,-649.0,,,,,,
+Cl3N,Nitrogen trichloride,,230.0,,,,,,,
+Cl3Nd,Neodymium chloride,-1041.0,,,,,,,,
+Cl3OP,Phosphorus(V) oxychloride,,-597.1,-558.5,,-520.8,-512.9,,222.5,325.5
+Cl3OV,Vanadyl trichloride,,-734.7,-695.6,,-668.5,-659.3,,244.3,344.3
+Cl3Os,Osmium(III) chloride,-190.4,,,,,,,,
+Cl3P,Phosphorus(III) chloride,,-319.7,-287.0,,-272.3,-267.8,,217.1,311.8
+Cl3Pr,Praseodymium chloride,-1056.9,,,,,,,,
+Cl3Pt,Platinum(III) chloride,-182.0,,,,,,,,
+Cl3Re,Rhenium(III) chloride,-264.0,,,-188.0,,,123.8,,
+Cl3Rh,Rhodium(III) chloride,-299.2,,,,,,,,
+Cl3Ru,Ruthenium(III) chloride,-205.0,,,,,,,,
+Cl3Sb,Antimony(III) chloride,-382.2,,,-323.7,,,184.1,,
+Cl3Sc,Scandium chloride,-925.1,,,,,,,,
+Cl3Sm,Samarium(III) chloride,-1025.9,,,,,,,,
+Cl3Tb,Terbium chloride,-997.0,,,,,,,,
+Cl3Ti,Titanium(III) chloride,-720.9,,,-653.5,,,139.7,,
+Cl3Tl,Thallium(III) chloride,-315.1,,,,,,,,
+Cl3Tm,Thulium chloride,-986.6,,,,,,,,
+Cl3U,Uranium(III) chloride,-866.5,,,-799.1,,,159.0,,
+Cl3V,Vanadium(III) chloride,-580.7,,,-511.2,,,131.0,,
+Cl3Y,Yttrium chloride,-1000.0,,-750.2,,,,,,
+Cl3Yb,Ytterbium(III) chloride,-959.8,,,,,,,,
+Cl4Ge,Germanium(IV) chloride,,-531.8,-495.8,,-462.7,-457.3,,245.6,347.7
+Cl4Hf,Hafnium(IV) chloride,-990.4,,-884.5,-901.3,,,190.8,,
+Cl4Pa,Protactinium(IV) chloride,-1043.0,,,-953.0,,,192.0,,
+Cl4Pb,Lead(IV) chloride,,-329.3,,,,,,,
+Cl4Pt,Platinum(IV) chloride,-231.8,,,,,,,,
+Cl4Si,Tetrachlorosilane,,-687.0,-657.0,,-619.8,-617.0,,239.7,330.7
+Cl4Sn,Tin(IV) chloride,,-511.3,-471.5,,-440.1,-432.2,,258.6,365.8
+Cl4Te,Tellurium tetrachloride,-326.4,,,,,,,,
+Cl4Th,Thorium(IV) chloride,-1186.2,,-964.4,-1094.1,,-932.0,190.4,,390.7
+Cl4Ti,Titanium(IV) chloride,,-804.2,-763.2,,-737.2,-726.3,,252.3,353.2
+MgO4Se,Magnesium selenate,-968.5,,,,,,,,
+MgS,Magnesium sulfide,-346,,,-341.8,,,50.3,,
+Mg2,Dimagnesium,,,287.7,,,,,,
+Mg2O4Si,Magnesium orthosilicate,-2174,,,-2055.1,,,95.1,,
+Mn,Manganese,0,,280.7,,,238.5,32,,173.7
+MnN2O6,Manganese(II) nitrate,-576.3,,,,,,,,

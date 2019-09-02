@@ -6,9 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Thermodynamic Calculator</title>
     <link rel="stylesheet" href="stylesheet.css">
+    <script src="FuzzySearch.js"></script>
     <script src="script.js"></script>
 </head>
-<body>
+<body onload="onload()">
     <div class="wrapper">
         <div class="title">
             <h1>Thermodynamic Calculator</h1>
@@ -18,39 +19,79 @@
             <div class="input-container">
                 <div class="input-container-element">
                     <h2>Reagents</h2>
-                    <div class="element-container">
-                        <div class="element">
-                            <input required class="coefficient" type="number" min="1" max="99" step="1" value="1" />
-                            <span></span>
-                            <input placeholder="Chemical formula" />
-                            <input placeholder="aq, g, s, l" />
-                        </div>
-                        <div class="element">
-                            hello12
-                        </div>
-                    </div>
+                    <div class="element-container"></div>
                     <div class="add-remove-buttons">
-                        <button id="add">Add reagent</button>
-                        <button id="remove">Remove reagent</button>
+                        <button id="add" onclick="buttonClick(this)">Add reagent</button>
+                        <button id="remove" onclick="buttonClick(this)">Remove reagent</button>
                     </div>
                 </div>
                 <div class="input-container-element">
                     <h2>Products</h2>
-                    <div class="element-container">
-                        <div class="element">
-                            hello21
-                        </div>
-                        <div class="element">
-                            hello22
-                        </div>
-                    </div>
+                    <div class="element-container"></div>
                     <div class="add-remove-buttons">
-                        <button id="add">Add product</button>
-                        <button id="remove">Remove product</button>
+                        <button id="add" onclick="buttonClick(this)">Add product</button>
+                        <button id="remove" onclick="buttonClick(this)">Remove product</button>
                     </div>
                 </div>
             </div>
+            <div class="calculation-container">
+                calculation 1+1=3
+            </div>
+            <div class="info-container">
+                how to use ...
+                *6H2O
+                +2
+                -1
+            </div>
         </div>
     </div>
+    <template id="element-template"><div class="element">
+            <h3 class="element-title"></h3>
+            <div class="element-input-wrapper">
+                <label for="coefficient">Coefficient</label>
+                <input required id="coefficient" type="number" min="1" max="99" step="1" value="1" oninput="coEdit(this)" />
+            </div>
+            <div class="element-input-wrapper">
+                <label for="formula">Chemical formula</label>
+                <input id="formula" placeholder="e.g. Ag2O3" oninput="formulaEdit(this)" />
+            </div>
+            <div class="element-input-wrapper">
+                <label for="state">Chemical state</label>
+                <input id="state" placeholder="aq, g, s, l" oninput="stateEdit(this)" />
+            </div>
+            <div class="hsg-wrapper">
+                <p class="hidden"><i>If the correct chemical cannot be found, input these values manually.</i></p>
+                <div class="hsg-input-wrapper">
+                    <label for="h">&Delta;<i>H</i><sup>&#x29b5;</sup></label>
+                    <input id="h" type="number" step="0.0000001"/>
+                </div>
+                <div class="hsg-input-wrapper">
+                    <label for="s">&Delta;<i>S</i><sup>&#x29b5;</sup></label>
+                    <input id="s" type="number" step="0.0000001" />
+                </div>
+                <div class="hsg-input-wrapper">
+                    <label for="g">&Delta;<i>G</i><sup>&#x29b5;</sup></label>
+                    <input id="g" type="number" step="0.0000001" />
+                </div>
+            </div>
+            <div class="element-suggestions-wrapper hidden">
+                <h4>Suggestions</h4>
+                <div class="element-suggestions"></div>
+            </div>
+        </div
+    ></template>
+    <template id="suggestion-template"><div class="suggestion">
+            <span class="suggestion-formula"></span>
+            <span class="suggestion-other"></span>
+            <div class="suggestion-values">
+                <span>&Delta;<i>H</i><sup>&#x29b5;</sup></span>
+                <span>&Delta;<i>S</i><sup>&#x29b5;</sup></span>
+                <span>&Delta;<i>G</i><sup>&#x29b5;</sup></span>
+                <span id="H" class="value"></span>
+                <span id="S" class="value"></span>
+                <span id="G" class="value"></span>
+            </div>
+        </div
+    ></template>
 </body>
 </html>
