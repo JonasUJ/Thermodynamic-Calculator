@@ -22,9 +22,9 @@ class ChemObject:
     @staticmethod
     def fromRow(row: list):
         return (
-            ChemObject(row[0], 's', row[1], row[2], row[5], row[8]),
-            ChemObject(row[0], 'l', row[1], row[3], row[6], row[9]),
-            ChemObject(row[0], 'g', row[1], row[4], row[7], row[10])
+            ChemObject(row[0], 's', row[1], row[2], row[8], row[5]),
+            ChemObject(row[0], 'l', row[1], row[3], row[9], row[6]),
+            ChemObject(row[0], 'g', row[1], row[4], row[10], row[7])
         )
 
     def asDict(self):
