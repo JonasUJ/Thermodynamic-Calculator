@@ -31,7 +31,7 @@ class ChemObject:
         return {
             'name': self.name,
             'state': self.state,
-            'other': self.other,
+            'other': self.other.capitalize() if self.other else self.other,
             'H': self.H,
             'S': self.S,
             'G': self.G,
