@@ -74,10 +74,11 @@ function suggestionClick(elem) {
 }
 
 function getElements() {
-    o = {}
+    o = []
     elems = document.querySelectorAll(".element");
-    elems.forEach(el => o.add({
-        co: el.querySelector("#coeffienient").value,
+    elems.forEach(el => o.push({
+        type: el.parentNode.getAttribute("data-title"),
+        co: el.querySelector("#coefficient").value,
         formula: el.querySelector("#formula").value,
         state: el.querySelector("#state").value,
         H: el.querySelector("#H").value,
@@ -97,11 +98,58 @@ function doCalculation(elems) {
         G_missing: []
     };
 
-    elems.forEach(el => {})
+    var validH, validS, validG = true;
+    var sumHR = 0, sumHP = 0, sumSR = 0, sumSP = 0, sumGR = 0, sumGP = 0;
+
+    function isValid(num) {
+        return /^-?\d+(\.\d+)?$/.test(num);
+    }
+
+    elems.forEach(el => {
+        if (!isValid(el.H)) {
+            o.H_missing.push(el.formula);
+            validH = false;
+        } else {
+            if (el.type == "Reagent") {
+                sumHR += el.co * el.H
+            } else {
+                sumHP += el.co * el.H
+            }
+        }
+        if (!isValid(el.S)) {
+            o.S_missing.push(el.formula);
+            validS = false;
+        } else {
+            if (el.type == "Reagent") {
+                sumSR += el.co * el.S
+            } else {
+                sumSP += el.co * el.S
+            }
+        }
+        if (!isValid(el.G)) {
+            o.G_missing.push(el.formula);
+            validG = false;
+        } else {
+            if (el.type == "Reagent") {
+                sumGR += el.co * el.G
+            } else {
+                sumGP += el.co * el.G
+            }
+        }
+    })
+
+    o.H = sumHP - sumHR;
+    o.S = sumSP - sumSR;
+    o.G = sumGP - sumGR;
+    return o;
 }
 
-function calculateClick() {
-
+function calculateClick(btn) {
+    btn.blur();
+    elems = getElements();
+    res = doCalculation(elems);
+    resdiv = document.querySelector(".results");
+    resdiv.innerHTML = "H = " + res.H + "<br>S = " + res.S + "<br>G = " + res.G;
 }
 
 function formatFormula(co, text, state) {

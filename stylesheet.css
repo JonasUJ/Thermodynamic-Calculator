@@ -9,6 +9,10 @@
         padding: 8px;
     }
 
+    .element-title {
+        margin-top: 2px;
+    }
+
     html body {
         margin: 0;
     }
@@ -64,13 +68,19 @@ input:invalid {
 
 input {
     width: 100px;
-    border: 1px solid #0093c4;
-    border-radius: 4px;
+    /* border: 1px solid #0093c4; */
+    /* border-radius: 4px; */
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.5);
+    border: none;
     padding: 4px;
 }
 
 input:focus {
     outline: black;
+}
+
+input:focus-within {
+    box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.5);
 }
 
 .hidden {
@@ -103,13 +113,19 @@ input:focus {
     width: calc(50% - 64px);
 }
 
+.input-container-element h2 {
+    margin-top: 64px;
+    font-size: 32px;
+}
+
 .element {
     margin: 8px auto;
-    border: 1px solid #0093c4;
-    border-radius: 8px;
+    /* border: 1px solid #0093c4; */
+    /* border-radius: 8px; */
     padding: 8px 24px;
     min-height: 32px;
     max-width: 436px;
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.5);
 }
 
 .element-input-wrapper {
@@ -143,7 +159,7 @@ input:focus {
 }
 
 .element-suggestions-wrapper {
-    border-top: 1px solid #0093c4;
+    border-top: 1px solid grey;
     margin-top: 24px;
 }
 
@@ -216,19 +232,14 @@ input:focus {
     transition: 150ms all;
 }
 
-#calculate:hover {
+#calculate:hover, #calculate:focus {
+    outline: 0;
     background-color: rgb(68, 68, 68);
     box-shadow: #0093c4;
-    -webkit-box-shadow: 0px 4px 14px -4px rgba(0,0,0,0.83);
-    -moz-box-shadow: 0px 4px 14px -4px rgba(0,0,0,0.83);
     box-shadow: 0px 4px 14px -4px rgba(0,0,0,0.83);
 }
 
 #calculate:active {
     outline: 0;
     transform: translate(0, 2px);
-}
-
-#calculate:focus {
-    outline: 0; 
 }
