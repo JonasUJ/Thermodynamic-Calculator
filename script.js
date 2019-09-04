@@ -73,6 +73,37 @@ function suggestionClick(elem) {
     parent.querySelector(".element-suggestions-wrapper").classList.add("hidden");
 }
 
+function getElements() {
+    o = {}
+    elems = document.querySelectorAll(".element");
+    elems.forEach(el => o.add({
+        co: el.querySelector("#coeffienient").value,
+        formula: el.querySelector("#formula").value,
+        state: el.querySelector("#state").value,
+        H: el.querySelector("#H").value,
+        S: el.querySelector("#S").value,
+        G: el.querySelector("#G").value,
+    }));
+    return o;
+}
+
+function doCalculation(elems) {
+    o = {
+        H: 0,
+        S: 0,
+        G: 0,
+        H_missing: [],
+        S_missing: [],
+        G_missing: []
+    };
+
+    elems.forEach(el => {})
+}
+
+function calculateClick() {
+
+}
+
 function formatFormula(co, text, state) {
     var res = "";
     var sup = false;

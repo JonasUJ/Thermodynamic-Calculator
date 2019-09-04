@@ -115,7 +115,7 @@ input:focus {
 .element-input-wrapper {
     display: flex;
     justify-content: space-between;
-    margin: 2px;
+    margin-top: 4px;
     max-width: 280px;
 }
 
@@ -134,7 +134,7 @@ input:focus {
 
 .hsg-input-wrapper {
     display: inline-block;
-    margin: 2px;
+    margin-top: 4px;
 }
 
 .hsg-input-wrapper > label {
@@ -193,6 +193,7 @@ input:focus {
     background-color: transparent;
     color: #0093c4;
     border: none;
+    transition: 100ms all;
 }
 
 .add-remove-buttons button:hover {
@@ -210,7 +211,7 @@ input:focus {
     color: white;
     border: 0px;
     border-radius: 8px;
-    padding: 8px 16px;
+    padding: 12px 20px;
     background-color: #0093c4;
     transition: 150ms all;
 }
@@ -225,4 +226,9 @@ input:focus {
 
 #calculate:active {
     outline: 0;
+    transform: translate(0, 2px);
+}
+
+#calculate:focus {
+    outline: 0; 
 }
